@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Cercana Obsesion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qraS3pMk3lDyNnsYRAxlNwPCzDV.jpg" group-title="🔍 Filtros: obsesión",Cercana Obsesion
+http://canal-pro.xyz:8080/movie/84281530/Y8d54eCZA1/270114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesion Secreta " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDNnaKq5FWDxDV1jk2cXVYIvknn.jpg" group-title="🔍 Filtros: obsesión",Obsesion Secreta 
+http://canal-pro.xyz:8080/movie/84281530/Y8d54eCZA1/254150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión desconocida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4ApvEtZD62AItsIjX1HU1c5D2.jpg" group-title="🔍 Filtros: obsesión",Obsesión desconocida (2022)
+http://canal-pro.xyz:8080/movie/84281530/Y8d54eCZA1/1052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión: Huyendo de mi ex (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZHwFoE8XNlEICs1EQ8jByWw9XL.jpg" group-title="🔍 Filtros: obsesión",Obsesión: Huyendo de mi ex (2020)
+http://canal-pro.xyz:8080/movie/84281530/Y8d54eCZA1/1731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Extraña Obsesión" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="🔍 Filtros: obsesión",Mi Extraña Obsesión
+https://stitcher.pluto.tv/stitch/hls/channel/60e4573c9f963e00077ecf25/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión por los Autos" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="🔍 Filtros: obsesión",Obsesión por los Autos
+https://stitcher.pluto.tv/stitch/hls/channel/64025592953da40008bf9238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mi Obsesión Favorita" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="🔍 Filtros: obsesión",Pluto TV Mi Obsesión Favorita
+https://stitcher.pluto.tv/stitch/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+http://canal-pro.xyz:8080/series/84281530/Y8d54eCZA1/11815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cercana Obsesion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qraS3pMk3lDyNnsYRAxlNwPCzDV.jpg" group-title="🔍 Filtros: obsesión",Cercana Obsesion
+http://tvhomesmart.xyz:8080/movie/933926424tv/cxsqbd/270114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesion Secreta " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDNnaKq5FWDxDV1jk2cXVYIvknn.jpg" group-title="🔍 Filtros: obsesión",Obsesion Secreta 
+http://tvhomesmart.xyz:8080/movie/933926424tv/cxsqbd/254150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión desconocida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4ApvEtZD62AItsIjX1HU1c5D2.jpg" group-title="🔍 Filtros: obsesión",Obsesión desconocida (2022)
+http://tvhomesmart.xyz:8080/movie/933926424tv/cxsqbd/1052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión: Huyendo de mi ex (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZHwFoE8XNlEICs1EQ8jByWw9XL.jpg" group-title="🔍 Filtros: obsesión",Obsesión: Huyendo de mi ex (2020)
+http://tvhomesmart.xyz:8080/movie/933926424tv/cxsqbd/1731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Extraña Obsesión" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="🔍 Filtros: obsesión",Mi Extraña Obsesión
+https://stitcher.pluto.tv/stitch/hls/channel/60e4573c9f963e00077ecf25/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión por los Autos" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="🔍 Filtros: obsesión",Obsesión por los Autos
+https://stitcher.pluto.tv/stitch/hls/channel/64025592953da40008bf9238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mi Obsesión Favorita" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="🔍 Filtros: obsesión",Pluto TV Mi Obsesión Favorita
+https://stitcher.pluto.tv/stitch/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+http://tvhomesmart.xyz:8080/series/933926424tv/cxsqbd/11815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión desconocida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4ApvEtZD62AItsIjX1HU1c5D2.jpg" group-title="🔍 Filtros: obsesión",Obsesión desconocida (2022)
+http://elitestream.click:8080/movie/JaniloVillao/9739918801/332066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Secretos de una Obsesión (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biK0cAoIJpnRFg7A7JMIOHY7LMs.jpg" group-title="🔍 Filtros: obsesión",Secretos de una Obsesión (2015)
+http://elitestream.click:8080/movie/JaniloVillao/9739918801/335285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8OrpkiogKFyIIwV7pILy4g5zeGe.jpg" group-title="🔍 Filtros: obsesión",Obsesión (2019)
+http://elitestream.click:8080/movie/JaniloVillao/9739918801/336554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión Secreta (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oDNnaKq5FWDxDV1jk2cXVYIvknn.jpg" group-title="🔍 Filtros: obsesión",Obsesión Secreta (2019)
+http://elitestream.click:8080/movie/JaniloVillao/9739918801/336630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Misteriosa Obsesión (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q4sLhtgw6a9SX9mtC1dgc1XWxoI.jpg" group-title="🔍 Filtros: obsesión",Misteriosa Obsesión (2004)
+http://elitestream.click:8080/movie/JaniloVillao/9739918801/337502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cercana Obsesión (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qraS3pMk3lDyNnsYRAxlNwPCzDV.jpg" group-title="🔍 Filtros: obsesión",Cercana Obsesión (2015)
+http://elitestream.click:8080/movie/JaniloVillao/9739918801/338273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vyvSlairapZNGUUYFhHbYl3Uw1I.jpg" group-title="🔍 Filtros: obsesión",Obsesión (1992)
+http://elitestream.click:8080/movie/JaniloVillao/9739918801/338465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión Secreta (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oDNnaKq5FWDxDV1jk2cXVYIvknn.jpg" group-title="🔍 Filtros: obsesión",Obsesión Secreta (2019)
+http://elitestream.click:8080/movie/JaniloVillao/9739918801/551458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión desconocida (2022) SUB" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4ApvEtZD62AItsIjX1HU1c5D2.jpg" group-title="🔍 Filtros: obsesión",Obsesión desconocida (2022) SUB
+http://elitestream.click:8080/movie/JaniloVillao/9739918801/552035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión desconocida (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4ApvEtZD62AItsIjX1HU1c5D2.jpg" group-title="🔍 Filtros: obsesión",Obsesión desconocida (2022)
+http://elitestream.click:8080/movie/JaniloVillao/9739918801/552123.mp4
+#EXTINF:-1 tvg-name="Loca obsesión (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/borWlVwA2AXYa8T2S7NHT8Zi7DK.jpg" group-title="🔍 Filtros: obsesión",Loca obsesión (2009)
+https://nxt.plus:8443/movie/car444cam/2ss58afeY2X5/154530.mkv
+#EXTINF:-1 tvg-name="Obsesion desconocida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4ApvEtZD62AItsIjX1HU1c5D2.jpg" group-title="🔍 Filtros: obsesión",Obsesion desconocida (2022)
+https://nxt.plus:8443/movie/car444cam/2ss58afeY2X5/174197.mkv
+#EXTINF:-1 tvg-name="Obsesion desconocida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4ApvEtZD62AItsIjX1HU1c5D2.jpg" group-title="🔍 Filtros: obsesión",Obsesion desconocida (2022)
+https://nxt.plus:8443/movie/car444cam/2ss58afeY2X5/174197.mkv
+#EXTINF:-1 tvg-name="Obsesión S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/miNNU7NqOAei7GeyqsCz6yMUANt.jpg" group-title="🔍 Filtros: obsesión",Obsesión S01E01
+https://nxt.plus:8443/series/car444cam/2ss58afeY2X5/166529.mkv
+#EXTINF:-1 tvg-name="Obsesión S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/t3Hm7rcyg2E8OsofGoM96105fhJ.jpg" group-title="🔍 Filtros: obsesión",Obsesión S01E02
+https://nxt.plus:8443/series/car444cam/2ss58afeY2X5/166530.mkv
+#EXTINF:-1 tvg-name="Obsesión S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/nm4CpQ2QncBFBPDJq3v4gkXQeF6.jpg" group-title="🔍 Filtros: obsesión",Obsesión S01E03
+https://nxt.plus:8443/series/car444cam/2ss58afeY2X5/166531.mkv
+#EXTINF:-1 tvg-name="Obsesión S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/gZ8NebtIVho5T4iMSqiXPVKvu8e.jpg" group-title="🔍 Filtros: obsesión",Obsesión S01E04
+https://nxt.plus:8443/series/car444cam/2ss58afeY2X5/166532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cercana Obsesion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qraS3pMk3lDyNnsYRAxlNwPCzDV.jpg" group-title="🔍 Filtros: obsesión",Cercana Obsesion
+http://ultra-premium-pro.xyz:8080/movie/Marcelomercado/869372/270114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesion Secreta " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDNnaKq5FWDxDV1jk2cXVYIvknn.jpg" group-title="🔍 Filtros: obsesión",Obsesion Secreta 
+http://ultra-premium-pro.xyz:8080/movie/Marcelomercado/869372/254150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión desconocida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4ApvEtZD62AItsIjX1HU1c5D2.jpg" group-title="🔍 Filtros: obsesión",Obsesión desconocida (2022)
+http://ultra-premium-pro.xyz:8080/movie/Marcelomercado/869372/1052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión: Huyendo de mi ex (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZHwFoE8XNlEICs1EQ8jByWw9XL.jpg" group-title="🔍 Filtros: obsesión",Obsesión: Huyendo de mi ex (2020)
+http://ultra-premium-pro.xyz:8080/movie/Marcelomercado/869372/1731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Extraña Obsesión" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="🔍 Filtros: obsesión",Mi Extraña Obsesión
+https://stitcher.pluto.tv/stitch/hls/channel/60e4573c9f963e00077ecf25/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión por los Autos" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="🔍 Filtros: obsesión",Obsesión por los Autos
+https://stitcher.pluto.tv/stitch/hls/channel/64025592953da40008bf9238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mi Obsesión Favorita" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="🔍 Filtros: obsesión",Pluto TV Mi Obsesión Favorita
+https://stitcher.pluto.tv/stitch/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+http://ultra-premium-pro.xyz:8080/series/Marcelomercado/869372/11815.mkv
+#EXTINF:-1 tvg-name="Cercana obsesión (2015) NF 1080p [spa, eng]" tvg-logo="http://tvlatino.club:2082/images/5zJZvdQUIDct6IWrQscRfuDFHXfejgeDrO64Nq4alJxdEOr_oFT6Cg9MLLSZPlxpEri_xhN-9lfEiy2b7NAajCUEka8AURzaJw5MkZeh0X0.jpg" group-title="🔍 Filtros: obsesión",Cercana obsesión (2015) NF 1080p [spa, eng]
+http://tvlatino.club:2082/movie/Huapaya69/nnGVKeUzrV2w/400019.mkv
+#EXTINF:-1 tvg-name="Obsesión secreta (2019) NF 1080p [spa, eng]" tvg-logo="http://tvlatino.club:2082/images/5zJZvdQUIDct6IWrQscRfuDFHXfejgeDrO64Nq4alJxdEOr_oFT6Cg9MLLSZPlxpy1aS12f7rGFs_F3bW0rrUw_BY58kTIDg_oY080YCdM4.jpg" group-title="🔍 Filtros: obsesión",Obsesión secreta (2019) NF 1080p [spa, eng]
+http://tvlatino.club:2082/movie/Huapaya69/nnGVKeUzrV2w/400121.mkv
+#EXTINF:-1 tvg-name="Peligrosa obsesión (2004) Thriller, Acción" tvg-logo="http://tvlatino.club:2082/images/5zJZvdQUIDct6IWrQscRfuDFHXfejgeDrO64Nq4alJxdEOr_oFT6Cg9MLLSZPlxpymxbaCq3xGT9Bi1_DxuDfJ-_DJJG6p__0vbgkvXqPd4.jpg" group-title="🔍 Filtros: obsesión",Peligrosa obsesión (2004) Thriller, Acción
+http://tvlatino.club:2082/movie/Huapaya69/nnGVKeUzrV2w/400125.mp4
+#EXTINF:-1 tvg-name="Ciega Obsesion (2001)" tvg-logo="http://tvlatino.club:2082/images/4Cs72Ps3LETdfkka_jLHfnbuUiPUj2ehibmZ0zM0cDHRHcMSe7mcMik-PqpwgHqdKHiZ76cuMU2CO6vtciogh8JmJLfeNQDqGELTH2EzoDM.jpg" group-title="🔍 Filtros: obsesión",Ciega Obsesion (2001)
+http://tvlatino.club:2082/movie/Huapaya69/nnGVKeUzrV2w/429261.mkv
+#EXTINF:-1 tvg-name="Oscura obsesión (2023)" tvg-logo="http://tvlatino.club:2082/images/dhoV9zlDY-gH3HwK3WD9hfPiYET7ZY6dURKuQlx7N0K225CxdCOZJvMb-9yXOV-YclPSLYf5dzgnFwM_3lWekiPf5A9wmdzfcEnj_2Z9SlE.jpg" group-title="🔍 Filtros: obsesión",Oscura obsesión (2023)
+http://tvlatino.club:2082/movie/Huapaya69/nnGVKeUzrV2w/512488.mkv
+#EXTINF:-1 tvg-name="La Obsesión de Celin" tvg-logo="http://tvlatino.club:2082/images/dhoV9zlDY-gH3HwK3WD9hfPiYET7ZY6dURKuQlx7N0K225CxdCOZJvMb-9yXOV-Y7qf7ttSsFvHz80hHd3M_35ldl5b-eyVua7xWeKreZ98.jpg" group-title="🔍 Filtros: obsesión",La Obsesión de Celin
+http://tvlatino.club:2082/movie/Huapaya69/nnGVKeUzrV2w/574134.mkv
+#EXTINF:-1 tvg-name="Red Rooms Obsesión perversa" tvg-logo="http://tvlatino.club:2082/images/dhoV9zlDY-gH3HwK3WD9hfPiYET7ZY6dURKuQlx7N0K225CxdCOZJvMb-9yXOV-Y8X7c-wolvWsEt07GQnWvG39W71t-M9Mr-PZEdG9jd-M.jpg" group-title="🔍 Filtros: obsesión",Red Rooms Obsesión perversa
+http://tvlatino.club:2082/movie/Huapaya69/nnGVKeUzrV2w/574144.mkv
+#EXTINF:-1 tvg-name="Interracial  BLACKED LA OBSESION DE CARTER CRUISE CAPITULO" tvg-logo="http://tvlatino.club:2082/images/4Cs72Ps3LETdfkka_jLHfnbuUiPUj2ehibmZ0zM0cDHRHcMSe7mcMik-PqpwgHqdmZHCY23SGGq-GFP0_h6X6lQviup0lCOUFTEiKtSFGr4.jpg" group-title="🔍 Filtros: obsesión",Interracial  BLACKED LA OBSESION DE CARTER CRUISE CAPITULO
+http://tvlatino.club:2082/movie/Huapaya69/nnGVKeUzrV2w/433757.mp4
+#EXTINF:-1 tvg-name="Interracial  Blacked obsesion de Kendra sunderlan parte 1" tvg-logo="http://tvlatino.club:2082/images/4Cs72Ps3LETdfkka_jLHfnbuUiPUj2ehibmZ0zM0cDHRHcMSe7mcMik-PqpwgHqdmZHCY23SGGq-GFP0_h6X6lQviup0lCOUFTEiKtSFGr4.jpg" group-title="🔍 Filtros: obsesión",Interracial  Blacked obsesion de Kendra sunderlan parte 1
+http://tvlatino.club:2082/movie/Huapaya69/nnGVKeUzrV2w/433759.mp4
