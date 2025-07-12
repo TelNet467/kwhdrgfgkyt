@@ -79,6 +79,8 @@ http://200.121.48.215:8000/play/a04b/index.m3u8
 http://201.230.121.186:8000/play/a0dq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RPP | 28.2ms" tvg-logo="" group-title="Canales Peruanos",RPP | 28.2ms
 http://179.1.146.123:8002/play/a0n5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal N | 33.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",Canal N | 33.2ms
+http://179.1.146.123:8002/play/a0ml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exitosa | 44.5ms" tvg-logo="" group-title="Canales Peruanos",Exitosa | 44.5ms
 http://190.108.89.228:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exitosa | 49.9ms" tvg-logo="" group-title="Canales Peruanos",Exitosa | 49.9ms
@@ -883,8 +885,6 @@ http://179.1.146.123:8002/play/a0mp/index.m3u8
 http://179.1.146.123:8002/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AZ CORAZON | 45.1ms" tvg-logo="" group-title="Variedades y Entretenimiento",AZ CORAZON | 45.1ms
 http://179.1.146.123:8002/play/a0o7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13 | 33.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",Canal 13 | 33.2ms
-http://179.1.146.123:8002/play/a0ml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13 | 42.1ms" tvg-logo="" group-title="Variedades y Entretenimiento",Canal 13 | 42.1ms
 http://179.1.146.123:8002/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13 | 42.9ms" tvg-logo="" group-title="Variedades y Entretenimiento",Canal 13 | 42.9ms
