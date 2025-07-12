@@ -83,6 +83,20 @@ http://179.1.146.123:8002/play/a0n5/index.m3u8
 http://190.108.89.228:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exitosa | 49.9ms" tvg-logo="" group-title="Canales Peruanos",Exitosa | 49.9ms
 http://201.230.121.85:8000/play/a0zr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JUSTICIA TV | 46.5ms" tvg-logo="" group-title="Canales Peruanos",JUSTICIA TV | 46.5ms
+http://179.1.146.123:8002/play/a0mn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMAZONIA TV | 49.6ms" tvg-logo="" group-title="Regionales Perú",AMAZONIA TV | 49.6ms
+http://190.108.89.228:8000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAMBU TV | 64.2ms" tvg-logo="" group-title="Regionales Perú",BAMBU TV | 64.2ms
+http://201.230.121.85:8000/play/a0ol/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DIGITAL | 57.4ms" tvg-logo="" group-title="Regionales Perú",CANAL DIGITAL | 57.4ms
+http://179.1.146.123:8002/play/a0oj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CREO TV | 39.3ms" tvg-logo="" group-title="Regionales Perú",CREO TV | 39.3ms
+http://201.230.101.89:12000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DATA TV | 69.2ms" tvg-logo="" group-title="Regionales Perú",DATA TV | 69.2ms
+http://201.230.121.85:8000/play/DATA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIEL TV | 27.4ms" tvg-logo="" group-title="Regionales Perú",MIEL TV | 27.4ms
+http://179.1.146.123:8002/play/a0mu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOYOBAMBA | 34.8ms" tvg-logo="" group-title="Regionales Perú",MOYOBAMBA | 34.8ms
 http://190.108.89.228:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATIVA | 27.5ms" tvg-logo="" group-title="Regionales Perú",NATIVA | 27.5ms
@@ -91,28 +105,20 @@ http://179.1.146.123:8002/play/a0mt/index.m3u8
 http://179.1.146.123:8002/play/a0mv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATIVA | 77.8ms" tvg-logo="" group-title="Regionales Perú",NATIVA | 77.8ms
 http://201.230.121.85:8000/play/a0x1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JUSTICIA TV | 46.5ms" tvg-logo="" group-title="Canales Peruanos",JUSTICIA TV | 46.5ms
-http://179.1.146.123:8002/play/a0mn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMAZONIA TV | 49.6ms" tvg-logo="" group-title="Regionales Perú",AMAZONIA TV | 49.6ms
-http://190.108.89.228:8000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NODELMA | 67.5ms" tvg-logo="" group-title="Regionales Perú",NODELMA | 67.5ms
+http://201.230.121.85:8000/play/a0lp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ORION | 48.9ms" tvg-logo="" group-title="Regionales Perú",ORION | 48.9ms
 http://190.108.89.228:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PICHANAKI TV | 28.7ms" tvg-logo="" group-title="Regionales Perú",PICHANAKI TV | 28.7ms
+http://179.1.146.123:8002/play/a0ms/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SELVA TV | 48.2ms" tvg-logo="" group-title="Regionales Perú",SELVA TV | 48.2ms
 http://190.108.89.228:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="URANIO | 54.3ms" tvg-logo="" group-title="Regionales Perú",URANIO | 54.3ms
 http://190.108.89.228:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MIEL TV | 27.4ms" tvg-logo="" group-title="Regionales Perú",MIEL TV | 27.4ms
-http://179.1.146.123:8002/play/a0mu/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAMBU TV | 64.2ms" tvg-logo="" group-title="Regionales Perú",BAMBU TV | 64.2ms
-http://201.230.121.85:8000/play/a0ol/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV PERENE | 27.5ms" tvg-logo="" group-title="Regionales Perú",TV PERENE | 27.5ms
-http://179.1.146.123:8002/play/a0of/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DATA TV | 69.2ms" tvg-logo="" group-title="Regionales Perú",DATA TV | 69.2ms
-http://201.230.121.85:8000/play/DATA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CREO TV | 39.3ms" tvg-logo="" group-title="Regionales Perú",CREO TV | 39.3ms
-http://201.230.101.89:12000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TURBO MIX CAJAMARCA | 39.4ms" tvg-logo="" group-title="Regionales Perú",TURBO MIX CAJAMARCA | 39.4ms
 http://201.230.101.89:12000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PERENE | 27.5ms" tvg-logo="" group-title="Regionales Perú",TV PERENE | 27.5ms
+http://179.1.146.123:8002/play/a0of/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 28.9ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 28.9ms
 http://179.1.146.123:8002/play/a0o9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 42.2ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 42.2ms
@@ -143,8 +149,6 @@ http://201.230.137.204:8000/play/a0k2/index.m3u8
 http://201.230.121.85:8000/play/a0y8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCN | 64.9ms" tvg-logo="" group-title="Noticias y Actualidad",RCN | 64.9ms
 http://201.230.121.186:8000/play/a0n3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NODELMA | 67.5ms" tvg-logo="" group-title="Regionales Perú",NODELMA | 67.5ms
-http://201.230.121.85:8000/play/a0lp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX | 45.0ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 45.0ms
 http://201.230.121.85:8000/play/a0os/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX | 46.7ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 46.7ms
@@ -877,6 +881,8 @@ http://200.121.48.5:8000/play/a0lj/index.m3u8
 http://179.1.146.123:8002/play/a0mp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA | 35.7ms" tvg-logo="" group-title="Cine y Series",UNIVERSAL CINEMA | 35.7ms
 http://179.1.146.123:8002/play/a0oc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ CORAZON | 45.1ms" tvg-logo="" group-title="Variedades y Entretenimiento",AZ CORAZON | 45.1ms
+http://179.1.146.123:8002/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13 | 33.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",Canal 13 | 33.2ms
 http://179.1.146.123:8002/play/a0ml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13 | 42.1ms" tvg-logo="" group-title="Variedades y Entretenimiento",Canal 13 | 42.1ms
@@ -945,6 +951,10 @@ http://201.230.137.204:8000/play/a0ht/index.m3u8
 http://201.230.137.104:8000/play/a0mi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central | 81.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",Comedy Central | 81.3ms
 http://201.230.121.186:8000/play/a0cx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="el nueve | 51.8ms" tvg-logo="" group-title="Variedades y Entretenimiento",el nueve | 51.8ms
+http://179.1.146.123:8002/play/a0ld/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="el trece | 28.7ms" tvg-logo="" group-title="Variedades y Entretenimiento",el trece | 28.7ms
+http://179.1.146.123:8002/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOLA TV | 27.7ms" tvg-logo="" group-title="Variedades y Entretenimiento",HOLA TV | 27.7ms
 http://179.1.146.123:8002/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOLA TV | 33.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",HOLA TV | 33.2ms
@@ -1011,8 +1021,8 @@ http://201.230.121.186:8000/play/a0mq/index.m3u8
 http://179.1.146.123:8002/play/a0ih/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo | 28.6ms" tvg-logo="" group-title="Variedades y Entretenimiento",Telemundo | 28.6ms
 http://179.1.146.123:8002/play/a0ok/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZ CORAZON | 45.1ms" tvg-logo="" group-title="Variedades y Entretenimiento",AZ CORAZON | 45.1ms
-http://179.1.146.123:8002/play/a0o7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV | 28.6ms" tvg-logo="" group-title="Variedades y Entretenimiento",VTV | 28.6ms
+http://179.1.146.123:8002/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel | 28.6ms" tvg-logo="" group-title="Cultura y Documentales",Discovery Channel | 28.6ms
 http://179.1.146.123:8002/play/a0jo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel | 32.8ms" tvg-logo="" group-title="Cultura y Documentales",Discovery Channel | 32.8ms
