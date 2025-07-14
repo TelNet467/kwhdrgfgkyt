@@ -407,6 +407,68 @@ http://190.108.89.228:8000/play/a09t/index.m3u8
 http://200.121.48.5:8000/play/a0k9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun | 69.1ms" tvg-logo="" group-title="Deportes",TNT Sports Premiun | 69.1ms
 http://200.37.199.140:8000/play/a093/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 | 594.8ms" tvg-logo="" group-title="Especiales Deportes",DSports 2 | 594.8ms
+https://nxt.plus:8443/car444cam/2ss58afeY2X5/244287.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports + | 599.6ms" tvg-logo="" group-title="Especiales Deportes",DSports + | 599.6ms
+https://nxt.plus:8443/car444cam/2ss58afeY2X5/244288.ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 | 2176.5ms" tvg-logo="" group-title="Especiales Deportes",Directv Sports 2 | 2176.5ms
+http://lotv.plus:80/play/xVn5YocP2RCQpZxsLaa5eKTTOMUQXpGAkYMIuKQ4i7o/ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 | 2926.6ms" tvg-logo="" group-title="Especiales Deportes",Directv Sports 2 | 2926.6ms
+http://lotv.plus:80/play/xVn5YocP2RCQpZxsLaa5eJdX3VJgo3aChc09dtKD89w/ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + | 364.0ms" tvg-logo="" group-title="Especiales Deportes",Directv Sports + | 364.0ms
+http://tvhomesmart.xyz:8080/933926424tv/cxsqbd/315
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS FIGHT | 920.5ms" tvg-logo="" group-title="Especiales Deportes",DIRECTV SPORTS FIGHT | 920.5ms
+http://tvhomesmart.xyz:8080/933926424tv/cxsqbd/20350
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PE | 966.2ms" tvg-logo="" group-title="Especiales Deportes",DIRECTV SPORTS PE | 966.2ms
+http://tvhomesmart.xyz:8080/933926424tv/cxsqbd/479
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS AR | 809.8ms" tvg-logo="" group-title="Especiales Deportes",DIRECTV SPORTS AR | 809.8ms
+http://tvhomesmart.xyz:8080/933926424tv/cxsqbd/480
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS AR | 2182.4ms" tvg-logo="" group-title="Especiales Deportes",DIRECTV SPORTS AR | 2182.4ms
+http://lotv.plus:80/play/xVn5YocP2RCQpZxsLaa5eLW6pgoNZk_r5Zia-u8rf6o/ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CL | 875.7ms" tvg-logo="" group-title="Especiales Deportes",DIRECTV SPORTS CL | 875.7ms
+http://tvhomesmart.xyz:8080/933926424tv/cxsqbd/465
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CL | 910.3ms" tvg-logo="" group-title="Especiales Deportes",DIRECTV SPORTS CL | 910.3ms
+http://tvhomesmart.xyz:8080/933926424tv/cxsqbd/484
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CL | 1008.7ms" tvg-logo="" group-title="Especiales Deportes",DIRECTV SPORTS CL | 1008.7ms
+http://tvhomesmart.xyz:8080/933926424tv/cxsqbd/481
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CO | 864.5ms" tvg-logo="" group-title="Especiales Deportes",DIRECTV SPORTS CO | 864.5ms
+http://tvhomesmart.xyz:8080/933926424tv/cxsqbd/485
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CO | 1060.5ms" tvg-logo="" group-title="Especiales Deportes",DIRECTV SPORTS CO | 1060.5ms
+http://tvhomesmart.xyz:8080/933926424tv/cxsqbd/482
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CO | 1391.7ms" tvg-logo="" group-title="Especiales Deportes",DIRECTV SPORTS CO | 1391.7ms
+http://lotv.plus:80/play/xVn5YocP2RCQpZxsLaa5eLJGYqFkopwRpbZIS4PBArM/ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports | 345.4ms" tvg-logo="" group-title="Especiales Deportes",Directv Sports | 345.4ms
+http://tvhomesmart.xyz:8080/933926424tv/cxsqbd/247839
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports | 1205.5ms" tvg-logo="" group-title="Especiales Deportes",Directv Sports | 1205.5ms
+http://lotv.plus:80/play/xVn5YocP2RCQpZxsLaa5eD_RO2Sz4xPHBmhPWotTV2M/ts
+#EXTINF:-1 tvg-id="" tvg-name="*DSPORTS 1 CH | 506.8ms" tvg-logo="" group-title="Especiales Deportes",*DSPORTS 1 CH | 506.8ms
+https://nxt.plus:8443/car444cam/2ss58afeY2X5/244286.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS 1 | PE ᴴᴰ | 526.0ms" tvg-logo="" group-title="Especiales Deportes",DSPORTS 1 | PE ᴴᴰ | 526.0ms
+https://nxt.plus:8443/car444cam/2ss58afeY2X5/116424.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS MOTOR ᴴᴰ | 532.0ms" tvg-logo="" group-title="Especiales Deportes",DSPORTS MOTOR ᴴᴰ | 532.0ms
+https://nxt.plus:8443/car444cam/2ss58afeY2X5/181455.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS | UY ᴴᴰ | 507.9ms" tvg-logo="" group-title="Especiales Deportes",DSPORTS | UY ᴴᴰ | 507.9ms
+https://nxt.plus:8443/car444cam/2ss58afeY2X5/262578.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL DE CLUBES | DSPORTS 1 | 531.3ms" tvg-logo="Especiales Deportes" group-title="",MUNDIAL DE CLUBES | DSPORTS 1 | 531.3ms
+https://nxt.plus:8443/car444cam/2ss58afeY2X5/262580.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL DE CLUBES | DSPORTS 2 | 489.1ms" tvg-logo="" group-title="Especiales Deportes",MUNDIAL DE CLUBES | DSPORTS 2 | 489.1ms
+https://nxt.plus:8443/car444cam/2ss58afeY2X5/262581.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE | DSPORTS | 761.0ms" tvg-logo="" group-title="Especiales Deportes",PE | DSPORTS | 761.0ms
+
+#EXTINF:-1 tvg-id="" tvg-name="+CINE | 334.8ms" tvg-logo="" group-title="Especiales",+CINE | 334.8ms
+http://38.252.213.10:9000/play/a057
+#EXTINF:-1 tvg-id="" tvg-name="+CINE CLASSIC | 426.5ms" tvg-logo="" group-title="Especiales",+CINE CLASSIC | 426.5ms
+http://38.252.213.10:9000/play/a05t
+#EXTINF:-1 tvg-id="" tvg-name="+CINE FAMILY | 471.0ms" tvg-logo="" group-title="Especiales",+CINE FAMILY | 471.0ms
+http://38.252.213.10:9000/play/a06y
+#EXTINF:-1 tvg-id="" tvg-name="+CINE WAR | 514.1ms" tvg-logo="" group-title="Especiales",+CINE WAR | 514.1ms
+http://38.252.213.10:9000/play/a07n
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIC | 373.6ms" tvg-logo="" group-title="Especiales",CLASSIC | 373.6ms
+http://38.252.213.10:9000/play/a05u
+#EXTINF:-1 tvg-id="" tvg-name="WEST | 277.9ms" tvg-logo="" group-title="Especiales",WEST | 277.9ms
+http://38.252.213.10:9000/play/a06z
+#EXTINF:-1 tvg-id="" tvg-name="ANIRETRO | 302.3ms" tvg-logo="" group-title="Especiales",ANIRETRO | 302.3ms
+http://38.252.213.10:9000/play/a06i
 #EXTINF:-1 tvg-id="" tvg-name="A&E | 44.5ms" tvg-logo="" group-title="Cine y Series",A&E | 44.5ms
 http://179.1.146.123:8002/play/a0md/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E | 46.6ms" tvg-logo="" group-title="Cine y Series",A&E | 46.6ms
