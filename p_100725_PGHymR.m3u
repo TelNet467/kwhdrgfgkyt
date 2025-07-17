@@ -374,5 +374,317 @@ http://fullgo.xyz:8880/movie/Clacey10101/QKhLn3yVgpDW/438192.mp4
 https://micaplay.net:8443/play/0boZHR6lfYJZ1SbfNT0zDZiV5B33YivSb_3yc5w3WEcrLPtHHL8bBb6XMdkv0n0e
 #EXTINF:-1 xui-id="726211" tvg-name="Por un tiempo13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNNgQ8hjUQoQzxJ4czaWPTLQJZn.jpg" group-title="🔍 Filtros: tiempo",Por un tiempo13
 https://micaplay.net:8443/play/0boZHR6lfYJZ1SbfNT0zDbrMssTWJqCOG_kdbJRuxShNsJ5D9feLwI7CE83VrSRI
-
+#EXTM3U
+#EXTINF:-1 tvg-id="13314" tvg-name="Asesinos (1995) SD LAT | 1280ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56CjAhLlMwtcITYbS61ql3DbmkW.jpg" group-title="🔍 Sylvester Stallone",Asesinos (1995) SD LAT | 1280ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13314.avi
+#EXTINF:-1 tvg-id="588186" tvg-name="Rocky Balboa (2006) | 1343ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1idhSQfaaXZqMKNWxfIc6t9zfL.jpg" group-title="🔍 Sylvester Stallone",Rocky Balboa (2006) | 1343ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/588186.mkv
+#EXTINF:-1 tvg-id="13412" tvg-name="Demolition Man (1993) 720 LAT | 1343ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b24cbVtlhUQT68vPba5ODs3tugc.jpg" group-title="🔍 Sylvester Stallone",Demolition Man (1993) 720 LAT | 1343ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13412.mkv
+#EXTINF:-1 tvg-id="4202" tvg-name="Rambo III (1988) SD LAT | 1375ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uycbt9iVlAnKkQIisqUWuO8hVcm.jpg" group-title="🔍 Sylvester Stallone",Rambo III (1988) SD LAT | 1375ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/4202.avi
+#EXTINF:-1 tvg-id="423613" tvg-name="A 47 metros: El terror emerge | 1391ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePCSbmpMsN2TcbSCqNC4GP92ixr.jpg" group-title="🔍 Sylvester Stallone",A 47 metros: El terror emerge | 1391ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/423613.mkv
+#EXTINF:-1 tvg-id="4022" tvg-name="The Specialist (1994) SD LAT | 1530ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifqrivWPQ0ZpwnIXBjgN261SQ1S.jpg" group-title="🔍 Sylvester Stallone",The Specialist (1994) SD LAT | 1530ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/4022.avi
+#EXTINF:-1 tvg-id="423613" tvg-name="A 47 metros: El terror emerge | 1531ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePCSbmpMsN2TcbSCqNC4GP92ixr.jpg" group-title="🔍 Sylvester Stallone",A 47 metros: El terror emerge | 1531ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/423613.mkv
+#EXTINF:-1 tvg-id="2892" tvg-name="Cobra (1986) SD DUAL | 1593ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCxfbTh8JvJil5edhNywxaTHoWv.jpg" group-title="🔍 Sylvester Stallone",Cobra (1986) SD DUAL | 1593ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/2892.mkv
+#EXTINF:-1 tvg-id="407160" tvg-name="Alarum (ENG) | 1608ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v313aUGmMNj6yNveaiQXysBmjVS.jpg" group-title="🔍 Sylvester Stallone",Alarum (ENG) | 1608ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/407160.mkv
+#EXTINF:-1 tvg-id="259064" tvg-name="Alarum: Codigo letal (2025) | 1936ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chIQxgimGbIFnuFsLqpcoTbsH9.jpg" group-title="🔍 Sylvester Stallone",Alarum: Codigo letal (2025) | 1936ms
+http://nxt.plus:8080/movie/carlost/01234/259064.mkv
+#EXTINF:-1 tvg-id="423613" tvg-name="A 47 metros: El terror emerge | 2000ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePCSbmpMsN2TcbSCqNC4GP92ixr.jpg" group-title="🔍 Sylvester Stallone",A 47 metros: El terror emerge | 2000ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/423613.mkv
+#EXTINF:-1 tvg-id="406926" tvg-name="Los Indestructibles - The Expendables | 2000ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg" group-title="🔍 Sylvester Stallone",Los Indestructibles - The Expendables | 2000ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/406926.mkv
+#EXTINF:-1 tvg-id="376400" tvg-name="Juez Dredd | 2250ms" tvg-logo="http://lotv.plus:80/images/QXc563CIoVElsrWTBtDw1SgDkMieKhW3gEyxlsdA_zOBhDxT6BPY0uqqQS15Js0LO-SAVY1q4-L6500JHJiNR2o535fz6dedNXW9MfZ0zas.jpg" group-title="🔍 Sylvester Stallone",Juez Dredd | 2250ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/376400.mp4
+#EXTINF:-1 tvg-id="376402" tvg-name="El demoledor - Demolition Man | 2280ms" tvg-logo="http://lotv.plus:80/images/QXc563CIoVElsrWTBtDw1SgDkMieKhW3gEyxlsdA_zOBhDxT6BPY0uqqQS15Js0LVxgm7t3coZf46bObe2E-a6KfiJFR0EI9a0VxcZQZXGQ.jpg" group-title="🔍 Sylvester Stallone",El demoledor - Demolition Man | 2280ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/376402.mp4
+#EXTINF:-1 tvg-id="606034" tvg-name="Doble espionaje (2025) | 2311ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chIQxgimGbIFnuFsLqpcoTbsH9.jpg" group-title="🔍 Sylvester Stallone",Doble espionaje (2025) | 2311ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/606034.mkv
+#EXTINF:-1 tvg-id="4015" tvg-name="D-Tox (2002) SD LAT | 2327ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC7h1mU0BXXtaO65Jyql3ehr1xl.jpg" group-title="🔍 Sylvester Stallone",D-Tox (2002) SD LAT | 2327ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/4015.mkv
+#EXTINF:-1 tvg-id="407160" tvg-name="Alarum (ENG) | 2358ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v313aUGmMNj6yNveaiQXysBmjVS.jpg" group-title="🔍 Sylvester Stallone",Alarum (ENG) | 2358ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/407160.mkv
+#EXTINF:-1 tvg-id="592459" tvg-name="Armor (2024) | 2625ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teKwEThO6MEJQ3IZKaOHAky6zvq.jpg" group-title="🔍 Sylvester Stallone",Armor (2024) | 2625ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/592459.mkv
+#EXTINF:-1 tvg-id="379781" tvg-name="Creed II: La leyenda de Rocky | 2625ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fzyU1Mb7mbzcB2xFQc54bO3JDX.jpg" group-title="🔍 Sylvester Stallone",Creed II: La leyenda de Rocky | 2625ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/379781.mkv
+#EXTINF:-1 tvg-id="317051" tvg-name="Samaritan | 2686ms" tvg-logo="http://lotv.plus:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKYuyljSy_Z7DfcUOWWiHlek3raFXYrMdFkSG5kIQpLI.jpg" group-title="🔍 Sylvester Stallone",Samaritan | 2686ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/317051.mkv
+#EXTINF:-1 tvg-id="317051" tvg-name="Samaritan | 2718ms" tvg-logo="http://lotv.plus:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKYuyljSy_Z7DfcUOWWiHlek3raFXYrMdFkSG5kIQpLI.jpg" group-title="🔍 Sylvester Stallone",Samaritan | 2718ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/317051.mkv
+#EXTINF:-1 tvg-id="407160" tvg-name="Alarum (ENG) | 2733ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v313aUGmMNj6yNveaiQXysBmjVS.jpg" group-title="🔍 Sylvester Stallone",Alarum (ENG) | 2733ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/407160.mkv
+#EXTINF:-1 tvg-id="376400" tvg-name="Juez Dredd | 2812ms" tvg-logo="http://lotv.plus:80/images/QXc563CIoVElsrWTBtDw1SgDkMieKhW3gEyxlsdA_zOBhDxT6BPY0uqqQS15Js0LO-SAVY1q4-L6500JHJiNR2o535fz6dedNXW9MfZ0zas.jpg" group-title="🔍 Sylvester Stallone",Juez Dredd | 2812ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/376400.mp4
+#EXTINF:-1 tvg-id="406926" tvg-name="Los Indestructibles - The Expendables | 2906ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg" group-title="🔍 Sylvester Stallone",Los Indestructibles - The Expendables | 2906ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/406926.mkv
+#EXTINF:-1 tvg-id="474473" tvg-name="Némesis (2022) | 2937ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GVIfQVABjKuAWy3fvidPJZE52t.jpg" group-title="🔍 Sylvester Stallone",Némesis (2022) | 2937ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/474473.mkv
+#EXTINF:-1 tvg-id="414194" tvg-name="Armor (SUB ESP) | 3500ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teKwEThO6MEJQ3IZKaOHAky6zvq.jpg" group-title="🔍 Sylvester Stallone",Armor (SUB ESP) | 3500ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/414194.mkv
+#EXTINF:-1 tvg-id="371018" tvg-name="Grudge Match (2013) | 4969ms" tvg-logo="http://tvlatino.club:2082/images/26227bed6ce4ed1a14a3b23af581f7e5.jpg" group-title="🔍 Sylvester Stallone",Grudge Match (2013) | 4969ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/371018.mp4
+#EXTM3U
+#EXTINF:-1 tvg-id="396505" tvg-name="Mad Max 3: Más Allá de la Cúpula del Trueno (1985) | 656ms" tvg-logo="http://tvlatino.club:2082/images/f01c792f4258f4e7c14fbd07b43f6db8.jpg" group-title="🔍 Mel Gibson",Mad Max 3: Más Allá de la Cúpula del Trueno (1985) | 656ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/396505.mkv
+#EXTINF:-1 tvg-id="408107" tvg-name="Fuímos heroes (2002) | 702ms" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lo284scuFbx1Zz4Tv5yJ3ctNSIJ.jpg" group-title="🔍 Mel Gibson",Fuímos heroes (2002) | 702ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/408107.mp4
+#EXTINF:-1 tvg-id="410199" tvg-name="Eternamente Joven (1992) | 765ms" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cxq7TPG21bqxuI8XpjluSQ95jlp.jpg" group-title="🔍 Mel Gibson",Eternamente Joven (1992) | 765ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/410199.mkv
+#EXTINF:-1 tvg-id="426547" tvg-name="The Expendables 3 (2014) | 812ms" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQbQo0BcCRWdw7vgwyK3ZdCraJ0.jpg" group-title="🔍 Mel Gibson",The Expendables 3 (2014) | 812ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/426547.mp4
+#EXTINF:-1 tvg-id="411913" tvg-name="Bird on a Wire (1990) | 860ms" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AnbSMZzdNIfPwX3dgyVGXnmSIUI.jpg" group-title="🔍 Mel Gibson",Bird on a Wire (1990) | 860ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/411913.mkv
+#EXTINF:-1 tvg-id="13433" tvg-name="El patriota (2000) 1080 LAT | 1187ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjGrPDFOfJ5aXbsT5vdisIoHfmj.jpg" group-title="🔍 Mel Gibson",El patriota (2000) 1080 LAT | 1187ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13433.mkv
+#EXTINF:-1 tvg-id="119485" tvg-name="Agent Game (2022) | 1219ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uytKHneiRUkkFxE22wtLLNUIi3G.jpg" group-title="🔍 Mel Gibson",Agent Game (2022) | 1219ms
+http://nxt.plus:8080/movie/carlost/01234/119485.mkv
+#EXTINF:-1 tvg-id="13398" tvg-name="Conspiración (1997) SD LAT | 1296ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZhtPw3YlrG1MN8300G8s1edwZv.jpg" group-title="🔍 Mel Gibson",Conspiración (1997) SD LAT | 1296ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13398.avi
+#EXTINF:-1 tvg-id="13384" tvg-name="Braveheart (1995) SD LAT | 1421ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbJp6oNBfgEESGWoeyyiVYNa7GM.jpg" group-title="🔍 Mel Gibson",Braveheart (1995) SD LAT | 1421ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13384.avi
+#EXTINF:-1 tvg-id="9092" tvg-name="Pocahontas (1995) 720 LAT | 1500ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg" group-title="🔍 Mel Gibson",Pocahontas (1995) 720 LAT | 1500ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/9092.mkv
+#EXTINF:-1 tvg-id="406925" tvg-name="Los Indestructibles 3 - The Expendables 3 | 1656ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQbQo0BcCRWdw7vgwyK3ZdCraJ0.jpg" group-title="🔍 Mel Gibson",Los Indestructibles 3 - The Expendables 3 | 1656ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/406925.mkv
+#EXTINF:-1 tvg-id="2795" tvg-name="Lethal Weapon 3 (1992)SD DUAL | 1702ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ukd5LiPDWwFKe5pbLnjZZtLccN.jpg" group-title="🔍 Mel Gibson",Lethal Weapon 3 (1992)SD DUAL | 1702ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/2795.mkv
+#EXTINF:-1 tvg-id="403310" tvg-name="El atracador perfecto | 1703ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ByGtLdfznHrs3DkZMYFZKrlmfv.jpg" group-title="🔍 Mel Gibson",El atracador perfecto | 1703ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/403310.mkv
+#EXTINF:-1 tvg-id="3963" tvg-name="Mad Max (1979) SD DUAL | 1780ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LrI4GiCSrChgkdskVZiwv643Kg.jpg" group-title="🔍 Mel Gibson",Mad Max (1979) SD DUAL | 1780ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/3963.mkv
+#EXTINF:-1 tvg-id="275014" tvg-name="Un día más para morir (2021)*cam* | 1780ms" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hlHAeVkX5xdfSw17j9sR2vChULc.jpg" group-title="🔍 Mel Gibson",Un día más para morir (2021)*cam* | 1780ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/275014.mkv
+#EXTINF:-1 tvg-id="406925" tvg-name="Los Indestructibles 3 - The Expendables 3 | 1812ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQbQo0BcCRWdw7vgwyK3ZdCraJ0.jpg" group-title="🔍 Mel Gibson",Los Indestructibles 3 - The Expendables 3 | 1812ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/406925.mkv
+#EXTINF:-1 tvg-id="2933" tvg-name="Fuimos Heroes (2002)  SD DUAL | 1890ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7clYj45azWgoZjBZnM47qkvWgV.jpg" group-title="🔍 Mel Gibson",Fuimos Heroes (2002)  SD DUAL | 1890ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/2933.mkv
+#EXTINF:-1 tvg-id="12709" tvg-name="Maverick (1994) SD DUAL | 1921ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4quUawXzMMRQ11uoxPjddAftcv.jpg" group-title="🔍 Mel Gibson",Maverick (1994) SD DUAL | 1921ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/12709.avi
+#EXTINF:-1 tvg-id="403310" tvg-name="El atracador perfecto | 1937ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ByGtLdfznHrs3DkZMYFZKrlmfv.jpg" group-title="🔍 Mel Gibson",El atracador perfecto | 1937ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/403310.mkv
+#EXTINF:-1 tvg-id="402947" tvg-name="Secuestro en directo | 2328ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17KUBVVPyjXYqn1P6vouLBe8laB.jpg" group-title="🔍 Mel Gibson",Secuestro en directo | 2328ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402947.mkv
+#EXTINF:-1 tvg-id="9083" tvg-name="Pollitos en Fuga (2000) SD LAT | 2625ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg" group-title="🔍 Mel Gibson",Pollitos en Fuga (2000) SD LAT | 2625ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/9083.avi
+#EXTM3U
+#EXTINF:-1 tvg-id="411605" tvg-name="Swordfish (2001) | 952ms" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k9uVoRnOHE8Gtj5yQIQHPDnK7S1.jpg" group-title="🔍 John Travolta",Swordfish (2001) | 952ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/411605.mkv
+#EXTINF:-1 tvg-id="191812" tvg-name="Grease (1978) Lat | 1094ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cI2Dq5sD1rEVjf5zz1KAQMqLQ7.jpg" group-title="🔍 John Travolta",Grease (1978) Lat | 1094ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/191812.mkv
+#EXTINF:-1 tvg-id="13316" tvg-name="Brigada 49 (2004) SD LAT | 1110ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhPv5QHEI1Rl8Rphxf93e7wUBEs.jpg" group-title="🔍 John Travolta",Brigada 49 (2004) SD LAT | 1110ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13316.avi
+#EXTINF:-1 tvg-id="13382" tvg-name="Basic (2003) SD LAT | 1203ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yk0f45lv7TqLd3qSgaNNiPX7js.jpg" group-title="🔍 John Travolta",Basic (2003) SD LAT | 1203ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13382.avi
+#EXTINF:-1 tvg-id="4444" tvg-name="Wild Hogs (2007) SD DUAL | 1312ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYyPCZcpNGZwbyBo1gwdCiW5hHC.jpg" group-title="🔍 John Travolta",Wild Hogs (2007) SD DUAL | 1312ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/4444.mkv
+#EXTINF:-1 tvg-id="5025" tvg-name="Bolt: un Perro Fuera de Serie (2008) 720 LAT | 1391ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9VHoUcZ1GiH3f3qYz7Me7Zc1Fd.jpg" group-title="🔍 John Travolta",Bolt: un Perro Fuera de Serie (2008) 720 LAT | 1391ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/5025.mp4
+#EXTINF:-1 tvg-id="4990" tvg-name="I Am Wrath (2016) | 1437ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUfEYRW3LAh0hzhf78IWSsUC99b.jpg" group-title="🔍 John Travolta",I Am Wrath (2016) | 1437ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/4990.mkv
+#EXTINF:-1 tvg-id="404756" tvg-name="Face Off - Contracara | 1452ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alizmPaRHq7sGHW5eoshoYzWjf9.jpg" group-title="🔍 John Travolta",Face Off - Contracara | 1452ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/404756.mp4
+#EXTINF:-1 tvg-id="13399" tvg-name="Cara a cara (1997) 720 LAT | 1500ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXrBDfseaf1zJgTXbQF6CqjYKFX.jpg" group-title="🔍 John Travolta",Cara a cara (1997) 720 LAT | 1500ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13399.mkv
+#EXTINF:-1 tvg-id="13392" tvg-name="Broken Arrow: Alarma nuclear (1996) SD LAT | 1641ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AlvHCeaZtFeR2H0IDoa2BmXOyK.jpg" group-title="🔍 John Travolta",Broken Arrow: Alarma nuclear (1996) SD LAT | 1641ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13392.mp4
+#EXTINF:-1 tvg-id="404756" tvg-name="Face Off - Contracara | 1827ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alizmPaRHq7sGHW5eoshoYzWjf9.jpg" group-title="🔍 John Travolta",Face Off - Contracara | 1827ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/404756.mp4
+#EXTM3U
+#EXTINF:-1 tvg-id="10957" tvg-name="El Color del Espacio Exterior (2020) SD SUB | 750ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkwgzCBBiY3C1XEy0WakYfMOvnG.jpg" group-title="🔍 Nicolás Cage",El Color del Espacio Exterior (2020) SD SUB | 750ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/10957.mp4
+#EXTINF:-1 tvg-id="13195" tvg-name="Mom and Dad (2017) 720 LAT | 1265ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSaeahvo1GU7v4W6CX2y0j7fxMG.jpg" group-title="🔍 Nicolás Cage",Mom and Dad (2017) 720 LAT | 1265ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13195.mp4
+#EXTINF:-1 tvg-id="260468" tvg-name="Kick-Ass: Un superheroe sin superpoderes (2010) | 1390ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyYP52hnVzioCxLSheogZBX0vXv.jpg" group-title="🔍 Nicolás Cage",Kick-Ass: Un superheroe sin superpoderes (2010) | 1390ms
+http://nxt.plus:8080/movie/carlost/01234/260468.mkv
+#EXTINF:-1 tvg-id="461057" tvg-name="Presagio (2009) | 1406ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnxcYzU6EPzTNNKefEp0mEqTAlF.jpg" group-title="🔍 Nicolás Cage",Presagio (2009) | 1406ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/461057.mkv
+#EXTINF:-1 tvg-id="5126" tvg-name="Los Croods (2013) SD LAT | 1422ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg" group-title="🔍 Nicolás Cage",Los Croods (2013) SD LAT | 1422ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/5126.mp4
+#EXTINF:-1 tvg-id="418250" tvg-name="Ghost Rider: Espíritu de venganza | 1452ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNk4q6f1sXRE8FEPpMiexCs5K20.jpg" group-title="🔍 Nicolás Cage",Ghost Rider: Espíritu de venganza | 1452ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/418250.mkv
+#EXTINF:-1 tvg-id="418250" tvg-name="Ghost Rider: Espíritu de venganza | 1452ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNk4q6f1sXRE8FEPpMiexCs5K20.jpg" group-title="🔍 Nicolás Cage",Ghost Rider: Espíritu de venganza | 1452ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/418250.mkv
+#EXTINF:-1 tvg-id="13399" tvg-name="Cara a cara (1997) 720 LAT | 1484ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXrBDfseaf1zJgTXbQF6CqjYKFX.jpg" group-title="🔍 ",Cara a cara (1997) 720 LAT | 1484ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13399.mkv
+#EXTINF:-1 tvg-id="2998" tvg-name="Vengeance: A Love Story (2017) 720 DUAL | 1625ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPUFcGPI9FChybFHIJJBZZLiIlg.jpg" group-title="🔍 Nicolás Cage",Vengeance: A Love Story (2017) 720 DUAL | 1625ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/2998.mkv
+#EXTINF:-1 tvg-id="404756" tvg-name="Face Off - Contracara | 1671ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alizmPaRHq7sGHW5eoshoYzWjf9.jpg" group-title="🔍 Nicolás Cage",Face Off - Contracara | 1671ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/404756.mp4
+#EXTINF:-1 tvg-id="2800" tvg-name="Arsenal (2017)1080 DUAL | 1687ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9vwgGqWge0PRZqhbqOW7WCVK2V.jpg" group-title="🔍 Nicolás Cage",Arsenal (2017)1080 DUAL | 1687ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/2800.mkv
+#EXTINF:-1 tvg-id="402351" tvg-name="Renfield | 1734ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dRS9I4zAxsUm3za9dg1nFDDwoO.jpg" group-title="🔍 Nicolás Cage",Renfield | 1734ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402351.mkv
+#EXTINF:-1 tvg-id="404756" tvg-name="Face Off - Contracara | 1734ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alizmPaRHq7sGHW5eoshoYzWjf9.jpg" group-title="🔍 Nicolás Cage",Face Off - Contracara | 1734ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/404756.mp4
+#EXTINF:-1 tvg-id="316691" tvg-name="El insoportable peso de un talento descomunal | 1750ms" tvg-logo="http://lotv.plus:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLV3TNbN6m96X6yYCnZ1rpMqqireRZAZjFEaDHJPeGaWk.jpg" group-title="🔍 Nicolás Cage",El insoportable peso de un talento descomunal | 1750ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/316691.mkv
+#EXTINF:-1 tvg-id="402351" tvg-name="Renfield | 1859ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dRS9I4zAxsUm3za9dg1nFDDwoO.jpg" group-title="🔍 Nicolás Cage",Renfield | 1859ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402351.mkv
+#EXTINF:-1 tvg-id="393570" tvg-name="Arcadian | 1984ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hNyrggiI6bYydlLwa2fDsOdAyA.jpg" group-title="🔍 Nicolás Cage",Arcadian | 1984ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/393570.mkv
+#EXTINF:-1 tvg-id="393570" tvg-name="Arcadian | 1984ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hNyrggiI6bYydlLwa2fDsOdAyA.jpg" group-title="🔍 Nicolás Cage",Arcadian | 1984ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/393570.mkv
+#EXTINF:-1 tvg-id="13395" tvg-name="Con Air (Convictos en el aire) (1997) 720 LAT | 2125ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5csZq2rx6TMSYZTu64Kv0HzSMZ8.jpg" group-title="🔍 Nicolás Cage",Con Air (Convictos en el aire) (1997) 720 LAT | 2125ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13395.mkv
+#EXTINF:-1 tvg-id="393570" tvg-name="Arcadian | 2218ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hNyrggiI6bYydlLwa2fDsOdAyA.jpg" group-title="🔍 Nicolás Cage",Arcadian | 2218ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/393570.mkv
+#EXTINF:-1 tvg-id="13317" tvg-name="Windtalkers (2002) SD LAT | 2234ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDVe8IpViR0bdFrraEN2IZnBanN.jpg" group-title="🔍 Nicolás Cage",Windtalkers (2002) SD LAT | 2234ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13317.avi
+#EXTINF:-1 tvg-id="2985" tvg-name="Kick-Ass (2010) SD LAT | 2343ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2b3nofmXDfdn7bsM6zS9Upsa832.jpg" group-title="🔍 Nicolás Cage",Kick-Ass (2010) SD LAT | 2343ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/2985.mp4
+#EXTINF:-1 tvg-id="4000" tvg-name="Gone in Sixty Seconds (2000) 720 LAT | 3297ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iIytDsfPGM23aphdENKW9nbNpN.jpg" group-title="🔍 Nicolás Cage",Gone in Sixty Seconds (2000) 720 LAT | 3297ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/4000.mkv
+#EXTINF:-1 tvg-id="588788" tvg-name="Arcadian (2024) | 3781ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2paAs9Azw9CXZe3jD5F3weQVwyr.jpg" group-title="🔍 Nicolás Cage",Arcadian (2024) | 3781ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/588788.mkv
+#EXTINF:-1 tvg-id="576250" tvg-name="Arcadian (2024) | 4000ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hNyrggiI6bYydlLwa2fDsOdAyA.jpg" group-title="🔍 Nicolás Cage",Arcadian (2024) | 4000ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/576250.mkv
+#EXTM3U
+#EXTINF:-1 tvg-id="396523" tvg-name="Ant-Man: El hombre Hormiga (2015) | 797ms" tvg-logo="http://tvlatino.club:2082/images/a1f3414b70350dff83dd7f42e0558154.jpg" group-title="Michael Douglas",Ant-Man: El hombre Hormiga (2015) | 797ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/396523.mkv
+#EXTINF:-1 tvg-id="396524" tvg-name="Ant-Man and the Wasp: Quantumania (2023) | 844ms" tvg-logo="http://tvlatino.club:2082/images/67c50cb6b5460038aa51101c8d79f3ed.jpg" group-title="Michael Douglas",Ant-Man and the Wasp: Quantumania (2023) | 844ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/396524.mkv
+#EXTINF:-1 tvg-id="396525" tvg-name="Ant-Man and the Wasp: Quantumania (2023) | 906ms" tvg-logo="http://tvlatino.club:2082/images/67c50cb6b5460038aa51101c8d79f3ed.jpg" group-title="Michael Douglas",Ant-Man and the Wasp: Quantumania (2023) | 906ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/396525.mkv
+#EXTINF:-1 tvg-id="396538" tvg-name="Ant-Man 2: La Avispa (2018) | 953ms" tvg-logo="http://tvlatino.club:2082/images/cc533b7d6bf8ed4c02518692adb410b9.jpg" group-title="Michael Douglas",Ant-Man 2: La Avispa (2018) | 953ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/396538.mkv
+#EXTINF:-1 tvg-id="9070" tvg-name="Codigo abierto (2017) 1080 LAT | 1219ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg" group-title="Michael Douglas",Codigo abierto (2017) 1080 LAT | 1219ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/9070.mp4
+#EXTINF:-1 tvg-id="402318" tvg-name="Ant-Man y la Avispa: Quantumanía | 1453ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" group-title="Michael Douglas",Ant-Man y la Avispa: Quantumanía | 1453ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402318.mkv
+#EXTINF:-1 tvg-id="402318" tvg-name="Ant-Man y la Avispa: Quantumanía | 1453ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" group-title="Michael Douglas",Ant-Man y la Avispa: Quantumanía | 1453ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402318.mkv
+#EXTINF:-1 tvg-id="402318" tvg-name="Ant-Man y la Avispa: Quantumanía | 1640ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" group-title="Michael Douglas",Ant-Man y la Avispa: Quantumanía | 1640ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402318.mkv
+#EXTINF:-1 tvg-id="402318" tvg-name="Ant-Man y la Avispa: Quantumanía | 1703ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" group-title="Michael Douglas",Ant-Man y la Avispa: Quantumanía | 1703ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402318.mkv
+#EXTINF:-1 tvg-id="372194" tvg-name="Animal World (2018) | 2125ms" tvg-logo="http://tvlatino.club:2082/images/c009f63c823143f33e206dbcd2f60422.jpg" group-title="Michael Douglas",Animal World (2018) | 2125ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/372194.mp4
+#EXTINF:-1 tvg-id="351190" tvg-name="Animal World (2018) | 2969ms" tvg-logo="http://tvlatino.club:2082/images/c009f63c823143f33e206dbcd2f60422.jpg" group-title="Michael Douglas",Animal World (2018) | 2969ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/351190.mp4
+#EXTM3U
+#EXTINF:-1 tvg-id="412005" tvg-name="Dr. T & the Women (2000) | 593ms" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7rA2lbPqw9HYtkOKSGx15EkMIRo.jpg" group-title="🔍 Richard Gere",Dr. T & the Women (2000) | 593ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/412005.mkv
+#EXTINF:-1 tvg-id="260966" tvg-name="El exotico Hotel Marigold 2 (2015) | 1405ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HapwnFlrCMOhQRjMEuZGUkzz2J.jpg" group-title="🔍 Richard Gere",El exotico Hotel Marigold 2 (2015) | 1405ms
+http://nxt.plus:8080/movie/carlost/01234/260966.mkv
+#EXTINF:-1 tvg-id="474472" tvg-name="La Novia Fugitiva (1999) | 1577ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIjExGnoEl7dzsDcGBVWiWSMWrN.jpg" group-title="🔍 Richard Gere",La Novia Fugitiva (1999) | 1577ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/474472.mkv
+#EXTINF:-1 tvg-id="372536" tvg-name="Red Corner (1997) | 4671ms" tvg-logo="http://tvlatino.club:2082/images/c44da3f8bc494876cefc31a153b95486.jpg" group-title="🔍 Richard Gere",Red Corner (1997) | 4671ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/372536.mkv
+#EXTM3U
+#EXTINF:-1 tvg-id="410115" tvg-name="El Zorro y el Sabueso 2 (2006) | 687ms" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pqPdNJG8XC7cklobrB5pk8ML1Ij.jpg" group-title="🔍 Patrick Swayze",El Zorro y el Sabueso 2 (2006) | 687ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/410115.mkv
+#EXTINF:-1 tvg-id="605096" tvg-name="A Wong Foo, ¡gracias por todo! Julie Newmar (1995) | 1250ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iYIr7WRUGv88w7ZZ70e8C6xzjI.jpg" group-title="🔍 Patrick Swayze",A Wong Foo,¡gracias por todo! Julie Newmar (1995) | 1250ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/605096.mp4
+#EXTINF:-1 tvg-id="4435" tvg-name="Point Break (1991) SD LAT | 1265ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGSfqknufcsXmM2Rb59H9SiNd4T.jpg" group-title="🔍 Patrick Swayze",Point Break (1991) SD LAT | 1265ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/4435.mp4
+#EXTINF:-1 tvg-id="245713" tvg-name="Father Hood (1993) | 2343ms" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kX3Ab9i9ZkZgmJlkr2hCHIstAx1.jpg" group-title="🔍 Patrick Swayze",Father Hood (1993) | 2343ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/245713.mkv
+#EXTINF:-1 tvg-id="190537" tvg-name="El quinto elemento (1997) Lat | 750ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2IFRKmD0nLaJOaILGKHdF31bKy.jpg" group-title="Bruce Willis",El quinto elemento (1997) Lat | 750ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/190537.mkv
+#EXTINF:-1 tvg-id="193220" tvg-name="10 minutos para morir (2019) Lat | 1032ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2AvUEMUZHvlDPpSi5YOjNz0ox6.jpg" group-title="Bruce Willis",10 minutos para morir (2019) Lat | 1032ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/193220.mkv
+#EXTINF:-1 tvg-id="4894" tvg-name="Trauma Center (2019) SD ESP | 1250ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K73wvCTBA3XKgZTtOZWgENUnis.jpg" group-title="Bruce Willis",Trauma Center (2019) SD ESP | 1250ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/4894.mp4
+#EXTINF:-1 tvg-id="13380" tvg-name="Hostage (2005) SD LAT | 1282ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzUE4EsngobPaDL9jvRLaYb2Tbs.jpg" group-title="Bruce Willis",Hostage (2005) SD LAT | 1282ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13380.mp4
+#EXTINF:-1 tvg-id="403156" tvg-name="La Fortaleza | 1405ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6N0ZR1ETOOzvwmrDezbzbbiydS1.jpg" group-title="Bruce Willis",La Fortaleza | 1405ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/403156.mkv
+#EXTINF:-1 tvg-id="4064" tvg-name="En defensa del Honor (2002) SD LAT | 1438ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRUhSU7vzs5ePa72LNPcKKCCMZ5.jpg" group-title="Bruce Willis",En defensa del Honor (2002) SD LAT | 1438ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/4064.avi
+#EXTINF:-1 tvg-id="609141" tvg-name="Los sustitutos (2009) | 1438ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JzxhNsVXEsFmlIIeFaFM70qRnh.jpg" group-title="Bruce Willis",Los sustitutos (2009) | 1438ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/609141.avi
+#EXTINF:-1 tvg-id="386710" tvg-name="Sed de Venganza (2022) | 1577ms" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/21Km68vUjrlLP1kUXm5IA8KLZSL.jpg" group-title="Bruce Willis",Sed de Venganza (2022) | 1577ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/386710.mkv
+#EXTINF:-1 tvg-id="2999" tvg-name="A Good Day to Die Hard (2013) SD DUAL | 1594ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zq88w35f1PpM22TIbf2amtjHD6.jpg" group-title="Bruce Willis",A Good Day to Die Hard (2013) SD DUAL | 1594ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/2999.mkv
+#EXTINF:-1 tvg-id="4447" tvg-name="Represalia (2018) DUAL+ | 1702ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBsQUK5QSeZjRPLFUVgSGHxj2PI.jpg" group-title="Bruce Willis",Represalia (2018) DUAL+ | 1702ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/4447.mp4
+#EXTINF:-1 tvg-id="403156" tvg-name="La Fortaleza | 1733ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6N0ZR1ETOOzvwmrDezbzbbiydS1.jpg" group-title="Bruce Willis",La Fortaleza | 1733ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/403156.mkv
+#EXTINF:-1 tvg-id="118603" tvg-name="Detective Knight: Independencia (2023) | 1811ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1168a2gKGWYSfiCkWtz4oDl5rJP.jpg" group-title="Bruce Willis",Detective Knight: Independencia (2023) | 1811ms
+http://nxt.plus:8080/movie/carlost/01234/118603.mkv
+#EXTINF:-1 tvg-id="402727" tvg-name="Emboscada | 1842ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbmJYyOMkgMD9M5uGu1kJbtvcLo.jpg" group-title="Bruce Willis",Emboscada | 1842ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402727.mkv
+#EXTINF:-1 tvg-id="402898" tvg-name="Fuga de Prisión | 1875ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4NtkOODUUZ2ZxEpOmBhEOHiwhp.jpg" group-title="Bruce Willis",Fuga de Prisión | 1875ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402898.mkv
+#EXTINF:-1 tvg-id="2887" tvg-name="Die Hard: With a Vengeance (1995) SD DUAL | 1952ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mBUd8Y6AhcdICaMnSV8UPtF8rc.jpg" group-title="Bruce Willis",Die Hard: With a Vengeance (1995) SD DUAL | 1952ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/2887.mkv
+#EXTINF:-1 tvg-id="402727" tvg-name="Emboscada | 2030ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbmJYyOMkgMD9M5uGu1kJbtvcLo.jpg" group-title="Bruce Willis",Emboscada | 2030ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402727.mkv
+#EXTINF:-1 tvg-id="402783" tvg-name="Conspiración en Hollywood | 2250ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9PcWL7xkqX0od1HEr0fgLsjTb0.jpg" group-title="Bruce Willis",Conspiración en Hollywood | 2250ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402783.mkv
+#EXTINF:-1 tvg-id="402610" tvg-name="Elefante blanco | 2547ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/de8UBspdZphugnBXzNeXDBecC0a.jpg" group-title="Bruce Willis",Elefante blanco | 2547ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402610.mkv
+#EXTINF:-1 tvg-id="402783" tvg-name="Conspiración en Hollywood | 2608ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9PcWL7xkqX0od1HEr0fgLsjTb0.jpg" group-title="Bruce Willis",Conspiración en Hollywood | 2608ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402783.mkv
+#EXTINF:-1 tvg-id="402682" tvg-name="Secuestrados | 2922ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twq3furytKDwI1pfcy8ElKoMjz1.jpg" group-title="Bruce Willis",Secuestrados | 2922ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402682.mkv
+#EXTINF:-1 tvg-id="403156" tvg-name="La Fortaleza | 3139ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6N0ZR1ETOOzvwmrDezbzbbiydS1.jpg" group-title="Bruce Willis",La Fortaleza | 3139ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/403156.mkv
+#EXTINF:-1 tvg-id="402898" tvg-name="Fuga de Prisión | 3233ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4NtkOODUUZ2ZxEpOmBhEOHiwhp.jpg" group-title="Bruce Willis",Fuga de Prisión | 3233ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402898.mkv
+#EXTINF:-1 tvg-id="402610" tvg-name="Elefante blanco | 3264ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/de8UBspdZphugnBXzNeXDBecC0a.jpg" group-title="Bruce Willis",Elefante blanco | 3264ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/402610.mkv
+#EXTINF:-1 tvg-id="396324" tvg-name="Operación Peligrosa (2008) | 891ms" tvg-logo="http://tvlatino.club:2082/images/ae1125d6e397d2210a789e3d17ca6dd9.jpg" group-title="Jean-Claude Van Damme",Operación Peligrosa (2008) | 891ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/396324.mp4
+#EXTINF:-1 tvg-id="396327" tvg-name="Doble Impacto (1991) | 936ms" tvg-logo="http://tvlatino.club:2082/images/a428897f8c0c7e97d07f8c3aea381475.jpg" group-title="Jean-Claude Van Damme",Doble Impacto (1991) | 936ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/396327.mkv
+#EXTINF:-1 tvg-id="412040" tvg-name="Kickboxer (1989) | 952ms" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q3NCTsIb5mzOuf3XbQr9AfZyAaF.jpg" group-title="Jean-Claude Van Damme",Kickboxer (1989) | 952ms
+http://tvlatino.club:2082/movie/marinayeca/WcMZHxkWkLsV/412040.mp4
+#EXTINF:-1 tvg-id="590503" tvg-name="El Jardinero (2025) | 1311ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVuYUl7EtBxyJTOl4Ao7eZVjKDb.jpg" group-title="Jean-Claude Van Damme",El Jardinero (2025) | 1311ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/590503.mkv
+#EXTINF:-1 tvg-id="13415" tvg-name="Double Team (1997) 720  LAT | 1342ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3L0aM1oPtIHPMbci25QnuqC8zZ0.jpg" group-title="Jean-Claude Van Damme",Double Team (1997) 720  LAT | 1342ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13415.mkv
+#EXTINF:-1 tvg-id="13359" tvg-name="Soldado Universal: Regeneración (2009) 720 LAT | 1389ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMukzXxxNX31SgPMRk2Q2blsEPR.jpg" group-title="Jean-Claude Van Damme",Soldado Universal: Regeneración (2009) 720 LAT | 1389ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13359.mkv
+#EXTINF:-1 tvg-id="13355" tvg-name="Soldado Universal: El Retorno (1999) 1080 LAT | 1467ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9snWHsV6Sb6NZAUQJCOunxKGQX.jpg" group-title="Jean-Claude Van Damme",Soldado Universal: El Retorno (1999) 1080 LAT | 1467ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13355.mkv
+#EXTINF:-1 tvg-id="13353" tvg-name="Muerte súbita (1995) 720 LAT | 1530ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2eFjyjdYdMXKSakjP4iqh3eCRU.jpg" group-title="Jean-Claude Van Damme",Muerte súbita (1995) 720 LAT | 1530ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13353.mkv
+#EXTINF:-1 tvg-id="233805" tvg-name="Contacto Sangriento (1988) | 1561ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxD09NPHYthJNO8KbiYmpS01CwE.jpg" group-title="Jean-Claude Van Damme",Contacto Sangriento (1988) | 1561ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/233805.mkv
+#EXTINF:-1 tvg-id="13333" tvg-name="Kickboxer (1989) 720 ESP | 1625ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUudhrs3HaJEtWpvgwdvjSlE5FS.jpg" group-title="Jean-Claude Van Damme",Kickboxer (1989) 720 ESP | 1625ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13333.mp4
+#EXTINF:-1 tvg-id="417458" tvg-name="Kickboxer | 1639ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58ZbhxPT8UrUpxEZVvLtinXDB1a.jpg" group-title="Jean-Claude Van Damme",Kickboxer | 1639ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/417458.mkv
+#EXTINF:-1 tvg-id="2833" tvg-name="Black Water (2018) SD ESP | 1688ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg" group-title="Jean-Claude Van Damme",Black Water (2018) SD ESP | 1688ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/2833.mp4
+#EXTINF:-1 tvg-id="261750" tvg-name="El tren de la muerte (2002) | 1719ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfRQjhV6igdUdHNkukDbDZnmF9O.jpg" group-title="Jean-Claude Van Damme",El tren de la muerte (2002) | 1719ms
+http://nxt.plus:8080/movie/carlost/01234/261750.mkv
+#EXTINF:-1 tvg-id="13350" tvg-name="Libertad para morir (1990) 1080 LAT | 1764ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zwTdDmN9ubZu6QTbdwpHc0ylXf.jpg" group-title="Jean-Claude Van Damme",Libertad para morir (1990) 1080 LAT | 1764ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13350.mkv
+#EXTINF:-1 tvg-id="13310" tvg-name="Águila Negra (1988) 1080 DUAL | 1842ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFkUkEluBdcldY0K7AMAQbz9d4p.jpg" group-title="Jean-Claude Van Damme",Águila Negra (1988) 1080 DUAL | 1842ms
+http://livetv-plus.com:8080/movie/angela1673/STZUG/13310.mkv
+#EXTINF:-1 tvg-id="417458" tvg-name="Kickboxer | 2030ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58ZbhxPT8UrUpxEZVvLtinXDB1a.jpg" group-title="Jean-Claude Van Damme",Kickboxer | 2030ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/417458.mkv
+#EXTINF:-1 tvg-id="403232" tvg-name="Street Fighter: La última batalla | 2139ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2s6Twiwwc0RnmhtmcTV6JBVKOdP.jpg" group-title="Jean-Claude Van Damme",Street Fighter: La última batalla | 2139ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/403232.mp4
+#EXTINF:-1 tvg-id="417427" tvg-name="Los ojos del dragón | 2358ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mKc6X7ExLLoUWBVdAGeWkjXtV1.jpg" group-title="Jean-Claude Van Damme",Los ojos del dragón | 2358ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/417427.mkv
+#EXTINF:-1 tvg-id="414208" tvg-name="El Jardinero | 2452ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9SrxVaRhBNKf95vns1ti13yzl0.jpg" group-title="Jean-Claude Van Damme",El Jardinero | 2452ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/414208.mkv
+#EXTINF:-1 tvg-id="414195" tvg-name="Sin Escape (Ganar o morir) | 2500ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m7Md2MUef2PyAwYT5Z94AbEC5u.jpg" group-title="Jean-Claude Van Damme",Sin Escape (Ganar o morir) | 2500ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/414195.mp4
+#EXTINF:-1 tvg-id="403121" tvg-name="Kickboxer: Contraataque | 2827ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okNEstBQ46eAwVQoqXdVyYljHH.jpg" group-title="Jean-Claude Van Damme",Kickboxer: Contraataque | 2827ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/403121.mp4
+#EXTINF:-1 tvg-id="417458" tvg-name="Kickboxer | 2983ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58ZbhxPT8UrUpxEZVvLtinXDB1a.jpg" group-title="Jean-Claude Van Damme",Kickboxer | 2983ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/417458.mkv
+#EXTINF:-1 tvg-id="414209" tvg-name="The Gardener (ENG) | 3125ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg" group-title="Jean-Claude Van Damme",The Gardener (ENG) | 3125ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/414209.mkv
+#EXTINF:-1 tvg-id="403121" tvg-name="Kickboxer: Contraataque | 3155ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okNEstBQ46eAwVQoqXdVyYljHH.jpg" group-title="Jean-Claude Van Damme",Kickboxer: Contraataque | 3155ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/403121.mp4
+#EXTINF:-1 tvg-id="414209" tvg-name="The Gardener (ENG) | 3467ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg" group-title="Jean-Claude Van Damme",The Gardener (ENG) | 3467ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/414209.mkv
+#EXTINF:-1 tvg-id="417427" tvg-name="Los ojos del dragón | 4047ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mKc6X7ExLLoUWBVdAGeWkjXtV1.jpg" group-title="Jean-Claude Van Damme",Los ojos del dragón | 4047ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/417427.mkv
+#EXTINF:-1 tvg-id="379886" tvg-name="6 balas | 4157ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSVezF5DFwQaWNxSBb4O2qaSZv2.jpg" group-title="Jean-Claude Van Damme",6 balas | 4157ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/379886.mp4
+#EXTINF:-1 tvg-id="414208" tvg-name="El Jardinero | 4186ms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9SrxVaRhBNKf95vns1ti13yzl0.jpg" group-title="Jean-Claude Van Damme",El Jardinero | 4186ms
+http://goplays.xyz:8000/movie/Carlos123/Carlos123/414208.mkv
 
