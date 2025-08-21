@@ -69,10 +69,16 @@ http://190.108.89.228:8000/play/a05f/index.m3u8
 http://190.108.89.228:8000/play/a0ck/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 65.6ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 65.6ms
 http://200.121.48.5:8000/play/a0la/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 203.1ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 203.1ms
+http://179.63.6.15:8000/play/a00y
+#EXTINF:-1 tvg-id="" tvg-name="L1 | 253.9ms" tvg-logo="" group-title="Deportes Perú",L1 | 253.9ms
+http://179.63.6.15:8000/play/a02a
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX | 42.7ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 42.7ms
 http://190.108.89.228:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX | 88.1ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 88.1ms
 http://200.121.48.215:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="L1MAX | 169.7ms" tvg-logo="" group-title="Deportes Perú",L1 MAX | 169.7ms
+http://179.63.6.15:8000/play/a022
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes | 45.6ms" tvg-logo="" group-title="Deportes Perú",Movistar Deportes | 45.6ms
 http://200.121.48.5:8000/play/ac1q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes | 48.4ms" tvg-logo="" group-title="Deportes Perú",Movistar Deportes | 48.4ms
@@ -99,6 +105,8 @@ http://201.230.121.186:8000/play/a0n3/index.m3u8
 http://190.108.89.228:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSports | 33.3ms" tvg-logo="" group-title="Deportes",DSports | 33.3ms
 http://190.108.89.228:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dsports | 223.3ms" tvg-logo="" group-title="Deportes",Dsports | 223.3ms
+http://179.63.6.15:8000/play/a01w
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 34.6ms" tvg-logo="" group-title="Deportes",ESPN | 34.6ms
 http://190.108.89.228:8000/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 35.3ms" tvg-logo="" group-title="Deportes",ESPN | 35.3ms
@@ -133,6 +141,8 @@ http://201.230.121.186:8000/play/a0n2/index.m3u8
 http://201.230.121.186:8000/play/a0n6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 75.4ms" tvg-logo="" group-title="Deportes",ESPN | 75.4ms
 http://200.121.48.215:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 | 157.2ms" tvg-logo="" group-title="Deportes",ESPN | 157.2ms
+http://179.63.6.15:8000/play/a01l
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 37.8ms" tvg-logo="" group-title="Deportes",ESPN 2 | 37.8ms
 http://201.230.105.202:8126/play/a0mw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 47.7ms" tvg-logo="" group-title="Deportes",ESPN 2 | 47.7ms
@@ -151,6 +161,8 @@ http://200.121.48.215:8000/play/a01e/index.m3u8
 http://201.230.121.186:8000/play/a0im/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 89.1ms" tvg-logo="" group-title="Deportes",ESPN 2 | 89.1ms
 http://201.230.121.186:8000/play/a0mz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 195.6ms" tvg-logo="" group-title="Deportes",ESPN 2 | 195.6ms
+http://179.63.6.15:8000/play/a01m
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 | 38.4ms" tvg-logo="" group-title="Deportes",ESPN 3 | 38.4ms
 http://201.230.105.202:8126/play/a0lo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 | 40.0ms" tvg-logo="" group-title="Deportes",ESPN 3 | 40.0ms
@@ -169,6 +181,8 @@ http://200.121.48.215:8000/play/a01b/index.m3u8
 http://201.230.121.186:8000/play/a0mw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 | 81.7ms" tvg-logo="" group-title="Deportes",ESPN 3 | 81.7ms
 http://201.230.121.186:8000/play/a0jg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 | 206.5ms" tvg-logo="" group-title="Deportes",ESPN 3 | 206.5ms
+http://179.63.6.15:8000/play/a01n
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 | 45.9ms" tvg-logo="" group-title="Deportes",ESPN 4 | 45.9ms
 http://200.121.48.5:8000/play/a0lb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 | 46.1ms" tvg-logo="" group-title="Deportes",ESPN 4 | 46.1ms
@@ -187,6 +201,8 @@ http://201.230.105.202:8126/play/a0ns/index.m3u8
 http://201.230.121.186:8000/play/a0k4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 | 79.8ms" tvg-logo="" group-title="Deportes",ESPN 4 | 79.8ms
 http://201.230.121.186:8000/play/a0mv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 | 189.3ms" tvg-logo="" group-title="Deportes",ESPN 4 | 189.3ms
+http://179.63.6.15:8000/play/a01o
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5 | 32.7ms" tvg-logo="" group-title="Deportes",ESPN 5 | 32.7ms
 http://190.108.89.228:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5 | 47.9ms" tvg-logo="" group-title="Deportes",ESPN 5 | 47.9ms
@@ -209,6 +225,8 @@ http://201.230.121.186:8000/play/a0cr/index.m3u8
 http://201.230.121.85:8000/play/a0kl/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6 | 84.6ms" tvg-logo="" group-title="Deportes",ESPN 6 | 84.6ms
 http://201.230.121.186:8000/play/a0mx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 | 158.4ms" tvg-logo="" group-title="Deportes",ESPN 6 | 158.4ms
+http://179.63.6.15:8000/play/a020
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 7 | 37.5ms" tvg-logo="" group-title="Deportes",ESPN 7 | 37.5ms
 http://201.230.105.202:8126/play/a0rw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 7 | 38.7ms" tvg-logo="" group-title="Deportes",ESPN 7 | 38.7ms
@@ -221,6 +239,8 @@ http://200.121.48.5:8000/play/a0jd/index.m3u8
 http://200.121.48.215:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 7 | 78.3ms" tvg-logo="" group-title="Deportes",ESPN 7 | 78.3ms
 http://201.230.121.186:8000/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 | 121.9ms" tvg-logo="" group-title="Deportes",ESPN 7 | 121.9ms
+http://179.63.6.15:8000/play/a021
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium | 44.6ms" tvg-logo="" group-title="Deportes",ESPN Premium | 44.6ms
 http://200.121.48.5:8000/play/a0ft/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium | 50.9ms" tvg-logo="" group-title="Deportes",ESPN Premium | 50.9ms
@@ -231,6 +251,8 @@ http://201.230.101.89:12000/play/a043/index.m3u8
 http://200.121.48.5:8000/play/a0kk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports | 52.5ms" tvg-logo="" group-title="Deportes",Bein Sports | 52.5ms
 http://200.121.48.5:8000/play/a0m4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV | 223.9ms" tvg-logo="" group-title="Deportes",GOL TV | 223.9ms
+http://179.63.6.15:8000/play/a014
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun | 46.2ms" tvg-logo="" group-title="Deportes",TNT Sports Premiun | 46.2ms
 http://200.121.48.5:8000/play/a0k9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun | 47.0ms" tvg-logo="" group-title="Deportes",TNT Sports Premiun | 47.0ms
@@ -377,6 +399,8 @@ http://201.230.121.186:8000/play/a0n1/index.m3u8
 http://201.230.137.204:8000/play/a0hr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount | 88.0ms" tvg-logo="" group-title="Cine y Series",Paramount | 88.0ms
 http://200.121.48.215:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOS HORROR | 268.7ms" tvg-logo="" group-title="Cine y Series",SOS HORROR | 268.7ms
+http://179.63.6.15:8000/play/a025
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL | 32.7ms" tvg-logo="" group-title="Cine y Series",STAR CHANNEL | 32.7ms
 http://190.108.89.228:8000/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL | 47.1ms" tvg-logo="" group-title="Cine y Series",STAR CHANNEL | 47.1ms
@@ -579,6 +603,8 @@ http://201.230.105.202:8126/play/a0s1/index.m3u8
 http://200.121.48.5:8000/play/a0ln/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pasiones | 87.0ms" tvg-logo="" group-title="Variedades y Entretenimiento",Pasiones | 87.0ms
 http://201.230.121.186:8000/play/a0j7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL LIVIND HD | 185.1ms" tvg-logo="" group-title="Sin Clasificar",TRAVEL LIVIND HD | 185.1ms
+http://179.63.6.15:8000/play/a017
 #EXTINF:-1 tvg-id="" tvg-name="TVN | 37.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",TVN | 37.2ms
 http://201.230.105.202:8126/play/a0qz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVN | 39.9ms" tvg-logo="" group-title="Variedades y Entretenimiento",TVN | 39.9ms
@@ -733,6 +759,8 @@ http://201.230.137.204:8000/play/a0iy/index.m3u8
 http://201.230.121.186:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV LIVE | 79.4ms" tvg-logo="" group-title="Música y Conciertos",MTV LIVE | 79.4ms
 http://200.121.48.215:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PONTE LOVE | 183.3ms" tvg-logo="" group-title="Música y Conciertos",PONTE LOVE | 183.3ms
+http://179.63.6.15:8000/play/a027
 #EXTINF:-1 tvg-id="" tvg-name="Rumba TV | 59.5ms" tvg-logo="" group-title="Música y Conciertos",Rumba TV | 59.5ms
 http://201.230.101.89:12000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telenostalgia | 41.9ms" tvg-logo="" group-title="Música y Conciertos",Telenostalgia | 41.9ms
@@ -789,3 +817,4 @@ http://201.230.121.85:8000/play/a0ur/index.m3u8
 http://201.230.121.186:8000/play/a0io/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon | 75.1ms" tvg-logo="" group-title="Infantil y Juvenil",Nickelodeon | 75.1ms
 http://200.121.48.215:8000/play/a011/index.m3u8
+
