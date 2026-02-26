@@ -17,13 +17,17 @@ http://179.63.6.12:9000/play/a00f
 http://45.173.72.26:2072/play/a0ae
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 73.4ms" tvg-logo="" group-title="Canales Peruanos",America TV | 73.4ms
 http://45.173.75.4:2061/play/a08h
+#EXTINF:-1 tvg-id="" tvg-name="ATV | 30.1ms" tvg-logo="" group-title="Canales Peruanos",ATV | 30.1ms
+http://38.252.213.12:8000/play/a02q
 #EXTINF:-1 tvg-id="" tvg-name="ATV | 40.1ms" tvg-logo="" group-title="Canales Peruanos",ATV | 40.1ms
 http://181.224.226.128:5000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV | 60.1ms" tvg-logo="" group-title="Canales Peruanos",ATV | 60.1ms
 http://179.63.6.12:9000/play/a02q
 #EXTINF:-1 tvg-id="" tvg-name="ATV | 53.1ms" tvg-logo="" group-title="Canales Peruanos",ATV | 53.1ms
 http://45.173.72.26:2072/play/a09p
-#EXTINF:-1 tvg-id="" tvg-name="ATV + | 62.1ms" tvg-logo="" group-title="Canales Peruanos",ATV | 62.1ms
+#EXTINF:-1 tvg-id="" tvg-name="ATV + | 32.1ms" tvg-logo="" group-title="Canales Peruanos",ATV + | 32.1ms
+http://38.252.213.12:8000/play/a01j
+#EXTINF:-1 tvg-id="" tvg-name="ATV + | 62.1ms" tvg-logo="" group-title="Canales Peruanos",ATV + | 62.1ms
 http://179.63.6.12:9000/play/a01j
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICA | 43.1ms" tvg-logo="" group-title="Canales Peruanos",PANAMERICANA | 43.1ms
 http://181.224.226.128:5000/play/a095/index.m3u8
@@ -151,6 +155,8 @@ http://201.230.121.186:8000/play/a0n6/index.m3u8
 http://200.121.48.215:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1 | 157.2ms" tvg-logo="" group-title="Deportes",ESPN | 157.2ms
 http://179.63.6.15:8000/play/a01l
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 30.1ms" tvg-logo="" group-title="Deportes",ESPN 2 | 30.1ms
+http://38.252.213.12:8000/play/a05z
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 30.8ms" tvg-logo="" group-title="Deportes",ESPN 2 | 30.8ms
 http://181.224.226.128:5000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 37.8ms" tvg-logo="" group-title="Deportes",ESPN 2 | 37.8ms
@@ -917,6 +923,7 @@ http://201.230.121.186:8000/play/a0io/index.m3u8
 http://200.121.48.215:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon | 208.3ms" tvg-logo="" group-title="Infantil y Juvenil",Nickelodeon | 208.3ms
 http://179.63.6.15:8000/play/a01i
+
 
 
 
