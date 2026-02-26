@@ -1,6 +1,8 @@
 #EXTM3U
 # GENERADA: 20/08/2025 17:08:04
 # CANALES OPTIMIZADOS (Latencia <= 100ms)
+#EXTINF:-1 tvg-id="" tvg-name="Latina | 42.8ms" tvg-logo="" group-title="Canales Peruanos",Latina | 42.8ms
+http://181.224.226.128:5000/play/a094/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 72.8ms" tvg-logo="" group-title="Canales Peruanos",Latina | 72.8ms
 http://45.173.72.26:2072/play/a0af
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 52.8ms" tvg-logo="" group-title="Canales Peruanos",Latina | 52.8ms
@@ -13,34 +15,52 @@ http://179.63.6.12:9000/play/a00f
 http://45.173.72.26:2072/play/a0ae
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 73.4ms" tvg-logo="" group-title="Canales Peruanos",America TV | 73.4ms
 http://45.173.75.4:2061/play/a08h
+#EXTINF:-1 tvg-id="" tvg-name="ATV | 40.1ms" tvg-logo="" group-title="Canales Peruanos",ATV | 40.1ms
+http://181.224.226.128:5000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV | 60.1ms" tvg-logo="" group-title="Canales Peruanos",ATV | 60.1ms
 http://179.63.6.12:9000/play/a02q
 #EXTINF:-1 tvg-id="" tvg-name="ATV | 53.1ms" tvg-logo="" group-title="Canales Peruanos",ATV | 53.1ms
 http://45.173.72.26:2072/play/a09p
 #EXTINF:-1 tvg-id="" tvg-name="ATV + | 62.1ms" tvg-logo="" group-title="Canales Peruanos",ATV | 62.1ms
 http://179.63.6.12:9000/play/a01j
+#EXTINF:-1 tvg-id="" tvg-name="PANAMERICA | 43.1ms" tvg-logo="" group-title="Canales Peruanos",PANAMERICANA | 43.1ms
+http://181.224.226.128:5000/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICA | 63.1ms" tvg-logo="" group-title="Canales Peruanos",PANAMERICANA | 63.1ms
 http://45.173.75.4:2061/play/a07b
+#EXTINF:-1 tvg-id="" tvg-name="TV PERU | 43.1ms" tvg-logo="" group-title="Canales Peruanos",TV PERU | 43.1ms
+http://181.224.226.128:5000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV PERU | 73.1ms" tvg-logo="" group-title="Canales Peruanos",TV PERU | 73.1ms
 http://45.173.75.4:2061/play/a07d
 #EXTINF:-1 tvg-id="" tvg-name="TV PERU | 63.1ms" tvg-logo="" group-title="Canales Peruanos",TV PERU | 63.1ms
 http://179.63.6.12:9000/play/a05q
+#EXTINF:-1 tvg-id="" tvg-name="Exitosa | 35.5ms" tvg-logo="" group-title="Canales Peruanos",Exitosa | 35.5ms
+http://181.224.226.128:5000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exitosa | 45.5ms" tvg-logo="" group-title="Canales Peruanos",Exitosa | 45.5ms
 http://45.173.72.26:2072/play/a0a3
+#EXTINF:-1 tvg-id="" tvg-name="Karibena | 43.4ms" tvg-logo="" group-title="Canales Peruanos",Karibena | 43.4ms
+http://181.224.226.128:5000/play/a08q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Karibena | 73.4ms" tvg-logo="" group-title="Canales Peruanos",Karibena | 73.4ms
 http://45.173.72.26:2072/play/a09z
+#EXTINF:-1 tvg-id="" tvg-name="Global | 43.4ms" tvg-logo="" group-title="Canales Peruanos",Global | 43.4ms
+http://181.224.226.128:5000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Global | 83.4ms" tvg-logo="" group-title="Canales Peruanos",Global | 83.4ms
 http://45.173.72.26:2072/play/a09z
 #EXTINF:-1 tvg-id="" tvg-name="Global | 63.4ms" tvg-logo="" group-title="Canales Peruanos",Global | 63.4ms
 http://45.173.72.26:2072/play/a0a0
+#EXTINF:-1 tvg-id="" tvg-name="Willax | 48.1ms" tvg-logo="" group-title="Canales Peruanos",Willax | 48.1ms
+http://181.224.226.128:5000/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Willax | 58.1ms" tvg-logo="" group-title="Canales Peruanos",Willax | 58.1ms
 http://45.173.72.26:2072/play/a09y
+#EXTINF:-1 tvg-id="" tvg-name="RPP | 38.1ms" tvg-logo="" group-title="Canales Peruanos",RPP | 38.1ms
+http://181.224.226.128:5000/play/a08r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Willax | 48.1ms" tvg-logo="" group-title="Canales Peruanos",Willax | 48.1ms
 http://190.108.89.228:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBO | 31.6ms" tvg-logo="" group-title="Canales Peruanos",PBO | 31.6ms
 http://190.108.89.228:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bethel TV | 46.1ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV | 46.1ms
 http://190.108.89.228:8000/play/a0de/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNITEL | 31.1ms" tvg-logo="" group-title="Regionales Perú",UNITEL | 31.1ms
+http://181.224.226.128:5000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAMBU TV | 41.1ms" tvg-logo="" group-title="Regionales Perú",BAMBU TV | 41.1ms
 http://201.230.121.85:8000/play/a0ol/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CREO TV | 59.6ms" tvg-logo="" group-title="Regionales Perú",CREO TV | 59.6ms
@@ -865,6 +885,7 @@ http://201.230.121.186:8000/play/a0io/index.m3u8
 http://200.121.48.215:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon | 208.3ms" tvg-logo="" group-title="Infantil y Juvenil",Nickelodeon | 208.3ms
 http://179.63.6.15:8000/play/a01i
+
 
 
 
