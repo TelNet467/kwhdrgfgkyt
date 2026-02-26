@@ -77,6 +77,10 @@ http://190.108.89.228:8000/play/a04t/index.m3u8
 http://201.230.121.85:8000/play/a0lt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="URANIO | 36.2ms" tvg-logo="" group-title="Regionales Perú",URANIO | 36.2ms
 http://190.108.89.228:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="L1MAX | 30.7ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 30.7ms
+http://181.224.226.128:5000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="L1MAX | 32.7ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 32.7ms
+http://181.224.226.128:5000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX | 42.7ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 42.7ms
 http://190.108.89.228:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes | 62.7ms" tvg-logo="" group-title="Deportes Perú",Movistar Deportes | 62.7ms
@@ -105,6 +109,8 @@ http://179.63.6.12:9000/play/a01k
 http://190.108.89.228:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dsports | 223.3ms" tvg-logo="" group-title="Deportes",Dsports | 223.3ms
 http://179.63.6.15:8000/play/a01w
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 30.6ms" tvg-logo="" group-title="Deportes",ESPN | 30.6ms
+http://181.224.226.128:5000/play/a096/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 34.6ms" tvg-logo="" group-title="Deportes",ESPN | 34.6ms
 http://190.108.89.228:8000/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 35.3ms" tvg-logo="" group-title="Deportes",ESPN | 35.3ms
@@ -141,6 +147,8 @@ http://201.230.121.186:8000/play/a0n6/index.m3u8
 http://200.121.48.215:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1 | 157.2ms" tvg-logo="" group-title="Deportes",ESPN | 157.2ms
 http://179.63.6.15:8000/play/a01l
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 30.8ms" tvg-logo="" group-title="Deportes",ESPN 2 | 30.8ms
+http://181.224.226.128:5000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 37.8ms" tvg-logo="" group-title="Deportes",ESPN 2 | 37.8ms
 http://201.230.105.202:8126/play/a0mw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 47.7ms" tvg-logo="" group-title="Deportes",ESPN 2 | 47.7ms
@@ -369,6 +377,8 @@ http://201.230.121.85:8000/play/a0uo/index.m3u8
 http://201.230.121.186:8000/play/a0d9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO | 85.2ms" tvg-logo="" group-title="Cine y Series",HBO | 85.2ms
 http://201.230.121.186:8000/play/a0il/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family | 30.9ms" tvg-logo="" group-title="Cine y Series",HBO Family | 30.9ms
+http://181.224.226.128:5000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family | 36.9ms" tvg-logo="" group-title="Cine y Series",HBO Family | 36.9ms
 http://201.230.137.204:8000/play/a0id/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family | 39.7ms" tvg-logo="" group-title="Cine y Series",HBO Family | 39.7ms
@@ -409,6 +419,8 @@ http://179.63.6.15:8000/play/a02e
 http://179.63.6.15:8000/play/a029
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama | 198.0ms" tvg-logo="" group-title="Cine y Series",Kanal D Drama | 198.0ms
 http://179.63.6.15:8000/play/a00w
+#EXTINF:-1 tvg-id="" tvg-name="Mi Pelicula | 37.4ms" tvg-logo="" group-title="Cine y Series",Mi Pelicula | 37.4ms
+http://181.224.226.128:5000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount | 47.4ms" tvg-logo="" group-title="Cine y Series",Paramount | 47.4ms
 http://201.230.105.202:8126/play/a0ny/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount | 47.9ms" tvg-logo="" group-title="Cine y Series",Paramount | 47.9ms
@@ -427,6 +439,8 @@ http://179.63.6.15:8000/play/a00u
 http://179.63.6.15:8000/play/a025
 #EXTINF:-1 tvg-id="" tvg-name="Space | 184.6ms" tvg-logo="" group-title="Cine y Series",Space | 184.6ms
 http://179.63.6.15:8000/play/a00o
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL | 30.7ms" tvg-logo="" group-title="Cine y Series",STAR CHANNEL | 30.7ms
+http://181.224.226.128:5000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL | 32.7ms" tvg-logo="" group-title="Cine y Series",STAR CHANNEL | 32.7ms
 http://190.108.89.228:8000/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL | 47.1ms" tvg-logo="" group-title="Cine y Series",STAR CHANNEL | 47.1ms
@@ -885,6 +899,7 @@ http://201.230.121.186:8000/play/a0io/index.m3u8
 http://200.121.48.215:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon | 208.3ms" tvg-logo="" group-title="Infantil y Juvenil",Nickelodeon | 208.3ms
 http://179.63.6.15:8000/play/a01i
+
 
 
 
