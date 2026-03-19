@@ -1,6 +1,8 @@
 #EXTM3U
 # GENERADA: 20/08/2025 17:08:04
 # CANALES OPTIMIZADOS (Latencia <= 100ms)
+#EXTINF:-1 tvg-id="" tvg-name="Latina | 30.1ms" tvg-logo="" group-title="Canales Peruanos",Latina | 32.8ms
+http://38.252.213.12:8000/play/a00f
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 32.8ms" tvg-logo="" group-title="Canales Peruanos",Latina | 32.8ms
 http://38.252.213.12:8000/play/a00f
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 42.8ms" tvg-logo="" group-title="Canales Peruanos",Latina | 42.8ms
