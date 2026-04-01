@@ -13,6 +13,12 @@ http://190.108.89.228:8000/play/a0gn/index.m3u8
 http://190.233.253.38:8181/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 533.2ms" tvg-logo="" group-title="Canales Peruanos",Latina | 533.2ms
 http://186.148.196.82:8001/play/a08d
+#EXTINF:-1 tvg-id="" tvg-name="Latina | 37.5ms" tvg-logo="" group-title="",Latina | 37.5ms
+http://38.210.105.10:8000/play/a0c2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina | 71.1ms" tvg-logo="" group-title="",Latina | 71.1ms
+http://200.4.241.75:8001/play/a079/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina | 54.5ms" tvg-logo="" group-title="",Latina | 54.5ms
+http://190.108.93.75:8001/play/a0ag/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 72.8ms" tvg-logo="" group-title="Canales Peruanos",Latina | 72.8ms
 http://45.173.72.26:2072/play/a0af
