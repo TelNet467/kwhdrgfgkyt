@@ -3,6 +3,8 @@
 # CANALES OPTIMIZADOS (Latencia <= 100ms)
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 45.2ms" tvg-logo="" group-title="Canales Peruanos",Latina | 45.2ms
 http://192.141.98.91:8000/play/a1ia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina | 46.2ms" tvg-logo="" group-title="Canales Peruanos",Latina | 46.2ms
+http://181.177.233.98:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 51.6ms" tvg-logo="" group-title="Canales Peruanos",Latina | 51.6ms
 http://192.141.98.91:8000/play/a1m3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 64.3ms" tvg-logo="" group-title="Canales Peruanos",Latina | 64.3ms
