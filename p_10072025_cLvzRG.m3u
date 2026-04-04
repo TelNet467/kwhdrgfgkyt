@@ -61,8 +61,6 @@ http://181.176.155.7:8090/play/a1u8/index.m3u8
 http://200.4.195.66:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina Clasicos | 62.2ms" tvg-logo="" group-title="Canales Peruanos",Latina Clasicos | 62.2ms
 http://201.230.101.89:12000/play/a07w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latina HD | 66.2ms" tvg-logo="" group-title="Canales Peruanos",Latina HD | 66.2ms
-http://181.66.249.25:8000/play/a0in/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina Clasicos | 104.2ms" tvg-logo="" group-title="Canales Peruanos",Latina Clasicos | 104.2ms
 http://200.60.124.25:8000/play/a0j2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina Noticias | 56.6ms" tvg-logo="" group-title="Canales Peruanos",Latina Noticias | 56.6ms
@@ -125,7 +123,6 @@ http://190.119.143.218:8000/play/a0l0/index.m3u8
 http://200.39.57.254:8008/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 327.7ms" tvg-logo="" group-title="Canales Peruanos",America TV | 327.7ms
 http://181.176.155.7:8090/play/a1u7/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ATV | 29.5ms" tvg-logo="" group-title="Canales Peruanos",ATV | 29.5ms
 http://45.173.72.26:2072/play/a09p
 #EXTINF:-1 tvg-id="" tvg-name="ATV | 33.0ms" tvg-logo="" group-title="Canales Peruanos",ATV | 33.0ms
@@ -184,12 +181,36 @@ http://45.173.72.26:2072/play/a0a3
 http://190.108.89.228:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Karibeña | 34.0ms" tvg-logo="" group-title="Canales Peruanos",Karibeña | 34.0ms
 http://45.173.72.26:2072/play/a09z
-#EXTINF:-1 tvg-id="" tvg-name="Karibena | 60.6ms" tvg-logo="" group-title="Música y Conciertos",Karibena | 60.6ms
+#EXTINF:-1 tvg-id="" tvg-name="Karibena | 60.6ms" tvg-logo="" group-title="Canales Peruanos",Karibena | 60.6ms
 http://190.108.89.228:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 28.8ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 28.8ms
+http://45.186.254.75:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 41.6ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 41.6ms
+http://181.66.249.25:8000/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 46.1ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 46.1ms
+http://190.108.89.228:8000/play/a0de/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 56.6ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 56.6ms
+http://38.224.175.2:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 64.4ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 64.4ms
+http://181.177.233.98:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 66.9ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 66.9ms
 http://38.224.175.2:8000/play/a0tp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 67.7ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 67.7ms
+http://200.4.241.75:8001/play/a0bl/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bethel TV | 69.5ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV | 69.5ms
 http://190.108.89.228:8000/play/a0de/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 70.4ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 70.4ms
+http://201.230.101.89:12000/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 88.8ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 88.8ms
+http://38.7.101.90:8000/play/a1xs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 95.9ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 95.9ms
+http://200.60.124.25:8000/play/a0iu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 148.6ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 148.6ms
+http://181.65.154.10:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 173.9ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 173.9ms
+http://190.223.48.46:8000/play/a02p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV  | 321.9ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV  | 321.9ms
+http://181.176.155.7:8090/play/a13v/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A1 | 49.1ms" tvg-logo="" group-title="Regionales Perú",A1 | 49.1ms
 http://201.230.101.89:12000/play/a0co/index.m3u8
@@ -209,8 +230,14 @@ http://38.210.105.10:8000/play/a0bl/index.m3u8
 http://161.132.68.68:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AUTENTICA TV | 77.9ms" tvg-logo="" group-title="Regionales Perú",AUTENTICA TV | 77.9ms
 http://181.177.233.98:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAMBU TV | 76.6ms" tvg-logo="" group-title="Regionales Perú",BAMBU TV | 76.6ms
+http://201.230.121.85:8000/play/a0ol/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAMBU TV | 80.2ms" tvg-logo="" group-title="Regionales Perú",BAMBU TV | 80.2ms
 http://201.230.121.85:8000/play/a0ol/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BHTV | 60.6ms" tvg-logo="" group-title="Regionales Perú",BHTV | 60.6ms
+http://38.7.101.90:8000/play/a1hn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BARNEY TV | 39.0ms" tvg-logo="" group-title="Regionales Perú",BARNEY TV | 39.0ms
+http://38.210.105.10:8000/play/a0aj/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 5 JUANJUI | 97.2ms" tvg-logo="" group-title="Regionales Perú",CANAL 5 JUANJUI | 97.2ms
 http://200.60.124.25:8000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNH | 72.4ms" tvg-logo="" group-title="Regionales Perú",CNH | 72.4ms
@@ -271,6 +298,12 @@ http://179.63.6.12:9000/play/a07n
 http://38.252.213.12:8000/play/a07n
 #EXTINF:-1 tvg-id="" tvg-name="CLASSIC+ | 47.4ms" tvg-logo="" group-title="Cine y Series",CLASSIC+ | 47.4ms
 http://179.63.6.12:9000/play/a05u
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 | 247.8ms" tvg-logo="" group-title="Variedades y Entretenimiento",Azteca 7 | 247.8ms
+http://200.39.57.254:8008/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Cinema | 40.5ms" tvg-logo="" group-title="Cine y Series",AZ Cinema | 40.5ms
+http://201.230.101.89:12000/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Cinema | 57.3ms" tvg-logo="" group-title="Cine y Series",AZ Cinema | 57.3ms
+http://190.238.71.186:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATRES SERIES | 31.1ms" tvg-logo="" group-title="Cine y Series",ATRES SERIES | 31.1ms
 http://181.224.255.210:8001/play/a0rm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATRES SERIES | 35.5ms" tvg-logo="" group-title="Cine y Series",ATRES SERIES | 35.5ms
@@ -391,6 +424,8 @@ http://190.119.143.218:8000/play/a0ie/index.m3u8
 http://200.39.57.254:8008/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN | 329.6ms" tvg-logo="" group-title="Cine y Series",AXN | 329.6ms
 http://181.176.155.7:8090/play/a1cl/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU | 37.2ms" tvg-logo="" group-title="Cine y Series",BLU | 37.2ms
+http://38.210.105.10:8000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal | 47.8ms" tvg-logo="" group-title="Cine y Series",Cinecanal | 47.8ms
 http://190.108.89.228:8000/play/a0e7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DHE | 39.4ms" tvg-logo="" group-title="Cine y Series",DHE | 39.4ms
@@ -444,8 +479,16 @@ http://201.230.137.204:8000/play/a0iq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="West | 37.5ms" tvg-logo="" group-title="Cine y Series",West | 37.5ms
 http://38.252.213.12:8000/play/a06z
 
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 | 58.9ms" tvg-logo="" group-title="Variedades y Entretenimiento",Azteca 7 | 58.9ms
-http://200.39.57.254:8008/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Click | 45.4ms" tvg-logo="" group-title="Variedades y Entretenimiento",AZ Click | 45.4ms
+http://201.230.101.89:12000/play/a0aw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Click | 64.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",AZ Click | 64.2ms
+http://190.238.71.186:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Click | 167.6ms" tvg-logo="" group-title="Variedades y Entretenimiento",AZ Click | 167.6ms
+http://190.233.253.38:8181/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ DEPORTES | 48.9ms" tvg-logo="" group-title="Variedades y Entretenimiento",AZ DEPORTES | 48.9ms
+http://201.230.101.89:12000/play/a0ef/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Internacional | 43.4ms" tvg-logo="" group-title="Variedades y Entretenimiento",AZ Internacional | 43.4ms
+http://201.230.101.89:12000/play/a0av/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13 | 58.9ms" tvg-logo="" group-title="Variedades y Entretenimiento",Canal 13 | 58.9ms
 http://190.108.89.228:8000/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central | 51.9ms" tvg-logo="" group-title="Variedades y Entretenimiento",Comedy Central | 51.9ms
@@ -567,6 +610,14 @@ http://190.108.89.228:8000/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo | 82.1ms" tvg-logo="" group-title="Cultura y Documentales",Nat Geo | 82.1ms
 http://201.230.137.204:8000/play/a0il/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX | 67.7ms" tvg-logo="" group-title="Música y Conciertos",BANDAMAX | 67.7ms
+http://190.238.71.186:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BITT CHANNEL | 58.2ms" tvg-logo="" group-title="Música y Conciertos",BITT CHANNEL | 58.2ms
+http://181.177.233.98:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BITT CHANNEL | 1103.7ms" tvg-logo="" group-title="Música y Conciertos",BITT CHANNEL | 1103.7ms
+http://200.60.124.25:8000/play/a0lo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD TV | 57.1ms" tvg-logo="" group-title="",BOLLYWOOD TV | 57.1ms
+http://201.230.121.85:8000/play/BOLLYWOODTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HEI | 66.6ms" tvg-logo="" group-title="Música y Conciertos",HEI | 66.6ms
 http://190.108.89.228:8000/play/a0do/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MI MUSICA PERU | 59.1ms" tvg-logo="" group-title="Música y Conciertos",MI MUSICA PERU | 59.1ms
@@ -588,6 +639,10 @@ http://200.4.195.66:8000/play/a00a/index.m3u8
 http://38.210.105.10:8000/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animotion | 53.7ms" tvg-logo="" group-title="Infantil y Juvenil",Animotion | 53.7ms
 http://201.230.101.89:12000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby First | 269.5ms" tvg-logo="" group-title="Infantil y Juvenil",Baby First | 269.5ms
+http://190.233.253.38:8181/play/a06e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BitMe | 50.6ms" tvg-logo="" group-title="Infantil y Juvenil",BitMe | 50.6ms
+http://181.177.233.98:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids | 59.8ms" tvg-logo="" group-title="Infantil y Juvenil",Discovery Kids | 59.8ms
 http://190.108.89.228:8000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel | 53.1ms" tvg-logo="" group-title="Infantil y Juvenil",Disney Channel | 53.1ms
