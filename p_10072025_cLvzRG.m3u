@@ -64,6 +64,21 @@ http://190.238.71.186:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 95.8ms" tvg-logo="" group-title="Canales Peruanos",Latina | 95.8ms
 http://200.60.124.25:8000/play/a0pf/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Latina Clasicos | 36.3ms" tvg-logo="" group-title="Canales Peruanos",Latina Clasicos | 36.3ms
+http://201.230.101.89:12000/play/a07w/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Latina Clasicos | 45.0ms" tvg-logo="" group-title="Canales Peruanos",Latina Clasicos | 45.0ms
+http://200.4.195.66:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Latina Clasicos | 92.2ms" tvg-logo="" group-title="Canales Peruanos",Latina Clasicos | 92.2ms
+http://200.60.124.25:8000/play/a0j2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Latina Noticias | 55.5ms" tvg-logo="" group-title="Canales Peruanos",Latina Noticias | 55.5ms
+http://201.230.121.85:8000/play/LATINANOTI/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Latina Noticias | 56.2ms" tvg-logo="" group-title="Canales Peruanos",Latina Noticias | 56.2ms
+http://201.230.121.85:8000/play/LATINANOTI/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 28.3ms" tvg-logo="" group-title="Canales Peruanos",America TV | 28.3ms
 http://45.186.254.75:8000/play/a0c3/index.m3u8
 
@@ -246,21 +261,6 @@ http://190.108.89.228:8000/play/a0de/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bethel TV | 94.5ms" tvg-logo="" group-title="Canales Peruanos",Bethel TV | 94.5ms
 http://200.60.124.25:8000/play/a0iu/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina Clasicos | 36.3ms" tvg-logo="" group-title="Canales Peruanos",Latina Clasicos | 36.3ms
-http://201.230.101.89:12000/play/a07w/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina Clasicos | 45.0ms" tvg-logo="" group-title="Canales Peruanos",Latina Clasicos | 45.0ms
-http://200.4.195.66:8000/play/a00q/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina Clasicos | 92.2ms" tvg-logo="" group-title="Canales Peruanos",Latina Clasicos | 92.2ms
-http://200.60.124.25:8000/play/a0j2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina Noticias | 55.5ms" tvg-logo="" group-title="Canales Peruanos",Latina Noticias | 55.5ms
-http://201.230.121.85:8000/play/LATINANOTI/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina Noticias | 56.2ms" tvg-logo="" group-title="Canales Peruanos",Latina Noticias | 56.2ms
-http://201.230.121.85:8000/play/LATINANOTI/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BAMBU TV | 56.2ms" tvg-logo="" group-title="Regionales Perú",BAMBU TV | 56.2ms
 http://201.230.121.85:8000/play/a0ol/index.m3u8
