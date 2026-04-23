@@ -416,7 +416,7 @@ http://201.230.101.89:12000/play/a0ec/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classic Western | 33.2ms" tvg-logo="" group-title="Cine y Series",Classic Western | 33.2ms
 http://38.210.105.10:8000/play/a0aw/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Classic | 30.6ms" tvg-logo="" group-title="Cine y Series",Classic | 30.6ms
+#EXTINF:-1 tvg-id="" tvg-name="Classic+ | 30.6ms" tvg-logo="" group-title="Cine y Series",Classic+ | 30.6ms
 http://38.210.105.10:8000/play/a0au/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Clover | 59.7ms" tvg-logo="" group-title="Cine y Series",Clover | 59.7ms
@@ -545,7 +545,7 @@ http://38.210.105.10:8000/play/a0f8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEST | 38.3ms" tvg-logo="" group-title="Cine y Series",WEST | 38.3ms
 http://38.252.213.12:8000/play/a06z
 
-#EXTINF:-1 tvg-id="" tvg-name="West | 43.7ms" tvg-logo="" group-title="Cine y Series",West | 43.7ms
+#EXTINF:-1 tvg-id="" tvg-name="SOS Western | 43.7ms" tvg-logo="" group-title="Cine y Series",SOS Western | 43.7ms
 http://200.4.195.66:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="+CINE WAR | 35.0ms" tvg-logo="" group-title="Cine y Series",+CINE WAR | 35.0ms
