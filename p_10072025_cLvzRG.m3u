@@ -1913,22 +1913,22 @@ http://186.148.196.82:8001/play/a09r
 #EXTINF:-1 tvg-id="" tvg-name="Classic Western | 33.2ms" tvg-logo="" group-title="Cine y Series",Classic Western | 33.2ms
 http://38.210.105.10:8000/play/a0aw/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Classic Western | 37.4ms" tvg-logo="" group-title="Cine y Series",Classic Western | 37.4ms
+#EXTINF:-1 tvg-id="" tvg-name="West | 37.4ms" tvg-logo="" group-title="Cine y Series",West | 37.4ms
 http://38.210.105.10:8000/play/a0bn/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Classic Western | 41.8ms" tvg-logo="" group-title="Cine y Series",Classic Western | 41.8ms
+#EXTINF:-1 tvg-id="" tvg-name="West | 41.8ms" tvg-logo="" group-title="Cine y Series",West | 41.8ms
 http://181.224.255.210:8001/play/a0rq/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Classic Western | 99.0ms" tvg-logo="" group-title="Cine y Series",Classic Western | 99.0ms
+#EXTINF:-1 tvg-id="" tvg-name="West | 99.0ms" tvg-logo="" group-title="Cine y Series",West | 99.0ms
 http://200.60.124.25:8000/play/a0n1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Classic | 30.6ms" tvg-logo="" group-title="Cine y Series",Classic | 30.6ms
+#EXTINF:-1 tvg-id="" tvg-name="Classic+ | 30.6ms" tvg-logo="" group-title="Cine y Series",Classic+ | 30.6ms
 http://38.210.105.10:8000/play/a0au/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Classic | 33.3ms" tvg-logo="" group-title="Cine y Series",Classic | 33.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Classic Series | 33.3ms" tvg-logo="" group-title="Cine y Series",Classic Series | 33.3ms
 http://38.210.105.10:8000/play/a0at/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Classic | 50.1ms" tvg-logo="" group-title="Cine y Series",Classic | 50.1ms
+#EXTINF:-1 tvg-id="" tvg-name="TCM | 50.1ms" tvg-logo="" group-title="Cine y Series",TCM | 50.1ms
 http://190.238.43.117:8000/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Clover | 59.7ms" tvg-logo="" group-title="Cine y Series",Clover | 59.7ms
