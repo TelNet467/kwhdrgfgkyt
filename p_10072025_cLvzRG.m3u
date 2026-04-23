@@ -1427,10 +1427,10 @@ http://200.37.201.35:8000/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 30.5ms" tvg-logo="" group-title="Deportes",ESPN | 30.5ms
 http://181.224.255.210:8001/play/a0ps/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 31.0ms" tvg-logo="" group-title="Deportes",ESPN | 31.0ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 | 31.0ms" tvg-logo="" group-title="Deportes",ESPN 7 | 31.0ms
 http://181.224.255.210:8001/play/a0m5/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 31.7ms" tvg-logo="" group-title="Deportes",ESPN | 31.7ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 | 31.7ms" tvg-logo="" group-title="Deportes",ESPN 4 | 31.7ms
 http://181.224.255.210:8001/play/a0og/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 32.3ms" tvg-logo="" group-title="Deportes",ESPN | 32.3ms
@@ -1439,16 +1439,16 @@ http://181.224.255.210:8001/play/a0sa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 33.4ms" tvg-logo="" group-title="Deportes",ESPN | 33.4ms
 http://201.234.124.235:8000/play/a0iu/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 35.0ms" tvg-logo="" group-title="Deportes",ESPN | 35.0ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 | 35.0ms" tvg-logo="" group-title="Deportes",ESPN 5 | 35.0ms
 http://181.224.255.210:8001/play/a0pr/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 36.4ms" tvg-logo="" group-title="Deportes",ESPN | 36.4ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 | 36.4ms" tvg-logo="" group-title="Deportes",ESPN 6 | 36.4ms
 http://181.224.255.210:8001/play/a0eq/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 37.9ms" tvg-logo="" group-title="Deportes",ESPN | 37.9ms
 http://38.224.175.2:8000/play/a02d/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 38.3ms" tvg-logo="" group-title="Deportes",ESPN | 38.3ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium | 38.3ms" tvg-logo="" group-title="Deportes",ESPN Premium | 38.3ms
 http://192.141.98.91:8000/play/a1i9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 42.1ms" tvg-logo="" group-title="Deportes",ESPN | 42.1ms
@@ -1457,16 +1457,16 @@ http://38.224.175.2:8000/play/a0t6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 44.9ms" tvg-logo="" group-title="Deportes",ESPN | 44.9ms
 http://191.97.49.82:8001/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 48.9ms" tvg-logo="" group-title="Deportes",ESPN | 48.9ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 | 48.9ms" tvg-logo="" group-title="Deportes",ESPN 3 | 48.9ms
 http://181.65.207.51:8000/play/a018
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 49.2ms" tvg-logo="" group-title="Deportes",ESPN | 49.2ms
 http://190.238.43.117:8000/play/a0az/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 49.5ms" tvg-logo="" group-title="Deportes",ESPN | 49.5ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 | 49.5ms" tvg-logo="" group-title="Deportes",ESPN 6 | 49.5ms
 http://181.65.207.51:8000/play/a017
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 50.1ms" tvg-logo="" group-title="Deportes",ESPN | 50.1ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 | 50.1ms" tvg-logo="" group-title="Deportes",ESPN 5 | 50.1ms
 http://181.65.207.51:8000/play/a016
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 51.5ms" tvg-logo="" group-title="Deportes",ESPN | 51.5ms
@@ -1481,7 +1481,7 @@ http://181.65.207.62:8000/play/a009
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 55.4ms" tvg-logo="" group-title="Deportes",ESPN | 55.4ms
 http://38.224.231.98:8000/play/a045/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 56.0ms" tvg-logo="" group-title="Deportes",ESPN | 56.0ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 | 56.0ms" tvg-logo="" group-title="Deportes",ESPN 4 | 56.0ms
 http://181.65.207.51:8000/play/a01i
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 56.0ms" tvg-logo="" group-title="Deportes",ESPN | 56.0ms
@@ -1490,10 +1490,10 @@ http://38.224.231.98:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 56.2ms" tvg-logo="" group-title="Deportes",ESPN | 56.2ms
 http://38.7.101.90:8000/play/espn1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 61.5ms" tvg-logo="" group-title="Deportes",ESPN | 61.5ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 61.5ms" tvg-logo="" group-title="Deportes",ESPN 2 | 61.5ms
 http://181.65.207.51:8000/play/a01b
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 63.0ms" tvg-logo="" group-title="Deportes",ESPN | 63.0ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 | 63.0ms" tvg-logo="" group-title="Deportes",ESPN 7 | 63.0ms
 http://181.65.207.51:8000/play/a01g
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 67.7ms" tvg-logo="" group-title="Deportes",ESPN | 67.7ms
@@ -1502,10 +1502,10 @@ http://200.37.201.35:8000/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 86.6ms" tvg-logo="" group-title="Deportes",ESPN | 86.6ms
 http://201.230.121.171:8000/play/a076/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 87.3ms" tvg-logo="" group-title="Deportes",ESPN | 87.3ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 | 87.3ms" tvg-logo="" group-title="Deportes",ESPN 3 | 87.3ms
 http://201.230.121.171:8000/play/a0nf/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 90.5ms" tvg-logo="" group-title="Deportes",ESPN | 90.5ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 | 90.5ms" tvg-logo="" group-title="Deportes",ESPN 4 | 90.5ms
 http://201.230.121.171:8000/play/a0m9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 92.8ms" tvg-logo="" group-title="Deportes",ESPN | 92.8ms
@@ -1514,10 +1514,10 @@ http://200.60.124.25:8000/play/a0q9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 95.2ms" tvg-logo="" group-title="Deportes",ESPN | 95.2ms
 http://200.60.124.25:8000/play/a0q0/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 96.6ms" tvg-logo="" group-title="Deportes",ESPN | 96.6ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 | 96.6ms" tvg-logo="" group-title="Deportes",ESPN 7 | 96.6ms
 http://201.230.121.171:8000/play/a08n/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 97.3ms" tvg-logo="" group-title="Deportes",ESPN | 97.3ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium | 97.3ms" tvg-logo="" group-title="Deportes",ESPN Premium | 97.3ms
 http://201.230.121.171:8000/play/a0bm/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 98.6ms" tvg-logo="" group-title="Deportes",ESPN | 98.6ms
