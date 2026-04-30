@@ -567,6 +567,9 @@ http://181.66.249.25:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo | 43.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",Telemundo | 43.2ms
 http://190.238.43.117:8000/play/a09a/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TELE NEXT | 34.8ms" tvg-logo="" group-title="Variedades y Entretenimiento",TELE NEXT | 34.8ms
+http://38.210.105.10:8000/play/a09m/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TVN | 39.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",TVN | 39.3ms
 http://191.97.59.52:9998/play/a04a
 
