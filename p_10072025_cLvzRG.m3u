@@ -2109,6 +2109,9 @@ http://190.238.43.117:8000/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NITRO LATINO | 30.9ms" tvg-logo="" group-title="Cine y Series",NITRO LATINO | 30.9ms
 http://38.210.105.10:8000/play/a09k/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PLUS TV | 35.4ms" tvg-logo="" group-title="Cine y Series",NITRO LATINO | 35.4ms
+http://38.210.105.10:8000/play/a0gu/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony Cine | 42.5ms" tvg-logo="" group-title="Cine y Series",Sony Cine | 42.5ms
 http://200.4.195.66:8000/play/a00d/index.m3u8
 
