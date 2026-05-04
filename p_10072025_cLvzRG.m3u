@@ -2424,6 +2424,9 @@ http://200.107.142.35:2400/play/a0rx/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series | 69.4ms" tvg-logo="" group-title="Cine y Series",TNT Series | 69.4ms
 http://200.37.201.35:8000/play/a0ba/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TUNER | 59.3ms" tvg-logo="" group-title="Cine y Series",TUNER | 59.3ms
+http://38.210.105.10:8000/play/a0bf/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Universal Channel | 31.2ms" tvg-logo="" group-title="Cine y Series",Universal Channel | 31.2ms
 http://38.210.105.10:8000/play/a079/index.m3u8
 
