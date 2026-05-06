@@ -731,6 +731,9 @@ http://181.65.207.51:8000/play/a04d
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature | 56.6ms" tvg-logo="" group-title="Cultura y Documentales",Love Nature | 56.6ms
 http://181.65.207.62:8000/play/a00l
 
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature ING | 66.3ms" tvg-logo="" group-title="Cultura y Documentales",Love Nature ING | 66.3ms
+https://jmp2.uk/stvp-USBA3400003IP
+
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo | 31.9ms" tvg-logo="" group-title="Cultura y Documentales",Nat Geo | 31.9ms
 http://181.224.255.210:8001/play/a0m2/index.m3u8
 
