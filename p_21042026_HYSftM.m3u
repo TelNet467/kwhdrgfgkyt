@@ -9,13 +9,13 @@
 # SELECTA OPTIMIZADA (<= 100ms)
 
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 39.5ms" tvg-logo="" group-title="Canales Peruanos",Latina | 39.5ms
-http://179.63.6.209:8000/play/a08p
+http://192.141.98.91:8000/play/a1m3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 27.8ms" tvg-logo="" group-title="Canales Peruanos",America TV | 27.8ms
-http://138.99.179.64:8000/play/a06c/index.m3u8
+http://38.210.105.10:8000/play/a0a4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ATV | 27.3ms" tvg-logo="" group-title="Canales Peruanos",ATV | 27.3ms
-http://38.190.103.164:8061/play/a0aa/index.m3u8
+http://138.99.179.64:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ATV+ | 24.7ms" tvg-logo="" group-title="Canales Peruanos",ATV+ | 24.7ms
 http://138.99.179.64:8000/play/a003/index.m3u8
