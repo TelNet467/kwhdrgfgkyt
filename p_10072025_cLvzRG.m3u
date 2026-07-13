@@ -8,29 +8,8 @@
 # GENERADA: 12/07/2026 23:53:52
 # OPTIMIZADA TOTAL (<= 100ms)
 
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 46.0ms" tvg-logo="" group-title="Canales Peruanos",Latina | 46.0ms
-http://201.234.124.235:8000/play/a0ix/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 47.7ms" tvg-logo="" group-title="Canales Peruanos",Latina | 47.7ms
 http://45.173.200.194:5000/play/a02c/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 48.2ms" tvg-logo="" group-title="Canales Peruanos",Latina | 48.2ms
-http://191.97.59.52:9998/play/a086
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 48.6ms" tvg-logo="" group-title="Canales Peruanos",Latina | 48.6ms
-http://38.187.5.120:4321/play/a10e/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 51.0ms" tvg-logo="" group-title="Canales Peruanos",Latina | 51.0ms
-http://179.1.158.52:8000/play/a0gn/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 51.1ms" tvg-logo="" group-title="Canales Peruanos",Latina | 51.1ms
-http://192.141.98.91:8000/play/a1m3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 52.9ms" tvg-logo="" group-title="Canales Peruanos",Latina | 52.9ms
-http://190.108.93.180:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 54.1ms" tvg-logo="" group-title="Canales Peruanos",Latina | 54.1ms
-http://181.224.255.210:8001/play/a0pk/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 54.8ms" tvg-logo="" group-title="Canales Peruanos",Latina | 54.8ms
 http://179.63.6.212:9000/play/a00f
@@ -38,47 +17,14 @@ http://179.63.6.212:9000/play/a00f
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 57.4ms" tvg-logo="" group-title="Canales Peruanos",Latina | 57.4ms
 http://179.63.6.209:8000/play/a08p
 
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 61.6ms" tvg-logo="" group-title="Canales Peruanos",Latina | 61.6ms
-http://161.132.37.218:8011/play/a01x/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 67.4ms" tvg-logo="" group-title="Canales Peruanos",Latina | 67.4ms
-http://200.4.241.75:8001/play/a079/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 70.0ms" tvg-logo="" group-title="Canales Peruanos",Latina | 70.0ms
-http://38.250.178.205:8000/play/a0ex/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 72.6ms" tvg-logo="" group-title="Canales Peruanos",Latina | 72.6ms
-http://190.119.65.150:8000/play/a0bm/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 73.0ms" tvg-logo="" group-title="Canales Peruanos",Latina | 73.0ms
 http://45.173.200.194:5000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 73.7ms" tvg-logo="" group-title="Canales Peruanos",Latina | 73.7ms
 http://38.19.16.151:8000/play/a095
 
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 74.5ms" tvg-logo="" group-title="Canales Peruanos",Latina | 74.5ms
-http://190.119.65.146:8000/play/a0bm/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 75.2ms" tvg-logo="" group-title="Canales Peruanos",Latina | 75.2ms
-http://200.4.241.75:8001/play/a079/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 76.5ms" tvg-logo="" group-title="Canales Peruanos",Latina | 76.5ms
-http://45.170.50.35:8087/play/a059/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 76.6ms" tvg-logo="" group-title="Canales Peruanos",Latina | 76.6ms
 http://38.137.192.250:8002/play/a007
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 78.8ms" tvg-logo="" group-title="Canales Peruanos",Latina | 78.8ms
-http://190.119.65.148:8000/play/a0bm/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 81.3ms" tvg-logo="" group-title="Canales Peruanos",Latina | 81.3ms
-http://179.1.145.73:8049/play/a03b/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 82.9ms" tvg-logo="" group-title="Canales Peruanos",Latina | 82.9ms
-http://190.43.231.184:8000/play/a0el/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 84.2ms" tvg-logo="" group-title="Canales Peruanos",Latina | 84.2ms
-http://190.119.65.147:8000/play/a0bm/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 29.0ms" tvg-logo="" group-title="Canales Peruanos",America TV | 29.0ms
 http://138.99.179.64:8000/play/a06c/index.m3u8
