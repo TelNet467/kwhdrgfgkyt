@@ -6,831 +6,955 @@
 # OPTIMIZADA TOTAL (<= 100ms)
 
 # GENERADA: 20/06/2026 23:50:37
+# OPTIMIZADA TOTAL (<= 100ms)
+
+# GENERADA: 12/07/2026 23:53:52
 # SELECTA OPTIMIZADA (<= 100ms)
 
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 47.2ms" tvg-logo="" group-title="Canales Peruanos",Latina | 47.2ms
+#EXTINF:-1 tvg-id="" tvg-name="Latina | 46.0ms" tvg-logo="" group-title="Canales Peruanos",Latina | 46.0ms
 http://201.234.124.235:8000/play/a0ix/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="America TV | 34.3ms" tvg-logo="" group-title="Canales Peruanos",America TV | 34.3ms
-http://38.187.5.120:4321/play/a19o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="America TV | 29.0ms" tvg-logo="" group-title="Canales Peruanos",America TV | 29.0ms
+http://138.99.179.64:8000/play/a06c/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ATV | 30.7ms" tvg-logo="" group-title="Canales Peruanos",ATV | 30.7ms
-http://138.99.179.64:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV | 38.8ms" tvg-logo="" group-title="Canales Peruanos",ATV | 38.8ms
+http://179.63.6.217:9000/play/a07q
 
-#EXTINF:-1 tvg-id="" tvg-name="ATV+ | 48.9ms" tvg-logo="" group-title="Canales Peruanos",ATV+ | 48.9ms
-http://181.66.249.25:8000/play/a0ir/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV+ | 49.1ms" tvg-logo="" group-title="Canales Peruanos",ATV+ | 49.1ms
+http://138.99.179.64:8000/play/a003/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ATV Sur | 52.7ms" tvg-logo="" group-title="Canales Peruanos",ATV Sur | 52.7ms
-http://181.66.249.25:8000/play/a0iq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV Sur | 30.2ms" tvg-logo="" group-title="Canales Peruanos",ATV Sur | 30.2ms
+http://138.99.179.64:8000/play/a004/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IPE | 81.5ms" tvg-logo="" group-title="Canales Peruanos",IPE | 81.5ms
-http://181.65.207.62:8000/play/a01h
+#EXTINF:-1 tvg-id="" tvg-name="IPE | 55.0ms" tvg-logo="" group-title="Canales Peruanos",IPE | 55.0ms
+http://181.65.207.51:8000/play/a04s
 
-#EXTINF:-1 tvg-id="" tvg-name="La Tele | 65.6ms" tvg-logo="" group-title="Canales Peruanos",La Tele | 65.6ms
-http://181.65.207.62:8000/play/a00a
+#EXTINF:-1 tvg-id="" tvg-name="La Tele | 57.8ms" tvg-logo="" group-title="Canales Peruanos",La Tele | 57.8ms
+http://181.65.207.51:8000/play/a024
 
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana | 36.0ms" tvg-logo="" group-title="Canales Peruanos",Panamericana | 36.0ms
-http://181.224.255.210:8001/play/a0s5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana | 28.5ms" tvg-logo="" group-title="Canales Peruanos",Panamericana | 28.5ms
+http://138.99.179.64:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Peru | 31.6ms" tvg-logo="" group-title="Canales Peruanos",TV Peru | 31.6ms
+#EXTINF:-1 tvg-id="" tvg-name="TV Peru | 30.9ms" tvg-logo="" group-title="Canales Peruanos",TV Peru | 30.9ms
 http://138.99.179.64:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Peru Noticias | 71.2ms" tvg-logo="" group-title="Canales Peruanos",TV Peru Noticias | 71.2ms
+#EXTINF:-1 tvg-id="" tvg-name="TV Peru Noticias | 59.6ms" tvg-logo="" group-title="Canales Peruanos",TV Peru Noticias | 59.6ms
 http://181.65.207.51:8000/play/a04t
 
-#EXTINF:-1 tvg-id="" tvg-name="Global | 45.5ms" tvg-logo="" group-title="Canales Peruanos",Global | 45.5ms
+#EXTINF:-1 tvg-id="" tvg-name="Global | 31.3ms" tvg-logo="" group-title="Canales Peruanos",Global | 31.3ms
 http://138.99.179.64:8000/play/a02w/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Exitosa | 31.5ms" tvg-logo="" group-title="Canales Peruanos",Exitosa | 31.5ms
-http://138.99.179.64:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exitosa | 39.5ms" tvg-logo="" group-title="Canales Peruanos",Exitosa | 39.5ms
+http://45.173.200.194:5000/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RPP | 35.0ms" tvg-logo="" group-title="Canales Peruanos",RPP | 35.0ms
+#EXTINF:-1 tvg-id="" tvg-name="RPP | 30.2ms" tvg-logo="" group-title="Canales Peruanos",RPP | 30.2ms
 http://138.99.179.64:8000/play/a04i/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal N | 57.6ms" tvg-logo="" group-title="Canales Peruanos",Canal N | 57.6ms
+#EXTINF:-1 tvg-id="" tvg-name="Canal N | 44.6ms" tvg-logo="" group-title="Canales Peruanos",Canal N | 44.6ms
 http://179.63.6.215:8000/play/a01a
 
-#EXTINF:-1 tvg-id="" tvg-name="Willax | 30.2ms" tvg-logo="" group-title="Canales Peruanos",Willax | 30.2ms
-http://138.99.179.64:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Willax | 34.9ms" tvg-logo="" group-title="Canales Peruanos",Willax | 34.9ms
+http://181.224.255.210:8001/play/a0s7/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PBO | 52.2ms" tvg-logo="" group-title="Canales Peruanos",PBO | 52.2ms
-http://191.97.55.72:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PBO | 37.7ms" tvg-logo="" group-title="Canales Peruanos",PBO | 37.7ms
+http://45.173.200.194:5000/play/a0fv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Antena 1 | 52.7ms" tvg-logo="" group-title="Canales Locales",Antena 1 | 52.7ms
-http://38.137.192.250:8002/play/a00i
+#EXTINF:-1 tvg-id="" tvg-name="Antena 1 | 68.9ms" tvg-logo="" group-title="Canales Locales",Antena 1 | 68.9ms
+http://190.233.253.199:8000/play/a07y/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Autentica | 47.6ms" tvg-logo="" group-title="Canales Locales",Autentica | 47.6ms
+#EXTINF:-1 tvg-id="" tvg-name="Artemusa TV | 36.8ms" tvg-logo="" group-title="Canales Locales",Artemusa TV | 36.8ms
+http://45.173.200.194:5000/play/a0f2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Autentica | 52.7ms" tvg-logo="" group-title="Canales Locales",Autentica | 52.7ms
 http://191.97.55.72:8000/play/a02/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Bambu TV | 59.7ms" tvg-logo="" group-title="Canales Locales",Bambu TV | 59.7ms
+#EXTINF:-1 tvg-id="" tvg-name="Bambu TV | 76.0ms" tvg-logo="" group-title="Canales Locales",Bambu TV | 76.0ms
 http://201.230.121.85:8000/play/a0ol/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Barney TV | 45.1ms" tvg-logo="" group-title="Canales Locales",Barney TV | 45.1ms
-http://38.210.105.10:8000/play/a0aj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cadena TV | 40.6ms" tvg-logo="" group-title="Canales Locales",Cadena TV | 40.6ms
+http://45.173.200.194:5000/play/a0co/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Casma TV | 59.1ms" tvg-logo="" group-title="Canales Locales",Casma TV | 59.1ms
+#EXTINF:-1 tvg-id="" tvg-name="Casma TV | 78.8ms" tvg-logo="" group-title="Canales Locales",Casma TV | 78.8ms
 http://200.107.142.35:2400/play/a0pa/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cosmos TV | 38.0ms" tvg-logo="" group-title="Canales Locales",Cosmos TV | 38.0ms
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos TV | 64.5ms" tvg-logo="" group-title="Canales Locales",Cosmos TV | 64.5ms
 http://191.97.59.52:9998/play/a032
 
-#EXTINF:-1 tvg-id="" tvg-name="Cositel Peru | 57.0ms" tvg-logo="" group-title="Canales Locales",Cositel Peru | 57.0ms
+#EXTINF:-1 tvg-id="" tvg-name="Cositel Peru | 67.7ms" tvg-logo="" group-title="Canales Locales",Cositel Peru | 67.7ms
 http://200.107.142.35:2400/play/a0pe/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Data TV | 56.1ms" tvg-logo="" group-title="Canales Locales",Data TV | 56.1ms
+#EXTINF:-1 tvg-id="" tvg-name="Data TV | 64.4ms" tvg-logo="" group-title="Canales Locales",Data TV | 64.4ms
 http://201.230.121.85:8000/play/DATA/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DQD | 43.1ms" tvg-logo="" group-title="Canales Locales",DQD | 43.1ms
-http://181.66.249.25:8000/play/a0ib/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DQD | 52.8ms" tvg-logo="" group-title="Canales Locales",DQD | 52.8ms
+http://200.4.241.75:8001/play/a0d7/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ErosTV | 58.6ms" tvg-logo="" group-title="Canales Locales",ErosTV | 58.6ms
+#EXTINF:-1 tvg-id="" tvg-name="ErosTV | 88.8ms" tvg-logo="" group-title="Canales Locales",ErosTV | 88.8ms
 http://200.107.142.35:2400/play/a0mj/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Genios TV | 50.3ms" tvg-logo="" group-title="Canales Locales",Genios TV | 50.3ms
-http://190.108.90.142:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hoy Peru TV | 68.0ms" tvg-logo="" group-title="Canales Locales",Hoy Peru TV | 68.0ms
+http://201.230.121.85:8000/play/HOYPERUTV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hoy Peru TV | 54.6ms" tvg-logo="" group-title="Canales Locales",Hoy Peru TV | 54.6ms
-http://200.107.142.35:2400/play/a0pj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Inka Vision | 80.7ms" tvg-logo="" group-title="Canales Locales",Inka Vision | 80.7ms
+http://190.233.253.199:8000/play/a05x/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Jeque TV | 51.5ms" tvg-logo="" group-title="Canales Locales",Jeque TV | 51.5ms
+#EXTINF:-1 tvg-id="" tvg-name="Jeque TV | 57.0ms" tvg-logo="" group-title="Canales Locales",Jeque TV | 57.0ms
 http://38.250.178.205:8000/play/a0b4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Juntos | 33.9ms" tvg-logo="" group-title="Canales Locales",Juntos | 33.9ms
+#EXTINF:-1 tvg-id="" tvg-name="Juntos | 33.8ms" tvg-logo="" group-title="Canales Locales",Juntos | 33.8ms
 http://38.210.105.10:8000/play/ro4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Media TV | 46.9ms" tvg-logo="" group-title="Canales Locales",Media TV | 46.9ms
+#EXTINF:-1 tvg-id="" tvg-name="Media TV | 51.5ms" tvg-logo="" group-title="Canales Locales",Media TV | 51.5ms
 http://200.4.241.75:8001/play/a0d9/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Mega TV | 56.3ms" tvg-logo="" group-title="Canales Locales",Mega TV | 56.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Mega TV | 60.6ms" tvg-logo="" group-title="Canales Locales",Mega TV | 60.6ms
 http://200.107.142.35:2400/play/a0ov/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MegaTV Jaen | 55.4ms" tvg-logo="" group-title="Canales Locales",MegaTV Jaen | 55.4ms
+#EXTINF:-1 tvg-id="" tvg-name="MegaTV Jaen | 77.7ms" tvg-logo="" group-title="Canales Locales",MegaTV Jaen | 77.7ms
 http://200.107.142.35:2400/play/a0pg/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Miel TV | 59.4ms" tvg-logo="" group-title="Canales Locales",Miel TV | 59.4ms
+#EXTINF:-1 tvg-id="" tvg-name="Miel TV | 45.4ms" tvg-logo="" group-title="Canales Locales",Miel TV | 45.4ms
 http://179.63.6.217:9000/play/a071
 
-#EXTINF:-1 tvg-id="" tvg-name="Milenial TV | 31.0ms" tvg-logo="" group-title="Canales Locales",Milenial TV | 31.0ms
-http://38.187.5.120:4321/play/a1c0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Milenial TV | 42.3ms" tvg-logo="" group-title="Canales Locales",Milenial TV | 42.3ms
+http://38.187.5.120:4321/play/a1cg/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Monitor TV | 46.4ms" tvg-logo="" group-title="Canales Locales",Monitor TV | 46.4ms
+#EXTINF:-1 tvg-id="" tvg-name="Monitor TV | 33.0ms" tvg-logo="" group-title="Canales Locales",Monitor TV | 33.0ms
 http://138.99.179.64:8000/play/a062/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nativa | 35.9ms" tvg-logo="" group-title="Canales Locales",Nativa | 35.9ms
-http://179.63.6.215:8000/play/a018
+#EXTINF:-1 tvg-id="" tvg-name="Nativa | 28.7ms" tvg-logo="" group-title="Canales Locales",Nativa | 28.7ms
+http://138.99.179.64:8000/play/a03x/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nodelma | 53.6ms" tvg-logo="" group-title="Canales Locales",Nodelma | 53.6ms
+#EXTINF:-1 tvg-id="" tvg-name="Nodelma | 75.5ms" tvg-logo="" group-title="Canales Locales",Nodelma | 75.5ms
 http://201.230.121.85:8000/play/a0lp/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ODTV | 26.5ms" tvg-logo="" group-title="Canales Locales",ODTV | 26.5ms
+#EXTINF:-1 tvg-id="" tvg-name="ODTV | 29.4ms" tvg-logo="" group-title="Canales Locales",ODTV | 29.4ms
 http://138.99.179.64:8000/play/a044/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ODTV 2 | 52.4ms" tvg-logo="" group-title="Canales Locales",ODTV 2 | 52.4ms
+#EXTINF:-1 tvg-id="" tvg-name="ODTV 2 | 49.4ms" tvg-logo="" group-title="Canales Locales",ODTV 2 | 49.4ms
 http://138.99.179.64:8000/play/a045/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Pichanaki TV | 37.1ms" tvg-logo="" group-title="Canales Locales",Pichanaki TV | 37.1ms
+#EXTINF:-1 tvg-id="" tvg-name="Pichanaki TV | 42.1ms" tvg-logo="" group-title="Canales Locales",Pichanaki TV | 42.1ms
 http://179.63.6.217:9000/play/a07f
 
-#EXTINF:-1 tvg-id="" tvg-name="Planea TV | 68.6ms" tvg-logo="" group-title="Canales Locales",Planea TV | 68.6ms
-http://201.240.108.20:5000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Piura TV | 79.9ms" tvg-logo="" group-title="Canales Locales",Piura TV | 79.9ms
+http://190.233.253.199:8000/play/a060/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PLUS TV | 41.5ms" tvg-logo="" group-title="Canales Locales",PLUS TV | 41.5ms
-http://38.210.105.10:8000/play/a0gu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Planea TV | 79.9ms" tvg-logo="" group-title="Canales Locales",Planea TV | 79.9ms
+http://200.107.142.35:2400/play/a0q6/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Rumba | 56.0ms" tvg-logo="" group-title="Canales Locales",Rumba | 56.0ms
-http://181.65.207.62:8000/play/a032
+#EXTINF:-1 tvg-id="" tvg-name="PLUS TV | 46.6ms" tvg-logo="" group-title="Canales Locales",PLUS TV | 46.6ms
+http://38.158.233.152:8000/play/a1e7/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Selva TV | 50.0ms" tvg-logo="" group-title="Canales Locales",Selva TV | 50.0ms
+#EXTINF:-1 tvg-id="" tvg-name="Rumba | 50.2ms" tvg-logo="" group-title="Canales Locales",Rumba | 50.2ms
+http://191.97.55.72:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Selva TV | 42.2ms" tvg-logo="" group-title="Canales Locales",Selva TV | 42.2ms
 http://179.63.6.217:9000/play/a0co
 
-#EXTINF:-1 tvg-id="" tvg-name="Stereo TV | 61.6ms" tvg-logo="" group-title="Canales Locales",Stereo TV | 61.6ms
-http://200.49.243.2:8000/play/a0rc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOL TV | 83.8ms" tvg-logo="" group-title="Canales Locales",SOL TV | 83.8ms
+http://190.233.253.199:8000/play/a04v/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Television Tarapoto | 43.3ms" tvg-logo="" group-title="Canales Locales",Television Tarapoto | 43.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Television Tarapoto | 51.4ms" tvg-logo="" group-title="Canales Locales",Television Tarapoto | 51.4ms
 http://191.97.55.72:8000/play/a026/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Trivu | 56.0ms" tvg-logo="" group-title="Canales Locales",Trivu | 56.0ms
-http://179.63.6.212:9000/play/a02l
-
-#EXTINF:-1 tvg-id="" tvg-name="TV En Linea Cusco | 60.7ms" tvg-logo="" group-title="Canales Locales",TV En Linea Cusco | 60.7ms
+#EXTINF:-1 tvg-id="" tvg-name="TV En Linea Cusco | 76.1ms" tvg-logo="" group-title="Canales Locales",TV En Linea Cusco | 76.1ms
 http://38.137.192.250:8002/play/a0b3
 
-#EXTINF:-1 tvg-id="" tvg-name="Turbo Mix Cajamarca | 45.4ms" tvg-logo="" group-title="Canales Locales",Turbo Mix Cajamarca | 45.4ms
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Mix Cajamarca | 59.2ms" tvg-logo="" group-title="Canales Locales",Turbo Mix Cajamarca | 59.2ms
 http://38.210.105.10:8000/play/a09r/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Perene | 37.3ms" tvg-logo="" group-title="Canales Locales",TV Perene | 37.3ms
+#EXTINF:-1 tvg-id="" tvg-name="TV Perene | 42.3ms" tvg-logo="" group-title="Canales Locales",TV Perene | 42.3ms
 http://179.63.6.217:9000/play/a07c
 
-#EXTINF:-1 tvg-id="" tvg-name="Uranio | 35.7ms" tvg-logo="" group-title="Canales Locales",Uranio | 35.7ms
+#EXTINF:-1 tvg-id="" tvg-name="Uranio | 52.4ms" tvg-logo="" group-title="Canales Locales",Uranio | 52.4ms
 http://179.1.158.52:8000/play/a05f/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="VIA TV | 70.0ms" tvg-logo="" group-title="Canales Locales",VIA TV | 70.0ms
+#EXTINF:-1 tvg-id="" tvg-name="VIA TV | 77.6ms" tvg-logo="" group-title="Canales Locales",VIA TV | 77.6ms
 http://200.107.142.35:2400/play/a0pu/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Vision TV | 57.1ms" tvg-logo="" group-title="Canales Locales",Vision TV | 57.1ms
-http://200.49.243.2:8000/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vision TV | 93.7ms" tvg-logo="" group-title="Canales Locales",Vision TV | 93.7ms
+http://200.107.142.35:2400/play/a0pt/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Viva TV | 25.6ms" tvg-logo="" group-title="Canales Locales",Viva TV | 25.6ms
+#EXTINF:-1 tvg-id="" tvg-name="Viva TV | 35.1ms" tvg-logo="" group-title="Canales Locales",Viva TV | 35.1ms
 http://138.99.179.64:8000/play/a05r/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ALC | 37.9ms" tvg-logo="" group-title="Canales Locales",ALC | 37.9ms
+#EXTINF:-1 tvg-id="" tvg-name="ALC | 67.2ms" tvg-logo="" group-title="Canales Locales",ALC | 67.2ms
 http://179.63.6.215:8002/play/a02x
 
-#EXTINF:-1 tvg-id="" tvg-name="CTC | 80.9ms" tvg-logo="" group-title="Canales Locales",CTC | 80.9ms
-http://179.1.145.73:8049/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CTC | 69.0ms" tvg-logo="" group-title="Canales Locales",CTC | 69.0ms
+http://200.37.201.98:8000/play/a0c6/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Punto De Vista | 33.1ms" tvg-logo="" group-title="Canales Locales",Punto De Vista | 33.1ms
+#EXTINF:-1 tvg-id="" tvg-name="Punto De Vista | 38.9ms" tvg-logo="" group-title="Canales Locales",Punto De Vista | 38.9ms
 http://38.187.5.120:4321/play/a1bz/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Radio Libertad | 57.7ms" tvg-logo="" group-title="Canales Locales",Radio Libertad | 57.7ms
+#EXTINF:-1 tvg-id="" tvg-name="Radio Libertad | 56.0ms" tvg-logo="" group-title="Canales Locales",Radio Libertad | 56.0ms
 http://179.63.6.217:9000/play/a06l
 
-#EXTINF:-1 tvg-id="" tvg-name="Via Television | 47.5ms" tvg-logo="" group-title="Canales Locales",Via Television | 47.5ms
+#EXTINF:-1 tvg-id="" tvg-name="Via Television | 77.4ms" tvg-logo="" group-title="Canales Locales",Via Television | 77.4ms
 http://191.97.55.72:8000/play/a029/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa | 78.1ms" tvg-logo="" group-title="Canales Regionales",Ecuavisa | 78.1ms
-http://45.170.50.35:8087/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa | 51.1ms" tvg-logo="" group-title="Canales Regionales",Ecuavisa | 51.1ms
+http://38.158.233.152:8000/play/a1hq/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Popu TV | 54.3ms" tvg-logo="" group-title="Canales Regionales",Popu TV | 54.3ms
-http://190.119.65.148:8000/play/a0ho/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Popu TV | 36.7ms" tvg-logo="" group-title="Canales Regionales",Popu TV | 36.7ms
+http://38.187.5.120:4321/play/a17w/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVAgro | 47.3ms" tvg-logo="" group-title="Canales Regionales",TVAgro | 47.3ms
+#EXTINF:-1 tvg-id="" tvg-name="TVAgro | 52.7ms" tvg-logo="" group-title="Canales Regionales",TVAgro | 52.7ms
 http://191.97.55.72:8000/play/a027/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 24 Horas | 53.0ms" tvg-logo="" group-title="Noticias y Actualidad",Canal 24 Horas | 53.0ms
+#EXTINF:-1 tvg-id="" tvg-name="Canal 24 Horas | 31.2ms" tvg-logo="" group-title="Noticias y Actualidad",Canal 24 Horas | 31.2ms
 http://45.186.254.75:8000/play/a048/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL | 59.8ms" tvg-logo="" group-title="Noticias y Actualidad",CGTN ESPAÑOL | 59.8ms
+#EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL | 57.8ms" tvg-logo="" group-title="Noticias y Actualidad",CGTN ESPAÑOL | 57.8ms
 http://181.65.207.62:8000/play/a02o
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN Español | 41.6ms" tvg-logo="" group-title="Noticias y Actualidad",CNN Español | 41.6ms
+#EXTINF:-1 tvg-id="" tvg-name="CNN Español | 36.9ms" tvg-logo="" group-title="Noticias y Actualidad",CNN Español | 36.9ms
 http://179.63.6.215:8002/play/a02q
 
-#EXTINF:-1 tvg-id="" tvg-name="DW | 43.0ms" tvg-logo="" group-title="Noticias y Actualidad",DW | 43.0ms
+#EXTINF:-1 tvg-id="" tvg-name="DW | 52.3ms" tvg-logo="" group-title="Noticias y Actualidad",DW | 52.3ms
 http://179.63.6.217:9000/play/a0bt
 
-#EXTINF:-1 tvg-id="" tvg-name="France 24 | 49.7ms" tvg-logo="" group-title="Noticias y Actualidad",France 24 | 49.7ms
+#EXTINF:-1 tvg-id="" tvg-name="France 24 | 35.4ms" tvg-logo="" group-title="Noticias y Actualidad",France 24 | 35.4ms
 http://179.63.6.212:9000/play/a05a
 
-#EXTINF:-1 tvg-id="" tvg-name="RT | 27.0ms" tvg-logo="" group-title="Noticias y Actualidad",RT | 27.0ms
-http://38.52.182.224:4500/play/a036
+#EXTINF:-1 tvg-id="" tvg-name="RT | 24.4ms" tvg-logo="" group-title="Noticias y Actualidad",RT | 24.4ms
+http://138.99.179.64:8000/play/a04j/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Telesur | 51.7ms" tvg-logo="" group-title="Noticias y Actualidad",Telesur | 51.7ms
-http://179.63.6.217:9000/play/a0bb
+#EXTINF:-1 tvg-id="" tvg-name="Telesur | 55.5ms" tvg-logo="" group-title="Noticias y Actualidad",Telesur | 55.5ms
+http://181.65.207.62:8000/play/a02m
 
-#EXTINF:-1 tvg-id="" tvg-name="DSports | 30.8ms" tvg-logo="" group-title="Deportes",DSports | 30.8ms
+#EXTINF:-1 tvg-id="" tvg-name="DSports | 31.8ms" tvg-logo="" group-title="Deportes",DSports | 31.8ms
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DSports 2 | 31.6ms" tvg-logo="" group-title="Deportes",DSports 2 | 31.6ms
-http://38.43.150.187:7777/play/a062/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 | 49.0ms" tvg-logo="" group-title="Deportes",DSports 2 | 49.0ms
+http://181.66.249.25:8000/play/a0d2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DSports+ | 47.5ms" tvg-logo="" group-title="Deportes",DSports+ | 47.5ms
+#EXTINF:-1 tvg-id="" tvg-name="DSports+ | 45.5ms" tvg-logo="" group-title="Deportes",DSports+ | 45.5ms
 http://179.63.6.209:8000/play/a00f
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 26.9ms" tvg-logo="" group-title="Deportes",ESPN | 26.9ms
-http://138.99.179.64:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN | 32.8ms" tvg-logo="" group-title="Deportes",ESPN | 32.8ms
+http://38.43.150.187:9999/play/a09p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 32.3ms" tvg-logo="" group-title="Deportes",ESPN 2 | 32.3ms
-http://38.210.105.10:8000/play/a09g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 27.7ms" tvg-logo="" group-title="Deportes",ESPN 2 | 27.7ms
+http://138.99.179.64:8000/play/a025/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 | 41.9ms" tvg-logo="" group-title="Deportes",ESPN 3 | 41.9ms
-http://38.210.105.10:8000/play/a0ex/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 | 30.0ms" tvg-logo="" group-title="Deportes",ESPN 3 | 30.0ms
+http://138.99.179.64:8000/play/a026/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 | 34.5ms" tvg-logo="" group-title="Deportes",ESPN 4 | 34.5ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 | 30.9ms" tvg-logo="" group-title="Deportes",ESPN 4 | 30.9ms
 http://138.99.179.64:8000/play/a027/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 | 31.7ms" tvg-logo="" group-title="Deportes",ESPN 5 | 31.7ms
-http://138.99.179.64:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 | 34.0ms" tvg-logo="" group-title="Deportes",ESPN 5 | 34.0ms
+http://38.210.105.10:8000/play/a09h/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 | 34.4ms" tvg-logo="" group-title="Deportes",ESPN 6 | 34.4ms
-http://181.224.255.210:8001/play/a0eq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 | 32.2ms" tvg-logo="" group-title="Deportes",ESPN 6 | 32.2ms
+http://45.186.254.75:8000/play/a0ag/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 | 32.1ms" tvg-logo="" group-title="Deportes",ESPN 7 | 32.1ms
-http://138.99.179.64:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 | 32.3ms" tvg-logo="" group-title="Deportes",ESPN 7 | 32.3ms
+http://38.210.105.10:8000/play/a042/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium | 35.3ms" tvg-logo="" group-title="Deportes",ESPN Premium | 35.3ms
-http://38.210.105.10:8000/play/a0fy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium | 31.9ms" tvg-logo="" group-title="Deportes",ESPN Premium | 31.9ms
+http://38.43.150.187:9999/play/a09c/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports | 40.8ms" tvg-logo="" group-title="Deportes",Fox Sports | 40.8ms
-http://38.43.150.187:7777/play/a09f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports | 58.0ms" tvg-logo="" group-title="Deportes",Fox Sports | 58.0ms
+http://38.137.192.250:8002/play/a00c
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 | 31.3ms" tvg-logo="" group-title="Deportes",Fox Sports 2 | 31.3ms
-http://38.43.150.187:7777/play/a09o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 | 36.5ms" tvg-logo="" group-title="Deportes",Fox Sports 2 | 36.5ms
+http://38.43.150.187:9999/play/a09o/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV | 51.9ms" tvg-logo="" group-title="Deportes",Gol TV | 51.9ms
-http://179.63.6.215:8000/play/a014
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports | 63.3ms" tvg-logo="" group-title="Deportes",Claro Sports | 63.3ms
+http://38.19.16.151:9000/play/a02h/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun | 43.4ms" tvg-logo="" group-title="Deportes",TNT Sports Premiun | 43.4ms
-http://179.63.6.217:9000/play/a0aa
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel | 68.4ms" tvg-logo="" group-title="Deportes",Golf Channel | 68.4ms
+http://38.19.16.151:9000/play/a027/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports | 36.5ms" tvg-logo="" group-title="Deportes",TNT Sports | 36.5ms
-http://38.187.5.120:4321/play/a152/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun | 31.1ms" tvg-logo="" group-title="Deportes",TNT Sports Premiun | 31.1ms
+http://138.99.179.64:8000/play/a050/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports | 33.3ms" tvg-logo="" group-title="Deportes",TyC Sports | 33.3ms
-http://38.210.105.10:8000/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports | 31.1ms" tvg-logo="" group-title="Deportes",TNT Sports | 31.1ms
+http://38.210.105.10:8000/play/a0f3/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CLASSIC | 49.3ms" tvg-logo="" group-title="Cine y Series",CLASSIC | 49.3ms
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports | 54.1ms" tvg-logo="" group-title="Deportes",TyC Sports | 54.1ms
+http://179.63.6.217:9000/play/a07y
+
+#EXTINF:-1 tvg-id="" tvg-name="+CINE | 41.7ms" tvg-logo="" group-title="Cine y Series",+CINE | 41.7ms
+http://179.63.6.212:9030/play/a003
+
+#EXTINF:-1 tvg-id="" tvg-name="+CINE CLASSIC | 51.8ms" tvg-logo="" group-title="Cine y Series",+CINE CLASSIC | 51.8ms
+http://179.63.6.212:9030/play/a001
+
+#EXTINF:-1 tvg-id="" tvg-name="+CINE FAMILY | 45.2ms" tvg-logo="" group-title="Cine y Series",+CINE FAMILY | 45.2ms
+http://179.63.6.212:9030/play/a002
+
+#EXTINF:-1 tvg-id="" tvg-name="+CINE TERROR | 41.2ms" tvg-logo="" group-title="Cine y Series",+CINE TERROR | 41.2ms
+http://179.63.6.212:9030/play/a004
+
+#EXTINF:-1 tvg-id="" tvg-name="+CINE WAR | 64.2ms" tvg-logo="" group-title="Cine y Series",+CINE WAR | 64.2ms
+http://179.63.6.212:9030/play/a005
+
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIC | 37.7ms" tvg-logo="" group-title="Cine y Series",CLASSIC | 37.7ms
 http://38.210.105.10:8000/play/a0at/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CLASSIC WESTERN | 33.3ms" tvg-logo="" group-title="Cine y Series",CLASSIC WESTERN | 33.3ms
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIC WESTERN | 48.1ms" tvg-logo="" group-title="Cine y Series",CLASSIC WESTERN | 48.1ms
 http://38.210.105.10:8000/play/a0aw/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Classic+ | 34.6ms" tvg-logo="" group-title="Cine y Series",Classic+ | 34.6ms
+#EXTINF:-1 tvg-id="" tvg-name="Classic+ | 31.4ms" tvg-logo="" group-title="Cine y Series",Classic+ | 31.4ms
 http://38.210.105.10:8000/play/a0au/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="West | 32.7ms" tvg-logo="" group-title="Cine y Series",West | 32.7ms
-http://38.210.105.10:8000/play/a0bn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="West | 35.5ms" tvg-logo="" group-title="Cine y Series",West | 35.5ms
+http://181.224.255.210:8001/play/a0rq/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E | 35.9ms" tvg-logo="" group-title="Cine y Series",A&E | 35.9ms
-http://201.234.124.235:8000/play/a0hm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E | 30.2ms" tvg-logo="" group-title="Cine y Series",A&E | 30.2ms
+http://45.186.254.75:8000/play/a04b/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC | 35.1ms" tvg-logo="" group-title="Cine y Series",AMC | 35.1ms
-http://201.234.124.235:8000/play/a0hw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC | 26.7ms" tvg-logo="" group-title="Cine y Series",AMC | 26.7ms
+http://138.99.179.64:8000/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A3Series | 39.3ms" tvg-logo="" group-title="Cine y Series",A3Series | 39.3ms
-http://181.224.255.210:8001/play/a0rm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A3Series | 33.5ms" tvg-logo="" group-title="Cine y Series",A3Series | 33.5ms
+http://201.234.124.235:8000/play/a0ht/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AXN | 33.9ms" tvg-logo="" group-title="Cine y Series",AXN | 33.9ms
-http://38.210.105.10:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN | 30.6ms" tvg-logo="" group-title="Cine y Series",AXN | 30.6ms
+http://38.43.150.187:9999/play/a050/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AZ Cinema | 63.9ms" tvg-logo="" group-title="Cine y Series",AZ Cinema | 63.9ms
-http://190.108.90.142:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Cinema | 55.6ms" tvg-logo="" group-title="Cine y Series",AZ Cinema | 55.6ms
+http://181.65.207.62:8000/play/a008
 
-#EXTINF:-1 tvg-id="" tvg-name="BLU | 62.3ms" tvg-logo="" group-title="Cine y Series",BLU | 62.3ms
+#EXTINF:-1 tvg-id="" tvg-name="BLU | 53.6ms" tvg-logo="" group-title="Cine y Series",BLU | 53.6ms
 http://38.210.105.10:8000/play/a09p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD TV | 75.4ms" tvg-logo="" group-title="Cine y Series",BOLLYWOOD TV | 75.4ms
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD TV | 69.4ms" tvg-logo="" group-title="Cine y Series",BOLLYWOOD TV | 69.4ms
 http://201.230.121.85:8000/play/BOLLYWOODTV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal | 33.6ms" tvg-logo="" group-title="Cine y Series",Cinecanal | 33.6ms
-http://181.224.255.210:8001/play/a0ob/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal | 32.2ms" tvg-logo="" group-title="Cine y Series",Cinecanal | 32.2ms
+http://38.210.105.10:8000/play/a0f4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIAR | 34.4ms" tvg-logo="" group-title="Cine y Series",CINE FAMILIAR | 34.4ms
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIAR | 32.2ms" tvg-logo="" group-title="Cine y Series",CINE FAMILIAR | 32.2ms
 http://138.99.179.64:8000/play/a017/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO | 30.1ms" tvg-logo="" group-title="Cine y Series",CINE HISPANO | 30.1ms
+#EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO | 30.4ms" tvg-logo="" group-title="Cine y Series",CINE HISPANO | 30.4ms
 http://138.99.179.64:8000/play/a018/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Latino | 38.6ms" tvg-logo="" group-title="Cine y Series",Cine Latino | 38.6ms
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino | 33.1ms" tvg-logo="" group-title="Cine y Series",Cine Latino | 33.1ms
 http://38.210.105.10:8000/play/a0ax/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM | 60.1ms" tvg-logo="" group-title="Cine y Series",CINE PREMIUM | 60.1ms
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM | 33.6ms" tvg-logo="" group-title="Cine y Series",CINE PREMIUM | 33.6ms
 http://138.99.179.64:8000/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX | 50.6ms" tvg-logo="" group-title="Cine y Series",CINEMAX | 50.6ms
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX | 30.8ms" tvg-logo="" group-title="Cine y Series",CINEMAX | 30.8ms
 http://138.99.179.64:8000/play/a01l/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Clover | 64.3ms" tvg-logo="" group-title="Cine y Series",Clover | 64.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Clover | 41.9ms" tvg-logo="" group-title="Cine y Series",Clover | 41.9ms
 http://179.63.6.215:8000/play/a00t
 
-#EXTINF:-1 tvg-id="" tvg-name="DHE | 37.2ms" tvg-logo="" group-title="Cine y Series",DHE | 37.2ms
-http://201.234.124.235:8000/play/a0gn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHE | 33.8ms" tvg-logo="" group-title="Cine y Series",DHE | 33.8ms
+http://38.210.105.10:8000/play/a07h/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Euro Channel | 56.5ms" tvg-logo="" group-title="Cine y Series",Euro Channel | 56.5ms
+#EXTINF:-1 tvg-id="" tvg-name="Euro Channel | 59.1ms" tvg-logo="" group-title="Cine y Series",Euro Channel | 59.1ms
 http://179.63.6.217:9000/play/a0dj
 
-#EXTINF:-1 tvg-id="" tvg-name="Europa Europa | 61.8ms" tvg-logo="" group-title="Cine y Series",Europa Europa | 61.8ms
-http://181.65.207.62:8000/play/a028
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa | 52.9ms" tvg-logo="" group-title="Cine y Series",Europa Europa | 52.9ms
+http://181.65.207.51:8000/play/a03a
 
-#EXTINF:-1 tvg-id="" tvg-name="FMH Family | 33.6ms" tvg-logo="" group-title="Cine y Series",FMH Family | 33.6ms
-http://45.186.254.75:8000/play/a07l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts | 70.4ms" tvg-logo="" group-title="Cine y Series",Film & Arts | 70.4ms
+http://38.19.16.151:9000/play/a01x/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FMH Movies | 33.4ms" tvg-logo="" group-title="Cine y Series",FMH Movies | 33.4ms
+#EXTINF:-1 tvg-id="" tvg-name="FMH Family | 31.5ms" tvg-logo="" group-title="Cine y Series",FMH Family | 31.5ms
+http://38.210.105.10:8000/play/a07q/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FMH Movies | 32.6ms" tvg-logo="" group-title="Cine y Series",FMH Movies | 32.6ms
 http://38.210.105.10:8000/play/a07s/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FX | 37.0ms" tvg-logo="" group-title="Cine y Series",FX | 37.0ms
+#EXTINF:-1 tvg-id="" tvg-name="FX | 34.9ms" tvg-logo="" group-title="Cine y Series",FX | 34.9ms
 http://38.187.5.120:4321/play/a124/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Golden | 32.6ms" tvg-logo="" group-title="Cine y Series",Golden | 32.6ms
-http://38.43.150.187:7777/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden | 33.5ms" tvg-logo="" group-title="Cine y Series",Golden | 33.5ms
+http://201.234.124.235:8000/play/a0j8/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premier | 38.4ms" tvg-logo="" group-title="Cine y Series",Golden Premier | 38.4ms
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier | 35.5ms" tvg-logo="" group-title="Cine y Series",Golden Premier | 35.5ms
 http://45.186.254.75:8000/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO | 38.8ms" tvg-logo="" group-title="Cine y Series",HBO | 38.8ms
+#EXTINF:-1 tvg-id="" tvg-name="HBO | 37.9ms" tvg-logo="" group-title="Cine y Series",HBO | 37.9ms
 http://38.187.5.120:4321/play/a16q/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY | 29.6ms" tvg-logo="" group-title="Cine y Series",HBO FAMILY | 29.6ms
-http://38.210.105.10:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 | 86.2ms" tvg-logo="" group-title="Cine y Series",HBO 2 | 86.2ms
+http://38.19.16.151:9000/play/a02l/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE | 31.8ms" tvg-logo="" group-title="Cine y Series",HBO SIGNATURE | 31.8ms
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY | 29.1ms" tvg-logo="" group-title="Cine y Series",HBO FAMILY | 29.1ms
+http://138.99.179.64:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE | 34.2ms" tvg-logo="" group-title="Cine y Series",HBO SIGNATURE | 34.2ms
 http://38.210.105.10:8000/play/a0eu/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME | 32.3ms" tvg-logo="" group-title="Cine y Series",HBO XTREME | 32.3ms
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME | 32.4ms" tvg-logo="" group-title="Cine y Series",HBO XTREME | 32.4ms
 http://138.99.179.64:8000/play/a039/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP | 33.3ms" tvg-logo="" group-title="Cine y Series",HBO POP | 33.3ms
-http://138.99.179.64:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP | 34.6ms" tvg-logo="" group-title="Cine y Series",HBO POP | 34.6ms
+http://38.187.5.120:4321/play/a156/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LifeTime | 69.7ms" tvg-logo="" group-title="Cine y Series",LifeTime | 69.7ms
+#EXTINF:-1 tvg-id="" tvg-name="HBO + | 63.0ms" tvg-logo="" group-title="Cine y Series",HBO + | 63.0ms
+http://38.19.16.151:9000/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LifeTime | 44.6ms" tvg-logo="" group-title="Cine y Series",LifeTime | 44.6ms
 http://179.63.6.209:8000/play/a00c
 
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime | 79.1ms" tvg-logo="" group-title="Cine y Series",Lifetime | 79.1ms
-http://200.49.243.2:8000/play/a0j6/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Memorias Series | 35.7ms" tvg-logo="" group-title="Cine y Series",Memorias Series | 35.7ms
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Series | 31.9ms" tvg-logo="" group-title="Cine y Series",Memorias Series | 31.9ms
 http://38.210.105.10:8000/play/a0an/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MI PELICULA | 34.4ms" tvg-logo="" group-title="Cine y Series",MI PELICULA | 34.4ms
+#EXTINF:-1 tvg-id="" tvg-name="MI PELICULA | 35.8ms" tvg-logo="" group-title="Cine y Series",MI PELICULA | 35.8ms
 http://38.210.105.10:8000/play/a09l/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MULTICINEMA | 62.9ms" tvg-logo="" group-title="Cine y Series",MULTICINEMA | 62.9ms
+#EXTINF:-1 tvg-id="" tvg-name="MULTICINEMA | 52.3ms" tvg-logo="" group-title="Cine y Series",MULTICINEMA | 52.3ms
 http://191.97.55.72:8000/play/a013/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER | 49.1ms" tvg-logo="" group-title="Cine y Series",MULTIPREMIER | 49.1ms
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER | 49.3ms" tvg-logo="" group-title="Cine y Series",MULTIPREMIER | 49.3ms
 http://191.97.55.72:8000/play/a014/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NITRO LATINO | 52.5ms" tvg-logo="" group-title="Cine y Series",NITRO LATINO | 52.5ms
+#EXTINF:-1 tvg-id="" tvg-name="NITRO LATINO | 32.1ms" tvg-logo="" group-title="Cine y Series",NITRO LATINO | 32.1ms
 http://38.210.105.10:8000/play/a09k/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ReWIND | 57.8ms" tvg-logo="" group-title="Cine y Series",ReWIND | 57.8ms
-http://201.240.108.20:5000/play/a0bv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sony Channel | 33.3ms" tvg-logo="" group-title="Cine y Series",Sony Channel | 33.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel | 30.6ms" tvg-logo="" group-title="Cine y Series",Sony Channel | 30.6ms
 http://138.99.179.64:8000/play/a04m/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies | 48.2ms" tvg-logo="" group-title="Cine y Series",Sony Movies | 48.2ms
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies | 42.3ms" tvg-logo="" group-title="Cine y Series",Sony Movies | 42.3ms
 http://179.63.6.209:8000/play/a00b
 
-#EXTINF:-1 tvg-id="" tvg-name="Space | 36.2ms" tvg-logo="" group-title="Cine y Series",Space | 36.2ms
-http://38.187.5.120:4321/play/a16b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space | 29.0ms" tvg-logo="" group-title="Cine y Series",Space | 29.0ms
+http://38.210.105.10:8000/play/a0fb/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL | 34.6ms" tvg-logo="" group-title="Cine y Series",STAR CHANNEL | 34.6ms
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL | 29.0ms" tvg-logo="" group-title="Cine y Series",STAR CHANNEL | 29.0ms
 http://138.99.179.64:8000/play/a04p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Star TVE | 46.4ms" tvg-logo="" group-title="Cine y Series",Star TVE | 46.4ms
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE | 42.1ms" tvg-logo="" group-title="Cine y Series",Star TVE | 42.1ms
 http://179.63.6.215:8000/play/a00u
 
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal | 33.7ms" tvg-logo="" group-title="Cine y Series",Studio Universal | 33.7ms
-http://38.210.105.10:8000/play/a07i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal | 31.5ms" tvg-logo="" group-title="Cine y Series",Studio Universal | 31.5ms
+http://181.224.255.210:8001/play/a0sc/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sun Channel | 34.2ms" tvg-logo="" group-title="Cine y Series",Sun Channel | 34.2ms
-http://38.210.105.10:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel | 33.3ms" tvg-logo="" group-title="Cine y Series",Sun Channel | 33.3ms
+http://38.43.150.187:9999/play/a09b/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT | 31.7ms" tvg-logo="" group-title="Cine y Series",TNT | 31.7ms
-http://138.99.179.64:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT | 37.5ms" tvg-logo="" group-title="Cine y Series",TNT | 37.5ms
+http://45.173.200.194:5000/play/a0qa/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series | 32.0ms" tvg-logo="" group-title="Cine y Series",TNT Series | 32.0ms
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series | 30.9ms" tvg-logo="" group-title="Cine y Series",TNT Series | 30.9ms
 http://138.99.179.64:8000/play/a04y/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVE | 67.9ms" tvg-logo="" group-title="Cine y Series",TVE | 67.9ms
+#EXTINF:-1 tvg-id="" tvg-name="TVE | 83.4ms" tvg-logo="" group-title="Cine y Series",TVE | 83.4ms
 http://181.65.207.62:8000/play/a013
 
-#EXTINF:-1 tvg-id="" tvg-name="TUNER | 34.3ms" tvg-logo="" group-title="Cine y Series",TUNER | 34.3ms
-http://38.210.105.10:8000/play/a0bf/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel | 28.9ms" tvg-logo="" group-title="Cine y Series",Universal Channel | 28.9ms
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel | 33.4ms" tvg-logo="" group-title="Cine y Series",Universal Channel | 33.4ms
 http://138.99.179.64:8000/play/a05j/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA | 31.0ms" tvg-logo="" group-title="Cine y Series",UNIVERSAL CINEMA | 31.0ms
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA | 33.6ms" tvg-logo="" group-title="Cine y Series",UNIVERSAL CINEMA | 33.6ms
 http://138.99.179.64:8000/play/a05k/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE | 30.6ms" tvg-logo="" group-title="Cine y Series",UNIVERSAL PREMIERE | 30.6ms
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY | 68.9ms" tvg-logo="" group-title="Cine y Series",UNIVERSAL COMEDY | 68.9ms
+http://38.19.16.151:9000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME | 67.4ms" tvg-logo="" group-title="Cine y Series",UNIVERSAL CRIME | 67.4ms
+http://38.19.16.151:9000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE | 29.0ms" tvg-logo="" group-title="Cine y Series",UNIVERSAL PREMIERE | 29.0ms
 http://138.99.179.64:8000/play/a05n/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="USA | 41.7ms" tvg-logo="" group-title="Cine y Series",USA | 41.7ms
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY | 77.6ms" tvg-logo="" group-title="Cine y Series",UNIVERSAL REALITY | 77.6ms
+http://38.19.16.151:9000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | 62.1ms" tvg-logo="" group-title="Cine y Series",USA | 62.1ms
 http://179.63.6.215:8002/play/a02n
 
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel | 34.7ms" tvg-logo="" group-title="Cine y Series",Warner Channel | 34.7ms
-http://38.210.105.10:8000/play/a0f8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel | 37.1ms" tvg-logo="" group-title="Cine y Series",Warner Channel | 37.1ms
+http://38.187.5.120:4321/play/a168/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A3Cine | 63.3ms" tvg-logo="" group-title="Cine y Series",A3Cine | 63.3ms
-http://201.240.108.20:5000/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama | 44.3ms" tvg-logo="" group-title="Telenovelas",Kanal D Drama | 44.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama | 42.5ms" tvg-logo="" group-title="Telenovelas",Kanal D Drama | 42.5ms
 http://179.63.6.215:8000/play/a00w
 
-#EXTINF:-1 tvg-id="" tvg-name="TLNovelas | 44.8ms" tvg-logo="" group-title="Telenovelas",TLNovelas | 44.8ms
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas | 40.3ms" tvg-logo="" group-title="Telenovelas",TLNovelas | 40.3ms
 http://179.63.6.215:8000/play/a011
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas | 30.1ms" tvg-logo="" group-title="Telenovelas",TNT Novelas | 30.1ms
-http://138.99.179.64:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas | 32.7ms" tvg-logo="" group-title="Telenovelas",TNT Novelas | 32.7ms
+http://38.43.150.187:9999/play/a05z/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3 Int | 68.4ms" tvg-logo="" group-title="Variedades y Entretenimiento",Antena 3 Int | 68.4ms
-http://201.240.108.20:5000/play/a006/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Az Clic | 57.9ms" tvg-logo="" group-title="Variedades y Entretenimiento",Az Clic | 57.9ms
+#EXTINF:-1 tvg-id="" tvg-name="Az Clic | 52.5ms" tvg-logo="" group-title="Variedades y Entretenimiento",Az Clic | 52.5ms
 http://190.108.90.142:8000/play/a01l/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Az Corazon | 46.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",Az Corazon | 46.2ms
+#EXTINF:-1 tvg-id="" tvg-name="Az Corazon | 57.4ms" tvg-logo="" group-title="Variedades y Entretenimiento",Az Corazon | 57.4ms
 http://179.63.6.209:8000/play/a08t
 
-#EXTINF:-1 tvg-id="" tvg-name="azteca INTERNACIONAL | 48.4ms" tvg-logo="" group-title="Variedades y Entretenimiento",azteca INTERNACIONAL | 48.4ms
-http://190.108.90.142:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="azteca INTERNACIONAL | 48.6ms" tvg-logo="" group-title="Variedades y Entretenimiento",azteca INTERNACIONAL | 48.6ms
+http://191.97.55.72:8000/play/a06/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Caracol | 61.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",Caracol | 61.2ms
-http://201.240.108.20:5000/play/a09l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia TV | 65.1ms" tvg-logo="" group-title="Variedades y Entretenimiento",Bolivia TV | 65.1ms
+http://38.158.233.152:8000/play/a1dy/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CHV | 37.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",CHV | 37.3ms
-http://179.63.6.212:9000/play/a02i
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION | 70.9ms" tvg-logo="" group-title="Variedades y Entretenimiento",BOLIVISION | 70.9ms
+http://38.158.233.152:8000/play/a1eh/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central | 31.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",Comedy Central | 31.2ms
-http://38.210.105.10:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro | 69.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",Canal Claro | 69.3ms
+http://38.19.16.151:9000/play/a02i/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia | 56.0ms" tvg-logo="" group-title="Variedades y Entretenimiento",Distrito Comedia | 56.0ms
+#EXTINF:-1 tvg-id="" tvg-name="CHV | 39.1ms" tvg-logo="" group-title="Variedades y Entretenimiento",CHV | 39.1ms
+http://201.234.124.235:8000/play/a0gs/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central | 34.6ms" tvg-logo="" group-title="Variedades y Entretenimiento",Comedy Central | 34.6ms
+http://45.173.200.194:5000/play/a0ix/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia | 67.8ms" tvg-logo="" group-title="Variedades y Entretenimiento",Distrito Comedia | 67.8ms
 http://181.65.207.51:8000/play/a03p
 
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV | 39.0ms" tvg-logo="" group-title="Variedades y Entretenimiento",CITY TV | 39.0ms
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV | 52.4ms" tvg-logo="" group-title="Variedades y Entretenimiento",CITY TV | 52.4ms
 http://179.63.6.217:9000/play/a05z
 
-#EXTINF:-1 tvg-id="" tvg-name="El Trece | 30.6ms" tvg-logo="" group-title="Variedades y Entretenimiento",El Trece | 30.6ms
+#EXTINF:-1 tvg-id="" tvg-name="El Trece | 29.0ms" tvg-logo="" group-title="Variedades y Entretenimiento",El Trece | 29.0ms
 http://138.99.179.64:8000/play/a02i/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="E! | 26.9ms" tvg-logo="" group-title="Variedades y Entretenimiento",E! | 26.9ms
+#EXTINF:-1 tvg-id="" tvg-name="E! | 64.5ms" tvg-logo="" group-title="Variedades y Entretenimiento",E! | 64.5ms
 http://138.99.179.64:8000/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HOGAR TV | 47.9ms" tvg-logo="" group-title="Variedades y Entretenimiento",HOGAR TV | 47.9ms
+#EXTINF:-1 tvg-id="" tvg-name="HOGAR TV | 70.5ms" tvg-logo="" group-title="Variedades y Entretenimiento",HOGAR TV | 70.5ms
 http://190.108.90.142:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV | 40.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",HOLA TV | 40.3ms
-http://179.1.158.52:8000/play/a0ek/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV | 36.5ms" tvg-logo="" group-title="Variedades y Entretenimiento",HOLA TV | 36.5ms
+http://45.173.200.194:5000/play/a0xu/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas | 28.7ms" tvg-logo="" group-title="Variedades y Entretenimiento",Las Estrellas | 28.7ms
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas | 34.7ms" tvg-logo="" group-title="Variedades y Entretenimiento",Las Estrellas | 34.7ms
 http://138.99.179.64:8000/play/a03p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MEGA | 37.5ms" tvg-logo="" group-title="Variedades y Entretenimiento",MEGA | 37.5ms
+#EXTINF:-1 tvg-id="" tvg-name="MEGA | 32.8ms" tvg-logo="" group-title="Variedades y Entretenimiento",MEGA | 32.8ms
 http://45.186.254.75:8000/play/a051/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MEGA 2 | 36.0ms" tvg-logo="" group-title="Variedades y Entretenimiento",MEGA 2 | 36.0ms
+#EXTINF:-1 tvg-id="" tvg-name="MEGA 2 | 45.7ms" tvg-logo="" group-title="Variedades y Entretenimiento",MEGA 2 | 45.7ms
 http://38.187.5.120:4321/play/a1bl/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Pasiones | 31.7ms" tvg-logo="" group-title="Variedades y Entretenimiento",Pasiones | 31.7ms
-http://138.99.179.64:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones | 34.0ms" tvg-logo="" group-title="Variedades y Entretenimiento",Pasiones | 34.0ms
+http://201.234.124.235:8000/play/a0ga/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Telelima | 28.1ms" tvg-logo="" group-title="Variedades y Entretenimiento",Telelima | 28.1ms
+#EXTINF:-1 tvg-id="" tvg-name="Telelima | 30.8ms" tvg-logo="" group-title="Variedades y Entretenimiento",Telelima | 30.8ms
 http://138.99.179.64:8000/play/a04t/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo | 62.4ms" tvg-logo="" group-title="Variedades y Entretenimiento",Telemundo | 62.4ms
-http://191.97.55.72:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo | 40.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",Telemundo | 40.3ms
+http://179.63.6.215:8000/play/a00v
 
-#EXTINF:-1 tvg-id="" tvg-name="TELE NEXT | 35.6ms" tvg-logo="" group-title="Variedades y Entretenimiento",TELE NEXT | 35.6ms
-http://38.210.105.10:8000/play/a09m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE NEXT | 46.8ms" tvg-logo="" group-title="Variedades y Entretenimiento",TELE NEXT | 46.8ms
+http://38.187.5.120:4321/play/a1cl/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Televisa | 37.4ms" tvg-logo="" group-title="Variedades y Entretenimiento",Televisa | 37.4ms
+#EXTINF:-1 tvg-id="" tvg-name="Televisa | 49.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",Televisa | 49.3ms
 http://179.63.6.212:9000/play/a05w
 
-#EXTINF:-1 tvg-id="" tvg-name="TLC | 28.8ms" tvg-logo="" group-title="Variedades y Entretenimiento",TLC | 28.8ms
+#EXTINF:-1 tvg-id="" tvg-name="TLC | 39.7ms" tvg-logo="" group-title="Variedades y Entretenimiento",TLC | 39.7ms
 http://138.99.179.64:8000/play/a04v/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVN | 33.8ms" tvg-logo="" group-title="Variedades y Entretenimiento",TVN | 33.8ms
+#EXTINF:-1 tvg-id="" tvg-name="TVN | 34.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",TVN | 34.2ms
 http://38.187.5.120:4321/play/a0zk/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION | 60.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",UNIVISION | 60.2ms
-http://200.49.243.2:8000/play/a08h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION | 64.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",UNIVISION | 64.3ms
+http://181.65.207.51:8000/play/a053
 
-K | 51.2ms
-http://38.250.178.205:8000/play/a0d4/index.m3u8
+K | 33.8ms
+http://45.173.200.194:5000/play/a0rj/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel | 34.3ms" tvg-logo="" group-title="Cultura y Documentales",Discovery Channel | 34.3ms
-http://201.234.124.235:8000/play/a0i5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel | 39.1ms" tvg-logo="" group-title="Cultura y Documentales",Discovery Channel | 39.1ms
+http://38.187.5.120:4321/play/a161/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery ID | 29.1ms" tvg-logo="" group-title="Cultura y Documentales",Discovery ID | 29.1ms
-http://38.210.105.10:8000/play/a09n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H | 60.9ms" tvg-logo="" group-title="Cultura y Documentales",Discovery H&H | 60.9ms
+http://38.19.16.151:9000/play/a00e/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater | 41.4ms" tvg-logo="" group-title="Cultura y Documentales",Discovery Theater | 41.4ms
-http://192.141.98.91:8000/play/a1p2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID | 33.5ms" tvg-logo="" group-title="Cultura y Documentales",Discovery ID | 33.5ms
+http://38.210.105.10:8000/play/a0bh/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo | 47.4ms" tvg-logo="" group-title="Cultura y Documentales",Discovery Turbo | 47.4ms
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater | 32.4ms" tvg-logo="" group-title="Cultura y Documentales",Discovery Theater | 32.4ms
+http://181.224.255.210:8001/play/a0fc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo | 42.8ms" tvg-logo="" group-title="Cultura y Documentales",Discovery Turbo | 42.8ms
 http://179.63.6.212:9000/play/a01x
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World | 32.2ms" tvg-logo="" group-title="Cultura y Documentales",Discovery World | 32.2ms
-http://181.224.255.210:8001/play/a0lt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World | 31.7ms" tvg-logo="" group-title="Cultura y Documentales",Discovery World | 31.7ms
+http://38.43.150.187:9999/play/a05x/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet | 36.0ms" tvg-logo="" group-title="Cultura y Documentales",El Gourmet | 36.0ms
-http://201.234.124.235:8000/play/a0ho/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet | 39.7ms" tvg-logo="" group-title="Cultura y Documentales",El Gourmet | 39.7ms
+http://38.43.150.187:9999/play/a05o/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Food Network | 52.4ms" tvg-logo="" group-title="Cultura y Documentales",Food Network | 52.4ms
+#EXTINF:-1 tvg-id="" tvg-name="Food Network | 42.7ms" tvg-logo="" group-title="Cultura y Documentales",Food Network | 42.7ms
 http://179.63.6.209:8000/play/a08a
 
-#EXTINF:-1 tvg-id="" tvg-name="History Channel | 32.9ms" tvg-logo="" group-title="Cultura y Documentales",History Channel | 32.9ms
-http://38.43.150.187:7777/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel | 32.4ms" tvg-logo="" group-title="Cultura y Documentales",History Channel | 32.4ms
+http://138.99.179.64:8000/play/a03e/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="History 2 | 57.5ms" tvg-logo="" group-title="Cultura y Documentales",History 2 | 57.5ms
+#EXTINF:-1 tvg-id="" tvg-name="History 2 | 61.3ms" tvg-logo="" group-title="Cultura y Documentales",History 2 | 61.3ms
 http://181.65.207.51:8000/play/a04d
 
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature | 42.9ms" tvg-logo="" group-title="Cultura y Documentales",Love Nature | 42.9ms
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature | 47.3ms" tvg-logo="" group-title="Cultura y Documentales",Love Nature | 47.3ms
 http://179.63.6.215:8000/play/a00x
 
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo | 28.3ms" tvg-logo="" group-title="Cultura y Documentales",Nat Geo | 28.3ms
-http://138.99.179.64:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo | 35.8ms" tvg-logo="" group-title="Cultura y Documentales",Nat Geo | 35.8ms
+http://45.173.200.194:5000/play/a0q9/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tastemade | 48.0ms" tvg-logo="" group-title="Cultura y Documentales",Tastemade | 48.0ms
+#EXTINF:-1 tvg-id="" tvg-name="Tastemade | 53.5ms" tvg-logo="" group-title="Cultura y Documentales",Tastemade | 53.5ms
 http://179.63.6.209:8000/play/a00e
 
-#EXTINF:-1 tvg-id="" tvg-name="FIESTA | 46.8ms" tvg-logo="" group-title="Musica y Conciertos",FIESTA | 46.8ms
+#EXTINF:-1 tvg-id="" tvg-name="FIESTA | 39.4ms" tvg-logo="" group-title="Musica y Conciertos",FIESTA | 39.4ms
 http://38.210.105.10:8000/play/a09q/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Folklore TV | 76.5ms" tvg-logo="" group-title="Musica y Conciertos",Folklore TV | 76.5ms
+#EXTINF:-1 tvg-id="" tvg-name="Folklore TV | 44.3ms" tvg-logo="" group-title="Musica y Conciertos",Folklore TV | 44.3ms
 http://179.63.6.217:9000/play/a07g
 
-#EXTINF:-1 tvg-id="" tvg-name="HEI | 40.0ms" tvg-logo="" group-title="Musica y Conciertos",HEI | 40.0ms
-http://181.224.255.210:8001/play/a0sg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HEI | 33.5ms" tvg-logo="" group-title="Musica y Conciertos",HEI | 33.5ms
+http://201.234.124.235:8000/play/a0hq/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Karibeña | 36.8ms" tvg-logo="" group-title="Musica y Conciertos",Karibeña | 36.8ms
-http://38.43.150.187:7777/play/a09e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karibeña | 33.3ms" tvg-logo="" group-title="Musica y Conciertos",Karibeña | 33.3ms
+http://138.99.179.64:8000/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Memorias Tropical | 37.7ms" tvg-logo="" group-title="Musica y Conciertos",Memorias Tropical | 37.7ms
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Tropical | 30.3ms" tvg-logo="" group-title="Musica y Conciertos",Memorias Tropical | 30.3ms
 http://38.210.105.10:8000/play/GAA/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Memorias TV | 41.8ms" tvg-logo="" group-title="Musica y Conciertos",Memorias TV | 41.8ms
+#EXTINF:-1 tvg-id="" tvg-name="Memorias TV | 41.2ms" tvg-logo="" group-title="Musica y Conciertos",Memorias TV | 41.2ms
 http://179.63.6.212:9000/play/a006
 
-#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA HITS | 48.3ms" tvg-logo="" group-title="Musica y Conciertos",MIMUSICA HITS | 48.3ms
+#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA HITS | 45.9ms" tvg-logo="" group-title="Musica y Conciertos",MIMUSICA HITS | 45.9ms
 http://191.97.49.82:8001/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA PERU | 66.2ms" tvg-logo="" group-title="Musica y Conciertos",MIMUSICA PERU | 66.2ms
+#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA PERU | 47.9ms" tvg-logo="" group-title="Musica y Conciertos",MIMUSICA PERU | 47.9ms
 http://191.97.49.82:8001/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA REGGAETON | 48.2ms" tvg-logo="" group-title="Musica y Conciertos",MIMUSICA REGGAETON | 48.2ms
+#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA REGGAETON | 50.4ms" tvg-logo="" group-title="Musica y Conciertos",MIMUSICA REGGAETON | 50.4ms
 http://191.97.49.82:8001/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA SALSA | 67.8ms" tvg-logo="" group-title="Musica y Conciertos",MIMUSICA SALSA | 67.8ms
+#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA SALSA | 49.4ms" tvg-logo="" group-title="Musica y Conciertos",MIMUSICA SALSA | 49.4ms
 http://191.97.49.82:8001/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MIX MUSIC CHANNEL | 32.7ms" tvg-logo="" group-title="Musica y Conciertos",MIX MUSIC CHANNEL | 32.7ms
+#EXTINF:-1 tvg-id="" tvg-name="MIX MUSIC CHANNEL | 47.4ms" tvg-logo="" group-title="Musica y Conciertos",MIX MUSIC CHANNEL | 47.4ms
 http://38.210.105.10:8000/play/a0ap/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MIX TV | 58.9ms" tvg-logo="" group-title="Musica y Conciertos",MIX TV | 58.9ms
+#EXTINF:-1 tvg-id="" tvg-name="MIX TV | 53.4ms" tvg-logo="" group-title="Musica y Conciertos",MIX TV | 53.4ms
 http://38.250.178.205:8000/play/a09h/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV | 35.8ms" tvg-logo="" group-title="Musica y Conciertos",MTV | 35.8ms
-http://201.234.124.235:8000/play/a0i2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV | 38.3ms" tvg-logo="" group-title="Musica y Conciertos",MTV | 38.3ms
+http://38.187.5.120:4321/play/a0zg/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE | 45.6ms" tvg-logo="" group-title="Musica y Conciertos",MTV LIVE | 45.6ms
-http://200.4.241.75:8001/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE | 35.0ms" tvg-logo="" group-title="Musica y Conciertos",MTV LIVE | 35.0ms
+http://38.210.105.10:8000/play/a03c/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Neo TV Jaen | 59.6ms" tvg-logo="" group-title="Musica y Conciertos",Neo TV Jaen | 59.6ms
+#EXTINF:-1 tvg-id="" tvg-name="Neo TV Jaen | 74.1ms" tvg-logo="" group-title="Musica y Conciertos",Neo TV Jaen | 74.1ms
 http://201.230.121.85:8000/play/a01p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ponte Love | 36.1ms" tvg-logo="" group-title="Musica y Conciertos",Ponte Love | 36.1ms
+#EXTINF:-1 tvg-id="" tvg-name="Ponte Love | 39.8ms" tvg-logo="" group-title="Musica y Conciertos",Ponte Love | 39.8ms
 http://38.210.105.10:8000/play/a0be/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Concerts | 36.3ms" tvg-logo="" group-title="Musica y Conciertos",Stingray Concerts | 36.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Concerts | 35.5ms" tvg-logo="" group-title="Musica y Conciertos",Stingray Concerts | 35.5ms
 http://201.234.124.235:8000/play/a0iv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TeleHIT | 66.9ms" tvg-logo="" group-title="Musica y Conciertos",TeleHIT | 66.9ms
-http://181.65.207.51:8000/play/a04a
+#EXTINF:-1 tvg-id="" tvg-name="TeleHIT | 52.5ms" tvg-logo="" group-title="Musica y Conciertos",TeleHIT | 52.5ms
+http://181.65.207.51:8000/play/a04b
 
-#EXTINF:-1 tvg-id="" tvg-name="Telenostalgia | 54.3ms" tvg-logo="" group-title="Musica y Conciertos",Telenostalgia | 54.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Telenostalgia | 49.8ms" tvg-logo="" group-title="Musica y Conciertos",Telenostalgia | 49.8ms
 http://191.97.55.72:8000/play/a025/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="XTV | 64.6ms" tvg-logo="" group-title="Musica y Conciertos",XTV | 64.6ms
-http://201.240.108.20:5000/play/a08n/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Cosmos2 | 70.7ms" tvg-logo="" group-title="Musica y Conciertos",Cosmos2 | 70.7ms
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos2 | 42.4ms" tvg-logo="" group-title="Musica y Conciertos",Cosmos2 | 42.4ms
 http://191.97.59.52:9998/play/a033
 
-#EXTINF:-1 tvg-id="" tvg-name="CM Music | 52.0ms" tvg-logo="" group-title="Musica y Conciertos",CM Music | 52.0ms
-http://191.97.55.72:8000/play/a010/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Fast Cumbia | 44.1ms" tvg-logo="" group-title="Musica y Conciertos",Fast Cumbia | 44.1ms
+#EXTINF:-1 tvg-id="" tvg-name="Fast Cumbia | 42.2ms" tvg-logo="" group-title="Musica y Conciertos",Fast Cumbia | 42.2ms
 http://179.63.6.217:9000/play/a07l
 
-#EXTINF:-1 tvg-id="" tvg-name="Fastmusic | 46.3ms" tvg-logo="" group-title="Musica y Conciertos",Fastmusic | 46.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Fastmusic | 45.5ms" tvg-logo="" group-title="Musica y Conciertos",Fastmusic | 45.5ms
 http://179.63.6.217:9000/play/a07i
 
-#EXTINF:-1 tvg-id="" tvg-name="Lazos TV | 49.9ms" tvg-logo="" group-title="Musica y Conciertos",Lazos TV | 49.9ms
+#EXTINF:-1 tvg-id="" tvg-name="Lazos TV | 51.6ms" tvg-logo="" group-title="Musica y Conciertos",Lazos TV | 51.6ms
 http://179.63.6.217:9000/play/a06p
 
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV | 47.8ms" tvg-logo="" group-title="Infantil y Juvenil",BABY TV | 47.8ms
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV | 53.0ms" tvg-logo="" group-title="Infantil y Juvenil",BABY TV | 53.0ms
 http://179.63.6.209:8000/play/a08q
 
-#EXTINF:-1 tvg-id="" tvg-name="Bitme | 74.6ms" tvg-logo="" group-title="Infantil y Juvenil",Bitme | 74.6ms
-http://181.65.207.62:8000/play/a00g
+#EXTINF:-1 tvg-id="" tvg-name="Bitme | 55.9ms" tvg-logo="" group-title="Infantil y Juvenil",Bitme | 55.9ms
+http://181.65.207.51:8000/play/a00k
 
-#EXTINF:-1 tvg-id="" tvg-name="canal Infantil | 45.7ms" tvg-logo="" group-title="Infantil y Juvenil",canal Infantil | 45.7ms
+#EXTINF:-1 tvg-id="" tvg-name="canal Infantil | 47.6ms" tvg-logo="" group-title="Infantil y Juvenil",canal Infantil | 47.6ms
 http://191.97.49.82:8001/play/a00v/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network | 42.0ms" tvg-logo="" group-title="Infantil y Juvenil",Cartoon Network | 42.0ms
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network | 41.2ms" tvg-logo="" group-title="Infantil y Juvenil",Cartoon Network | 41.2ms
 http://179.63.6.209:8000/play/a08x
 
-#EXTINF:-1 tvg-id="" tvg-name="Clan | 58.3ms" tvg-logo="" group-title="Infantil y Juvenil",Clan | 58.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Clan | 58.1ms" tvg-logo="" group-title="Infantil y Juvenil",Clan | 58.1ms
 http://181.65.207.51:8000/play/a04o
 
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks | 43.0ms" tvg-logo="" group-title="Infantil y Juvenil",Dreamworks | 43.0ms
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks | 43.7ms" tvg-logo="" group-title="Infantil y Juvenil",Dreamworks | 43.7ms
 http://179.63.6.215:8000/play/a013
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids | 34.1ms" tvg-logo="" group-title="Infantil y Juvenil",Discovery Kids | 34.1ms
-http://181.224.255.210:8001/play/a0m9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids | 35.0ms" tvg-logo="" group-title="Infantil y Juvenil",Discovery Kids | 35.0ms
+http://38.187.5.120:4321/play/a1b2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel | 37.2ms" tvg-logo="" group-title="Infantil y Juvenil",Disney Channel | 37.2ms
-http://179.63.6.217:9000/play/a081
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel | 41.3ms" tvg-logo="" group-title="Infantil y Juvenil",Disney Channel | 41.3ms
+http://38.43.150.187:9999/play/a053/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Jr | 64.0ms" tvg-logo="" group-title="Infantil y Juvenil",Disney Jr | 64.0ms
-http://191.97.49.82:8001/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr | 51.3ms" tvg-logo="" group-title="Infantil y Juvenil",Disney Jr | 51.3ms
+http://191.97.49.82:8001/play/a004/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FMH KIDS | 36.5ms" tvg-logo="" group-title="Infantil y Juvenil",FMH KIDS | 36.5ms
+#EXTINF:-1 tvg-id="" tvg-name="FMH KIDS | 36.3ms" tvg-logo="" group-title="Infantil y Juvenil",FMH KIDS | 36.3ms
 http://38.210.105.10:8000/play/a07r/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FunBox | 77.9ms" tvg-logo="" group-title="Infantil y Juvenil",FunBox | 77.9ms
+#EXTINF:-1 tvg-id="" tvg-name="FunBox | 62.8ms" tvg-logo="" group-title="Infantil y Juvenil",FunBox | 62.8ms
 http://181.65.207.62:8000/play/a00f
 
-#EXTINF:-1 tvg-id="" tvg-name="GOKU | 45.2ms" tvg-logo="" group-title="Infantil y Juvenil",GOKU | 45.2ms
+#EXTINF:-1 tvg-id="" tvg-name="GOKU | 44.9ms" tvg-logo="" group-title="Infantil y Juvenil",GOKU | 44.9ms
 http://179.63.6.217:9000/play/a07j
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon | 30.8ms" tvg-logo="" group-title="Infantil y Juvenil",Nickelodeon | 30.8ms
-http://138.99.179.64:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon | 33.2ms" tvg-logo="" group-title="Infantil y Juvenil",Nickelodeon | 33.2ms
+http://38.43.150.187:9999/play/a098/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr | 62.5ms" tvg-logo="" group-title="Infantil y Juvenil",Nick Jr | 62.5ms
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr | 41.3ms" tvg-logo="" group-title="Infantil y Juvenil",Nick Jr | 41.3ms
 http://179.63.6.217:9000/play/a07o
 
-#EXTINF:-1 tvg-id="" tvg-name="Plim Plim | 57.3ms" tvg-logo="" group-title="Infantil y Juvenil",Plim Plim | 57.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Plim Plim | 41.1ms" tvg-logo="" group-title="Infantil y Juvenil",Plim Plim | 41.1ms
 http://179.63.6.215:8000/play/a00p
 
-#EXTINF:-1 tvg-id="" tvg-name="ZOO MOO | 40.4ms" tvg-logo="" group-title="Infantil y Juvenil",ZOO MOO | 40.4ms
+#EXTINF:-1 tvg-id="" tvg-name="ZOO MOO | 39.7ms" tvg-logo="" group-title="Infantil y Juvenil",ZOO MOO | 39.7ms
 http://179.63.6.215:8002/play/a02v
 
-#EXTINF:-1 tvg-id="" tvg-name="Kidoo | 31.7ms" tvg-logo="" group-title="Infantil y Juvenil",Kidoo | 31.7ms
+#EXTINF:-1 tvg-id="" tvg-name="Kidoo | 30.4ms" tvg-logo="" group-title="Infantil y Juvenil",Kidoo | 30.4ms
 http://38.52.182.224:4500/play/a0c3
 
-#EXTINF:-1 tvg-id="" tvg-name="Reyno Infantil | 65.4ms" tvg-logo="" group-title="Infantil y Juvenil",Reyno Infantil | 65.4ms
+#EXTINF:-1 tvg-id="" tvg-name="Reyno Infantil | 59.4ms" tvg-logo="" group-title="Infantil y Juvenil",Reyno Infantil | 59.4ms
 http://179.63.6.217:9000/play/a07k
 
-#EXTINF:-1 tvg-id="" tvg-name="Bethel | 34.0ms" tvg-logo="" group-title="Religion",Bethel | 34.0ms
-http://138.99.179.64:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel | 35.2ms" tvg-logo="" group-title="Religion",Bethel | 35.2ms
+http://38.43.150.187:9999/play/a049/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Enlace | 62.6ms" tvg-logo="" group-title="Religion",Enlace | 62.6ms
-http://201.240.108.20:5000/play/a0fe/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nuevo Tiempo | 33.8ms" tvg-logo="" group-title="Religion",Nuevo Tiempo | 33.8ms
+http://138.99.179.64:8000/play/a043/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nuevo Tiempo | 47.3ms" tvg-logo="" group-title="Religion",Nuevo Tiempo | 47.3ms
-http://179.63.6.217:9000/play/a05x
+#EXTINF:-1,Desconocido | 30.4ms
+http://138.99.179.64:8000/play/a00a/index.m3u8
 
-#EXTINF:-1,Desconocido | 38.7ms
-http://38.187.5.120:4321/play/a16f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="L1 | 33.3ms" tvg-logo="" group-title="Deportes Perú",L1 | 33.3ms
+http://138.99.179.64:8000/play/a03r/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="L1 | 30.1ms" tvg-logo="" group-title="Deportes Perú",L1 | 30.1ms
-http://138.99.179.64:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="L1MAX | 32.2ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 32.2ms
+http://38.43.150.187:9999/play/a09h/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="L1MAX | 38.2ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 38.2ms
-http://38.187.5.120:4321/play/a1ax/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes | 32.3ms" tvg-logo="" group-title="Deportes Perú",Movistar Deportes | 32.3ms
+http://38.210.105.10:8000/play/a02p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes | 43.6ms" tvg-logo="" group-title="Deportes Perú",Movistar Deportes | 43.6ms
-http://179.63.6.215:8002/play/a02w
-
-#EXTINF:-1 tvg-id="" tvg-name="OVACION TV | 57.0ms" tvg-logo="" group-title="Deportes Perú",OVACION TV | 57.0ms
+#EXTINF:-1 tvg-id="" tvg-name="OVACION TV | 33.8ms" tvg-logo="" group-title="Deportes Perú",OVACION TV | 33.8ms
 http://45.186.254.75:8000/play/a089/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="'S Music | 55.2ms" tvg-logo="" group-title="Otros",'S Music | 55.2ms
+#EXTINF:-1 tvg-id="" tvg-name="'S Music | 62.4ms" tvg-logo="" group-title="Otros",'S Music | 62.4ms
 http://38.187.13.210:8050/play/a0xe/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Covatel | 38.4ms" tvg-logo="" group-title="Otros",Covatel | 38.4ms
-http://38.187.5.120:4321/play/a17u/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Jn 19 | 35.6ms" tvg-logo="" group-title="Otros",Jn 19 | 35.6ms
+#EXTINF:-1 tvg-id="" tvg-name="Jn 19 | 51.3ms" tvg-logo="" group-title="Otros",Jn 19 | 51.3ms
 http://38.187.5.120:4321/play/a1c1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Jn TV Ip 4027 | 49.0ms" tvg-logo="" group-title="Otros",Jn TV Ip 4027 | 49.0ms
+#EXTINF:-1 tvg-id="" tvg-name="Jn TV Ip 4027 | 34.2ms" tvg-logo="" group-title="Otros",Jn TV Ip 4027 | 34.2ms
 http://38.187.5.120:4321/play/a1ch/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="My Tv19 | 36.4ms" tvg-logo="" group-title="Otros",My Tv19 | 36.4ms
+#EXTINF:-1 tvg-id="" tvg-name="My Tv19 | 36.2ms" tvg-logo="" group-title="Otros",My Tv19 | 36.2ms
 http://38.187.5.120:4321/play/a1af/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="My Tv19 Ip | 48.7ms" tvg-logo="" group-title="Otros",My Tv19 Ip | 48.7ms
+#EXTINF:-1 tvg-id="" tvg-name="My Tv19 Ip | 35.8ms" tvg-logo="" group-title="Otros",My Tv19 Ip | 35.8ms
 http://38.187.5.120:4321/play/a1ci/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Onda Digital | 27.1ms" tvg-logo="" group-title="Otros",Onda Digital | 27.1ms
+#EXTINF:-1 tvg-id="" tvg-name="Onda Digital | 30.3ms" tvg-logo="" group-title="Otros",Onda Digital | 30.3ms
 http://138.99.179.64:8000/play/a046/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ovacion | 41.4ms" tvg-logo="" group-title="Otros",Ovacion | 41.4ms
+#EXTINF:-1 tvg-id="" tvg-name="Ovacion | 28.1ms" tvg-logo="" group-title="Otros",Ovacion | 28.1ms
 http://138.99.179.64:8000/play/a047/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Chacra TV Claro Sport | 35.3ms" tvg-logo="" group-title="Otros",Chacra TV Claro Sport | 35.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Chacra TV Claro Sport | 40.6ms" tvg-logo="" group-title="Otros",Chacra TV Claro Sport | 40.6ms
 http://179.63.6.212:9000/play/a029
 
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sport Claro Sport | 38.7ms" tvg-logo="" group-title="Otros",Claro Sport Claro Sport | 38.7ms
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sport Claro Sport | 38.6ms" tvg-logo="" group-title="Otros",Claro Sport Claro Sport | 38.6ms
 http://179.63.6.212:9000/play/a02n
 
-#EXTINF:-1 tvg-id="" tvg-name="Elgouermet | 49.3ms" tvg-logo="" group-title="Otros",Elgouermet | 49.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Elgouermet | 39.6ms" tvg-logo="" group-title="Otros",Elgouermet | 39.6ms
 http://179.63.6.212:9000/play/a020
 
-#EXTINF:-1 tvg-id="" tvg-name="Evento Live | 67.9ms" tvg-logo="" group-title="Otros",Evento Live | 67.9ms
+#EXTINF:-1 tvg-id="" tvg-name="Evento Live | 54.9ms" tvg-logo="" group-title="Otros",Evento Live | 54.9ms
 http://190.43.231.184:8000/play/a0hw/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Garage TV Claro Sport | 47.6ms" tvg-logo="" group-title="Otros",Garage TV Claro Sport | 47.6ms
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV Claro Sport | 40.8ms" tvg-logo="" group-title="Otros",Garage TV Claro Sport | 40.8ms
 http://179.63.6.212:9000/play/a01w
 
-#EXTINF:-1 tvg-id="" tvg-name="Horas | 65.3ms" tvg-logo="" group-title="Otros",Horas | 65.3ms
+#EXTINF:-1 tvg-id="" tvg-name="Horas | 38.2ms" tvg-logo="" group-title="Otros",Horas | 38.2ms
 http://179.63.6.212:9000/play/a02v
 
-#EXTINF:-1 tvg-id="" tvg-name="Radio Energia | 49.9ms" tvg-logo="" group-title="Otros",Radio Energia | 49.9ms
+#EXTINF:-1 tvg-id="" tvg-name="Radio Energia | 38.9ms" tvg-logo="" group-title="Otros",Radio Energia | 38.9ms
 http://179.63.6.212:9000/play/a05m
 
-#EXTINF:-1 tvg-id="" tvg-name="Tllima | 41.1ms" tvg-logo="" group-title="Otros",Tllima | 41.1ms
+#EXTINF:-1 tvg-id="" tvg-name="Tllima | 38.9ms" tvg-logo="" group-title="Otros",Tllima | 38.9ms
 http://179.63.6.212:9000/play/a00c
 
-#EXTINF:-1 tvg-id="" tvg-name="Atlas | 61.9ms" tvg-logo="" group-title="Otros",Atlas | 61.9ms
-http://201.240.108.20:5000/play/a0c2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Comedy 4277 | 66.8ms" tvg-logo="" group-title="Otros",Comedy 4277 | 66.8ms
-http://201.240.108.20:5000/play/a00r/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Comipop | 69.3ms" tvg-logo="" group-title="Otros",Comipop | 69.3ms
-http://200.49.243.2:8000/play/a0ae/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Conectad2 TV | 61.6ms" tvg-logo="" group-title="Otros",Conectad2 TV | 61.6ms
-http://200.49.243.2:8000/play/a07v/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Creotv | 61.0ms" tvg-logo="" group-title="Otros",Creotv | 61.0ms
-http://201.240.108.20:5000/play/a09n/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Cumbianet | 59.5ms" tvg-logo="" group-title="Otros",Cumbianet | 59.5ms
-http://201.240.108.20:5000/play/a00e/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Dmkidstv | 58.4ms" tvg-logo="" group-title="Otros",Dmkidstv | 58.4ms
-http://200.49.243.2:8000/play/a083/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Dubtv | 60.7ms" tvg-logo="" group-title="Otros",Dubtv | 60.7ms
-http://201.240.108.20:5000/play/a04s/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ealtomayo | 63.7ms" tvg-logo="" group-title="Otros",Ealtomayo | 63.7ms
-http://201.240.108.20:5000/play/a001/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Edx | 61.7ms" tvg-logo="" group-title="Otros",Edx | 61.7ms
-http://201.240.108.20:5000/play/a004/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Edx+ | 62.1ms" tvg-logo="" group-title="Otros",Edx+ | 62.1ms
-http://201.240.108.20:5000/play/a008/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Emusic | 71.3ms" tvg-logo="" group-title="Otros",Emusic | 71.3ms
-http://201.240.108.20:5000/play/a002/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Eros TV | 72.6ms" tvg-logo="" group-title="Otros",Eros TV | 72.6ms
-http://201.240.108.20:5000/play/a03x/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ex | 60.8ms" tvg-logo="" group-title="Otros",Ex | 60.8ms
-http://201.240.108.20:5000/play/a005/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Fmh Mov | 60.3ms" tvg-logo="" group-title="Otros",Fmh Mov | 60.3ms
-http://200.49.243.2:8000/play/a0bv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Fmh Movie 4278 | 60.0ms" tvg-logo="" group-title="Otros",Fmh Movie 4278 | 60.0ms
-http://201.240.108.20:5000/play/a00s/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Fun Box | 57.8ms" tvg-logo="" group-title="Otros",Fun Box | 57.8ms
-http://200.49.243.2:8000/play/a09j/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Guecam TV Caj | 52.1ms" tvg-logo="" group-title="Otros",Guecam TV Caj | 52.1ms
+#EXTINF:-1 tvg-id="" tvg-name="Guecam TV Caj | 55.8ms" tvg-logo="" group-title="Otros",Guecam TV Caj | 55.8ms
 http://38.250.178.205:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Like TV | 60.2ms" tvg-logo="" group-title="Otros",Like TV | 60.2ms
-http://200.49.243.2:8000/play/a07j/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Maxt TV | 68.0ms" tvg-logo="" group-title="Otros",Maxt TV | 68.0ms
+#EXTINF:-1 tvg-id="" tvg-name="Maxt TV | 66.2ms" tvg-logo="" group-title="Otros",Maxt TV | 66.2ms
 http://38.250.178.205:8000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Megatv | 59.1ms" tvg-logo="" group-title="Otros",Megatv | 59.1ms
-http://201.240.108.20:5000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abya Yala TV | 50.0ms" tvg-logo="" group-title="Otros",Abya Yala TV | 50.0ms
+http://38.158.233.152:8000/play/a1el/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Oxigeno2 | 58.3ms" tvg-logo="" group-title="Otros",Oxigeno2 | 58.3ms
-http://200.49.243.2:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ae | 80.3ms" tvg-logo="" group-title="Otros",Ae | 80.3ms
+http://190.233.253.199:8000/play/a0bs/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Qosmo TV | 72.5ms" tvg-logo="" group-title="Otros",Qosmo TV | 72.5ms
-http://200.49.243.2:8000/play/a09s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aniretro | 42.3ms" tvg-logo="" group-title="Otros",Aniretro | 42.3ms
+http://179.63.6.212:9030/play/a006
 
-#EXTINF:-1 tvg-id="" tvg-name="Radio Onda Digital | 70.8ms" tvg-logo="" group-title="Otros",Radio Onda Digital | 70.8ms
-http://200.49.243.2:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Artemusa | 66.7ms" tvg-logo="" group-title="Otros",Artemusa | 66.7ms
+http://200.37.201.98:8000/play/a0c5/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Selvatv | 63.7ms" tvg-logo="" group-title="Otros",Selvatv | 63.7ms
-http://201.240.108.20:5000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telenor | 63.3ms" tvg-logo="" group-title="Otros",Telenor | 63.3ms
-http://200.49.243.2:8000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atb | 61.8ms" tvg-logo="" group-title="Otros",Atb | 61.8ms
+http://38.158.233.152:8000/play/a1dq/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Belicas | 37.3ms" tvg-logo="" group-title="Otros",Belicas | 37.3ms
+http://45.173.200.194:5000/play/a0zs/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cable Sur | 38.4ms" tvg-logo="" group-title="Otros",Cable Sur | 38.4ms
+http://45.173.200.194:5000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cadena Internacional | 38.7ms" tvg-logo="" group-title="Otros",Cadena Internacional | 38.7ms
+http://45.173.200.194:5000/play/a0cq/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 | 78.4ms" tvg-logo="" group-title="Otros",Canal 10 | 78.4ms
+http://38.19.16.151:9000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Esa | 68.3ms" tvg-logo="" group-title="Otros",Canal 10 Esa | 68.3ms
+http://38.19.16.151:9000/play/a06l/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Esa | 68.7ms" tvg-logo="" group-title="Otros",Canal 4 Esa | 68.7ms
+http://38.19.16.151:9000/play/a06m/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Cr | 84.2ms" tvg-logo="" group-title="Otros",Canal 7 Cr | 84.2ms
+http://38.19.16.151:9000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canal Vvd | 37.2ms" tvg-logo="" group-title="Otros",Cine Canal Vvd | 37.2ms
+http://45.173.200.194:5000/play/a10r/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canall | 81.9ms" tvg-logo="" group-title="Otros",Cine Canall | 81.9ms
+http://190.233.253.199:8000/play/a0d4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Clasicos 80&90 | 39.9ms" tvg-logo="" group-title="Otros",Clasicos 80&90 | 39.9ms
+http://45.173.200.194:5000/play/a0yl/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ctv | 57.4ms" tvg-logo="" group-title="Otros",Ctv | 57.4ms
+http://38.158.233.152:8000/play/a1e4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cusco TV | 44.8ms" tvg-logo="" group-title="Otros",Cusco TV | 44.8ms
+http://45.173.200.194:5000/play/a0x7/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cvc | 46.7ms" tvg-logo="" group-title="Otros",Cvc | 46.7ms
+http://38.158.233.152:8000/play/a1eo/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="D Sport | 41.6ms" tvg-logo="" group-title="Otros",D Sport | 41.6ms
+http://38.43.150.187:9999/play/a062/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Deco 2 4 Gobal | 91.6ms" tvg-logo="" group-title="Otros",Deco 2 4 Gobal | 91.6ms
+http://38.19.16.151:8000/play/a09f
+
+#EXTINF:-1 tvg-id="" tvg-name="Deco 2 7 Canal D Drama | 59.6ms" tvg-logo="" group-title="Otros",Deco 2 7 Canal D Drama | 59.6ms
+http://38.19.16.151:8000/play/a09i
+
+#EXTINF:-1 tvg-id="" tvg-name="Deco 2 8 Usmp | 76.4ms" tvg-logo="" group-title="Otros",Deco 2 8 Usmp | 76.4ms
+http://38.19.16.151:8000/play/a09j
+
+#EXTINF:-1 tvg-id="" tvg-name="Deco 3 6 Directv | 75.5ms" tvg-logo="" group-title="Otros",Deco 3 6 Directv | 75.5ms
+http://38.19.16.151:8000/play/a0a4
+
+#EXTINF:-1 tvg-id="" tvg-name="Deco 3 7 Directv 2 | 76.9ms" tvg-logo="" group-title="Otros",Deco 3 7 Directv 2 | 76.9ms
+http://38.19.16.151:8000/play/a0a5
+
+#EXTINF:-1 tvg-id="" tvg-name="Directv | 60.0ms" tvg-logo="" group-title="Otros",Directv | 60.0ms
+http://190.233.81.52:8000/play/a0gm/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dreiko TV | 74.8ms" tvg-logo="" group-title="Otros",Dreiko TV | 74.8ms
+http://200.37.201.98:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dtv | 52.3ms" tvg-logo="" group-title="Otros",Dtv | 52.3ms
+http://38.158.233.152:8000/play/a1ek/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="F 10 | 50.2ms" tvg-logo="" group-title="Otros",F 10 | 50.2ms
+http://38.158.233.152:8000/play/a1e2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Cr | 87.0ms" tvg-logo="" group-title="Otros",Fox Cr | 87.0ms
+http://38.19.16.151:9000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Esa | 69.1ms" tvg-logo="" group-title="Otros",Fox Esa | 69.1ms
+http://38.19.16.151:9000/play/a07t/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Gua | 81.8ms" tvg-logo="" group-title="Otros",Fox Gua | 81.8ms
+http://38.19.16.151:9000/play/a07s/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Nic | 74.3ms" tvg-logo="" group-title="Otros",Fox Nic | 74.3ms
+http://38.19.16.151:9000/play/a07w/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Futv Cr | 74.1ms" tvg-logo="" group-title="Otros",Futv Cr | 74.1ms
+http://38.19.16.151:9000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Giga Vision | 52.1ms" tvg-logo="" group-title="Otros",Giga Vision | 52.1ms
+http://38.158.233.152:8000/play/a1eg/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gigavision | 51.8ms" tvg-logo="" group-title="Otros",Gigavision | 51.8ms
+http://38.158.233.152:8000/play/a1hb/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Intv Hindu | 38.7ms" tvg-logo="" group-title="Otros",Intv Hindu | 38.7ms
+http://45.173.200.194:5000/play/a0yu/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Lashmy TV | 54.5ms" tvg-logo="" group-title="Otros",Lashmy TV | 54.5ms
+http://38.158.233.152:8000/play/a1hc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Lurin Directv | 62.4ms" tvg-logo="" group-title="Otros",Lurin Directv | 62.4ms
+http://38.19.16.151:8000/play/a0v7
+
+#EXTINF:-1 tvg-id="" tvg-name="Monitv | 42.2ms" tvg-logo="" group-title="Otros",Monitv | 42.2ms
+http://179.63.6.212:9030/play/a007
+
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo9 Vvd | 42.7ms" tvg-logo="" group-title="Otros",Natgeo9 Vvd | 42.7ms
+http://45.173.200.194:5000/play/a10u/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Novelas Turcas | 46.9ms" tvg-logo="" group-title="Otros",Novelas Turcas | 46.9ms
+http://45.173.200.194:5000/play/a0zr/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Oxapamapa TV | 36.3ms" tvg-logo="" group-title="Otros",Oxapamapa TV | 36.3ms
+http://45.173.200.194:5000/play/a0ym/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Peques TV | 81.9ms" tvg-logo="" group-title="Otros",Peques TV | 81.9ms
+http://190.233.253.199:8000/play/a05s/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Plustlt | 46.1ms" tvg-logo="" group-title="Otros",Plustlt | 46.1ms
+http://38.158.233.152:8000/play/a1ha/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Poder De Dios | 53.6ms" tvg-logo="" group-title="Otros",Poder De Dios | 53.6ms
+http://38.158.233.152:8000/play/a1dv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Purito Huaynos | 48.6ms" tvg-logo="" group-title="Otros",Purito Huaynos | 48.6ms
+http://45.173.200.194:5000/play/a0p0/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Red Advenir | 51.3ms" tvg-logo="" group-title="Otros",Red Advenir | 51.3ms
+http://38.158.233.152:8000/play/a1ds/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Red Advenir TV | 48.6ms" tvg-logo="" group-title="Otros",Red Advenir TV | 48.6ms
+http://38.158.233.152:8000/play/a1dt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Red Uno Lpz | 58.1ms" tvg-logo="" group-title="Otros",Red Uno Lpz | 58.1ms
+http://38.158.233.152:8000/play/a1e0/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Vvd | 41.7ms" tvg-logo="" group-title="Otros",Star Vvd | 41.7ms
+http://45.173.200.194:5000/play/a10t/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="T&C Sport Mundial | 31.9ms" tvg-logo="" group-title="Otros",T&C Sport Mundial | 31.9ms
+http://38.43.150.187:9999/play/a09r/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Td+ Cr | 68.1ms" tvg-logo="" group-title="Otros",Td+ Cr | 68.1ms
+http://38.19.16.151:9000/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Td+2 Cr | 83.5ms" tvg-logo="" group-title="Otros",Td+2 Cr | 83.5ms
+http://38.19.16.151:9000/play/a06o/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Unicanal | 57.5ms" tvg-logo="" group-title="Otros",Unicanal | 57.5ms
+http://190.233.81.52:8000/play/a0go/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Unitel | 41.8ms" tvg-logo="" group-title="Otros",Unitel | 41.8ms
+http://45.173.200.194:5000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vaqueros | 37.4ms" tvg-logo="" group-title="Otros",Vaqueros | 37.4ms
+http://45.173.200.194:5000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Weester | 36.3ms" tvg-logo="" group-title="Otros",Weester | 36.3ms
+http://45.173.200.194:5000/play/a0fg/index.m3u8
