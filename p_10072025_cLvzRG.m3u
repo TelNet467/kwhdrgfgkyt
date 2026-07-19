@@ -11,6 +11,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 53.3ms" tvg-logo="" group-title="Canales Peruanos",Latina | 53.3ms
 http://38.199.6.1:18001/play/a05w/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Latina | 54.2ms" tvg-logo="" group-title="Canales Peruanos",Latina | 54.2ms
+http://38.199.6.1:18001/play/a0v0/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 54.8ms" tvg-logo="" group-title="Canales Peruanos",Latina | 54.8ms
 http://179.63.6.212:9000/play/a00f
 
